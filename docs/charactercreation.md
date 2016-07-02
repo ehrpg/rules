@@ -104,6 +104,8 @@ impacted, or even unconscious.
 
 A character's hit points are calculated by adding the ranks of constitution and
 strength to 25.
+HP = <span data-bracket-bottom="base">25</span> <span data-bracket-top="rank">+ CON</span> <span data-bracket-bottom="rank">+ STR</span>
+
 
 ## Speed
 
