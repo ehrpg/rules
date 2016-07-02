@@ -4,6 +4,7 @@ site_author: "@n0la, @johannes-z"
 dev_addr: 0.0.0.0:8000
 
 theme: readthedocs
+extra_css: [extra.css]
 
 pages:
 - Introduction: 'index.md'
