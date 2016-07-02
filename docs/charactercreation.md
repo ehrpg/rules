@@ -105,6 +105,10 @@ impacted, or even unconscious.
 A character's hit points are calculated by adding the ranks of constitution and
 strength to 25.
 
+<div class="formula formula-top formula-bottom">
+HP = <span data-bracket-bottom="base">25</span> <span data-bracket-top="rank">+ CON</span> <span data-bracket-bottom="rank">+ STR</span>
+</div>
+
 ## Speed
 
 Speed is the amount of movement your character can do as part of action. It

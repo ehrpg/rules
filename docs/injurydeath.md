@@ -6,15 +6,17 @@ hit points are positive your character is not hindered in any way. If you
 go below zero you have to roll to determine whether you stay conscious. The
 difficulty for this task is:
 
-```
-DC = 5 + Number of hit points beneath 1
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-bottom="base">5</span>
+<span data-bracket-top="HP lost">+ hp</span>
+</div>
 
 against:
 
-```
-1d10 = CON (modifier) + STR (modifier)
-```
+<div class="formula formula-top formula-bottom">
+1d10 = <span data-bracket-bottom="modifier">CON</span>
+<span data-bracket-top="modifier">+ STR</span>
+</div>
 
 You may add effort to this roll to stay awake.
 
@@ -35,9 +37,11 @@ Someone who is trained in _Medicine_ can speed up this healing process.
 First roll to _diagnose_ the patient and then to _treat_ the wounds.
 The DC is as followed:
 
-```
-DC = 5 + (HP lost / 2)
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-bottom="base">5</span>
+<span data-bracket-top="HP lost">+
+ <sup>hp</sup>&frasl;<sub>2</sub></span>
+</div>
 
 If the diagnose check is successful any difference can be added to the treatment
 roll as a bonus. If the diagnose check was unsuccessful any difference is
@@ -52,9 +56,10 @@ hours of work, and thus cannot be done again on the same day.
 A character is who is trained in _first aid_ can do the same, but the DC is
 is more difficult:
 
-```
-DC = 5 + HP lost
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-bottom="base">5</span>
+<span data-bracket-top="HP lost">+ hp</span>
+</div>
 
 # Wounds
 
@@ -87,18 +92,19 @@ check to see if you gain a bonus to your treatment dice (just as described in
 _Recovering Hit Points_). If the check succeeds one wound is cured, and
 thus one maximum HP is restored.
 
-```
-DC = Wound points suffered
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-top="Wound points suffered">wounds</span>
+</div>
 
 Wounds cannot be cured naturally over time, and either require specialised
 equipment or others to diagnose and treat you. A character can try to diagnose
 and treat himself, although he gains a +2 penalty to such checks. The DC is
 thus:
 
-```
-DC = (Wound points suffered) + 2 (penalty for self treatment)
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-top="Wound points suffered">wounds</span>
+<span data-bracket-bottom="penalty for self treatment">+ 2</span>
+</div>
 
 ## Major Wounds
 
@@ -112,9 +118,10 @@ you have suffered a _fatal wound_. For every day your maximum hit points is
 reduced below one quarter, you must make a constitution score against half
 the wound total. If you fail you gain another wound point.
 
-```
-DC = (Wound points suffered / 2)
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-top="Wound points suffered">
+<sup>wounds</sup>&frasl;<sub>2</sub></span>
+</div>
 
 ## Wounding Effects
 
