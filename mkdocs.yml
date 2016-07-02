@@ -6,8 +6,7 @@ dev_addr: 0.0.0.0:8000
 theme: readthedocs
 
 pages:
-- 'index.md'
-- 'introduction.md'
+- Introduction: 'index.md'
 - Character Creation: 'charactercreation.md'
 - Checks and Difficulties: 'checks.md'
 - 'skills.md'
