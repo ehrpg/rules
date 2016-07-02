@@ -102,8 +102,8 @@ and treat himself, although he gains a +2 penalty to such checks. The DC is
 thus:
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="Wound points suffered">wounds</span>
-<span data-bracket-bottom="penalty for self treatment">+ 2</span>
+DC = <span data-bracket-bottom="Wound points suffered">wounds</span>
+<span data-bracket-top="penalty for self treatment">+ 2</span>
 </div>
 
 ## Major Wounds
@@ -119,7 +119,7 @@ reduced below one quarter, you must make a constitution score against half
 the wound total. If you fail you gain another wound point.
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="Wound points suffered">
+DC = <span data-bracket-bottom="Wound points suffered">
 <sup>wounds</sup>&frasl;<sub>2</sub></span>
 </div>
 
