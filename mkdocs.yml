@@ -1,0 +1,22 @@
+site_name: Endless Horizons - RPG
+repo_url: https://github.com/ehrpg
+site_author: "@n0la, @johannes-z"
+dev_addr: 0.0.0.0:8000
+
+theme: readthedocs
+
+pages:
+- 'index.md'
+- 'introduction.md'
+- Character Creation: 'charactercreation.md'
+- Checks and Difficulties: 'checks.md'
+- 'skills.md'
+- 'perks.md'
+- 'backgrounds.md'
+- 'combat.md'
+- Injury and Death: 'injurydeath.md'
+- Social Interactions: 'socialinteractions.md'
+- 'vessels.md'
+- Vessel Combat: 'vesselcombat.md'
+- 'equipment.md'
+
