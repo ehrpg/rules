@@ -377,7 +377,7 @@ determined as following:
 DC = <span data-bracket-bottom="base">5</span>
 <span data-bracket-top="range">+ 8</span>
 <span data-bracket-bottom="low light">+ 1</span>
-<span data-bracket-bottom="stance">- 1</span>
+<span data-bracket-top="stance">- 1</span>
 = 13
 </div>
 
@@ -387,7 +387,7 @@ The player rolls the following:
 1d10 = <span data-bracket-bottom="roll">8</span>
 <span data-bracket-top="dexterity">+ 1</span>
 <span data-bracket-bottom="perception">+ 1</span>
-<span data-bracket-bottom="skill">+ 3</span>
+<span data-bracket-top="skill">+ 3</span>
 = 13
 </div>
 

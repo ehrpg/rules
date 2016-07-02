@@ -120,15 +120,21 @@ before.  The captain has already formulated a plan. She addresses a speech at
 his crew detailing the plan and trying to boost morale. The DC is as
 followed:
 
-```
-DC = 5 + 3 (Morale) = 8
-```
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-bottom="base">5</span>
+<span data-bracket-top="morale">+ 3</span>
+= 8
+</div>
 
 The captain has _Oratory_ at rank 5, and 6 charisma:
 
-```
-1d10 = 6 + 5 (Skill) + 1 (Charisma) - 2 (Morale) = 10
-```
+<div class="formula formula-top formula-bottom">
+1d10 = <span data-bracket-bottom="roll">6</span>
+<span data-bracket-top="skill">+ 5</span>
+<span data-bracket-bottom="charisma">+ 1</span>
+<span data-bracket-top="morale">- 2</span>
+= 10
+</div>
 
 She succeeds and the game master degrees that the morale is lessed to -2 for
 the entire crew.
