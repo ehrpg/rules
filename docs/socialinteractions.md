@@ -67,7 +67,7 @@ The game represents morale and motivation as a single game statistic for each
 character that is added to all roles the players make. It can be negative
 (representing loss of morale or motivation), zero (no strong feelings one way
 or the other) or positive (motivation to succeed). The morale bonus is
-controlled by the \emph{game master} and can be determined from many
+controlled by the game master and can be determined from many
 different sources.
 
 Values should range between _minus ten_ (-10) and _plus ten_ (+10),
@@ -84,6 +84,23 @@ with no hope for rescue and resources left for just a few hours. The
 game master decrees that a -4 penalty is appropriate for the situation. After
 repairing the emergency distress signal they are contacted by a rescue party
 and the game master decides that the morale has been restored and is now at +1.
+
+## Affecting Morale
+
+Tragic events, such as the death or serious injury of a friend or comrade can
+leave morale permanently reduced or lowered. So can prolonged exposure to
+life threatening situations, such as combat or living in hostile environment.
+Being on the losing side in a battle or siege against insurmountable odds,
+can also be devastating for the morale.
+
+On the other hand, time off from the frontier, a visit back home or a good
+night out with friends can increase morale. A battle where the other side is
+already retreating and very few casualties have been sustained, can also be
+a great boost for morale.
+
+It is always up to the game master to determine the morale of the group or
+enemies. A game master may also forgo to use the morale system at all in his
+campaign.
 
 ## Influencing Morale
 
