@@ -372,15 +372,24 @@ of +2 for from low light conditions. The player as a dexterity and perception
 modifier of +1, and three ranks in the appropriate skill. The difficulty is
 determined as following:
 
-```
-DC = 5 + 8 (range) + 1 (low light) - 1 (stance) = 13
-```
+
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-bottom="base">5</span>
+<span data-bracket-top="range">+ 8</span>
+<span data-bracket-bottom="low light">+ 1</span>
+<span data-bracket-bottom="stance">- 1</span>
+= 13
+</div>
 
 The player rolls the following:
 
-```
-1d10 = 8 + 1 (dexterity) + 1 (perception) + 3 (skill) = 13
-```
+<div class="formula formula-top formula-bottom">
+1d10 = <span data-bracket-bottom="roll">8</span>
+<span data-bracket-top="dexterity">+ 1</span>
+<span data-bracket-bottom="perception">+ 1</span>
+<span data-bracket-bottom="skill">+ 3</span>
+= 13
+</div>
 
 And scores one hit. The other two of his bullets miss.
 
