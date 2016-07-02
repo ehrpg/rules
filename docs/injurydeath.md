@@ -39,7 +39,8 @@ The DC is as followed:
 
 <div class="formula formula-top formula-bottom">
 DC = <span data-bracket-bottom="base">5</span>
-<span data-bracket-top="HP lost">+ hp&#8260;2</span>
+<span data-bracket-top="HP lost">+
+ <sup>hp</sup>&frasl;<sub>2</sub></span>
 </div>
 
 If the diagnose check is successful any difference can be added to the treatment
@@ -92,7 +93,7 @@ _Recovering Hit Points_). If the check succeeds one wound is cured, and
 thus one maximum HP is restored.
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="Wound points suffered">+ wounds</span>
+DC = <span data-bracket-top="Wound points suffered">wounds</span>
 </div>
 
 Wounds cannot be cured naturally over time, and either require specialised
@@ -101,8 +102,8 @@ and treat himself, although he gains a +2 penalty to such checks. The DC is
 thus:
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="Wound points suffered">+ wounds</span>
-<span data-bracket-top="penalty for self treatment">+ 2</span>
+DC = <span data-bracket-top="Wound points suffered">wounds</span>
+<span data-bracket-bottom="penalty for self treatment">+ 2</span>
 </div>
 
 ## Major Wounds
@@ -118,7 +119,8 @@ reduced below one quarter, you must make a constitution score against half
 the wound total. If you fail you gain another wound point.
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="Wound points suffered">+ wounds&#8260;2 </span>
+DC = <span data-bracket-top="Wound points suffered">
+<sup>wounds</sup>&frasl;<sub>2</sub></span>
 </div>
 
 ## Wounding Effects
