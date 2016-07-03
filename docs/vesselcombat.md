@@ -86,10 +86,13 @@ usually creates some secondary effect, for example explosions that damage the cr
 
 You can also try to attack a specific submodule of a ship, instead of rolling for the location
 on the vessel's table. This implies a penalty that's dependent on the modules size.
+The left outer column is specifies the attack, while the top row specifies the target.
+F.e., if a small vessel were to attack a capital vessel, it would impose a -4 on the DC. 
+On the other hand, a large vessel attacking a small vessel would raise the DC by +6.
 
-| Size    | Penalty |
-| ------- | ------- |
-| Small   | -1      |
-| Medium  | -2      |
-| Large   | -4      |
-| Capital | -8      |
+|         | small | medium | large | capital |
+| ------- | ----- | ------ | ----- | ------- |
+| small   | +2    | 0      | -2    | -4      |
+| medium  | +4    | +2     | 0     | -2      |
+| large   | +6    | +4     | +2    | 0       |
+| capital | +8    | +6     | +4    | +2      |
