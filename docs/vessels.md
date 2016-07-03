@@ -138,6 +138,23 @@ vessel.
 This page only describes the given modules in detail. See _Vessel Equipment_ for
 lists and tables detailing the specific modules and their variations.
 
+## Module Properties
+
+Each module has its own hit points. It is possible to target a specific module
+with concentrated fire. In case a hit is successful the hit points of the
+module is used instead of the HP of the ship. Shields and armour however protect
+the entire ship, including all of the modules and therefore applies to all
+modules.
+
+Some modules list requirements of other modules, most often to specific power
+cores. The module will not work unless all of its requirements are met. If a
+requirement is missing, or becomes damaged and no longer functions, the module
+will no longer work.
+
+Specific modules also come with their own set of properties, such as weapons
+that will specify their damage, range and reload speed among other things. See
+the chapter on _Vehicle Equipment_ for tables and lists of specific modules.
+
 ## Sublight Engines
 
 Sublight engines are used to manoeuvre the vessel by simply accelerating it
