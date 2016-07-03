@@ -1,15 +1,17 @@
 # Dogfights
 
-Dogfights make up most of the space and air combat. In this scenario, a pilot is up against one more other pilots. 
-Range has no impact on the difficulty of the checks involved.
+Dogfights make up most of the space and air combat. In this scenario, a pilot
+is up against one more other pilots.  Range has no impact on the difficulty of
+the checks involved.
 
 ## Targeting
 
-A pilot has to compete with another pilot using the respective piloting skill of the craft they are using.
-The enemy rolls a piloting check to determine the DC.
+A pilot has to compete with another pilot using the respective piloting skill
+and speed of the craft they are using.  The enemy rolls a piloting check and
+adds his speed to determine the DC:
 
 <div class="formula formula-top formula-bottom">
-DC = 1d10 = 
+DC = 1d10 =
 <span data-bracket-bottom="roll">6</span>
 <span data-bracket-top="enemy piloting skill">+ 2</span>
 <span data-bracket-bottom="speed">+ 4</span>
@@ -19,7 +21,7 @@ DC = 1d10 =
 This is the DC the attacker has to beat with his piloting check.
 
 <div class="formula formula-top formula-bottom">
-1d10 = 
+1d10 =
 <span data-bracket-bottom="roll">4</span>
 <span data-bracket-top="piloting skill">+ 1</span>
 <span data-bracket-bottom="speed">+ 4</span>
@@ -27,24 +29,29 @@ This is the DC the attacker has to beat with his piloting check.
 = 14
 </div>
 
-The attacker would normally not be able to hit his target, but the player used effort to make the shot happen.
-At this point, the attacker can either fire one of his weapons and hit the enemy, or lock on the target for 
-his guided missile system, if any.
+The attacker would normally not be able to hit his target, but the player used
+effort to make the shot happen.  At this point, the attacker can either fire
+one of his weapons and hit the enemy, or lock on the target for his guided
+missile system, if any.
 
-For turrets on larger ships, or weapon batteries, instead of using the piloting skill you use the according
-weapon skill instead, namely heavy weapons.
+For turrets on larger ships, or weapon batteries, instead of using the
+piloting skill you use the according weapon skill instead, namely heavy
+weapons.
 
 # Long Distance Fights
 
-In space distances can be very vast between vessel. The difficulty to hit another vessel over longer distances
-is defined by the overall distance and the speed of the vessel. Vessels that are outside of the effective range
-of a weapon can't be hit with this specific weapon, as the travel time of the projectile would require to much 
-time, making it very easy for the other vessel to dodge the oncoming threat. The attacker uses his heavy weapons
-skill for attacking an enemy. If the attacker is the pilot (for example of a one-man fighter craft), he can use
-either the heavy weapons skill or the piloting skill, which ever is higher.
+In space distances can be very vast between vessel. The difficulty to hit
+another vessel over longer distances is defined by the overall distance and
+the speed of the vessel. Vessels that are outside of the effective range of a
+weapon can't be hit with this specific weapon, as the travel time of the
+projectile would require to much time, making it very easy for the other
+vessel to dodge the oncoming threat. The attacker uses his heavy weapons skill
+for attacking an enemy. If the attacker is the pilot (for example of a one-man
+fighter craft), he can use either the heavy weapons skill or the piloting
+skill, which ever is higher.
 
 <div class="formula formula-top formula-bottom">
-DC = 
+DC =
 <span data-bracket-bottom="base">5</span>
 <span data-bracket-top="range">+ 6</span>
 <span data-bracket-bottom="speed">- 2</span>
@@ -55,7 +62,7 @@ DC =
 The attacker rolls:
 
 <div class="formula formula-top formula-bottom">
-1d10 = 
+1d10 =
 <span data-bracket-bottom="roll">7</span>
 <span data-bracket-top="piloting skill">+ 3</span>
 = 10
@@ -63,32 +70,60 @@ The attacker rolls:
 
 The attacker would miss his target, because of the high distance involved.
 
+If the attacker hits, he has now two options: Dodge the attack, or in some
+cases use defensive measures (such as point defence) to negate the attack.
+
 # Point Defence
 
-The point defence of a ship can be used to destroy small vessels or missiles that are to close. At these distances,
-range has no impact on the hit difficulty anymore. A fighter pilot may use his piloting skill to dodge the point defence,
-while smart missiles can use their attack modifier in place of a piloting skill.
+The point defence of a ship can be used to destroy small vessels or missiles
+that are to close. At these distances, range has no impact on the hit
+difficulty anymore. A fighter pilot may use his piloting skill to dodge the
+point defence. To destroy an incoming missile the pilot must hit the missile,
+by pitting an attack with the point defence against the missiles attack. If
+the pilot succeeds the missile is destroyed.
+
+# Dodging in space
+
+To dodge an attack or targeting missle in space, the pilot pits his piloting
+skill and the speed of his vessel against the attack. Just like normal _melee
+combat_ me may use his reaction to dodge, without incurring a penalty. If he
+is out of actions for this turn, the pilot can still dodge but incurs a
+cumulative -2 penalty for each additional dodge attempt.
+
+# Missiles
+
+Tracking missiles are treated as pilots, as their targeting AI is used to
+steer the missle to its target. To dodge a missile, a pilot pits his piloting
+skill and his vessel's speed, against the missile's speed and piloting skill.
+
+Most missiles, if evaded, will make a u-turn and attack one more in the next
+combat round. Unless otherwise specified, the missile is considered out of
+fuel after its second attack has failed again.
 
 # Dealing Damage
 
-After determining if you hit your target, you can deal damage to the enemy. 
-If the enemy has shields, the shield value is lowered by the damage dealt. If the damage
-does not exceed the shields value, you do not have to roll which module is hit. Also, if 
-the enemies armour value is greater than the damage you would deal, no damage is dealt 
-instead. Additionally, weapons that can't penetrate a certain armour type won't deal
-any damage either.
-If the enemy has no shields, or the shields get depleted by a single attack, roll 2d6,
-to determine the location hit on the enemies vessel.
+After determining if you hit your target, you can deal damage to the enemy.
+If the enemy has shields, the shield value is lowered by the damage dealt. If
+the damage does not exceed the shields value, you do not have to roll which
+module is hit. Also, if the enemies armour value is greater than the damage
+you would deal, no damage is dealt instead. Additionally, weapons that can't
+penetrate a certain armour type won't deal any damage either.
+If, after shields and armour, there is still damage left, roll the appropriate
+dice to determine the location you have it the vessel. See the list of vessels,
+for details on what dice to roll and for a look up table on where you have
+hit the vessel.
 
-Damage for modules is tracked separately from the vessel. While lowering a vessel to 0 HP
-disables it or destroys it at -HP, the same applies to modules, although destroying a module
-usually creates some secondary effect, for example explosions that damage the crew and the ship.
+Damage for modules is tracked separately from the vessel. While lowering a
+vessel to 0 HP disables it or destroys it at negative maximum HP, the same
+may apply to modules. See the list below on what happens if you damage a
+specific module.
 
-You can also try to attack a specific sub module of a ship, instead of rolling for the location
-on the vessel's table. This implies a penalty that's dependent on the modules size.
-The left outer column is specifies the attack, while the top row specifies the target.
-F.e., if a small vessel were to attack a capital vessel, it would impose a -4 on the DC. 
-On the other hand, a large vessel attacking a small vessel would raise the DC by +6.
+You can also try to attack a specific sub module of a ship, instead of rolling
+for the location on the vessel's table. This implies a penalty that's
+dependent on the modules size.  The left outer column is specifies the attack,
+while the top row specifies the target.  F.e., if a small vessel were to
+attack a capital vessel, it would impose a -4 on the DC.  On the other hand, a
+large vessel attacking a small vessel would raise the DC by +6.
 
 |         | small | medium | large | capital |
 | ------- | ----- | ------ | ----- | ------- |
