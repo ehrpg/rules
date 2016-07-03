@@ -1,6 +1,6 @@
 [data-bracket-bottom] {
   display: inline-block;
-  vertical-align: bottom;
+  vertical-align: top;
   position: relative;
   margin-bottom: 10px
 }
@@ -10,13 +10,13 @@
   display: block;
   height: 6px;
   border: 2px solid black;
-  border-bottom: none;
+  border-top: none;
 }
 
 [data-bracket-bottom]:before {
   content: attr(data-bracket-bottom);
   position: absolute;
-  bottom: 100%;
+  top: 100%;
   font-size: 80%;
   padding: 5px;
   white-space: nowrap;
@@ -36,10 +36,10 @@
   height: 6px;
   border: 2px solid black;
   position: absolute;
-  top: 100%;
+  bottom: 100%;
   left:0;
   right:0;
-  border-top: none;
+  border-bottom: none;
 }
 
 [data-bracket-top]:after {
@@ -52,6 +52,7 @@
   left: 50%;
   transform: translateX(-50%)
 }
+
 
 .formula {
   text-align: center;
