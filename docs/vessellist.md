@@ -116,16 +116,17 @@ certainly lie in space combat.
 - Crew: 1
 - HP: 30
 - Weight: 40 Tons
-- Speed: 8
+- Speed: 2
 - Fuel Capacity: 5
 - Cargo: 2 tons
 - Armour: Small Armour MK II
 - Shields: Small Shield Generator MK II
-- Modules (Small): Sublight Engine MK II, 2x Battery MK II, 40x Vikr MK I,
+- Modules (Small): Sublight Engine MK II, 2x Battery MK II, 20x Vikr MK I,
 Small Sensor Array MK III, Small Power Core MK III
 
-The hercules is a heavy fighter outfittet with guided missiles to take down even larger
-enemy vessels. It makes up for its lack in utility in raw fire power.
+The hercules is a heavy fighter outfittet with guided missiles to take
+down even larger enemy vessels. It makes up for its lack in utility in
+raw fire power.
 
 ### Hit Array
 
