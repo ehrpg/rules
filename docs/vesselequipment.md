@@ -95,5 +95,40 @@ are empty, they have to be manually reloaded.
 | PD MK III       | 8   | Piercing  | 10mm    | 600m   | 1 act. | Small Vessel, Small Power Core MK III | 15 Burst |  6000
 | Launcher MK I   | -   | Explosion | Missile | -      | 1 rnd. | Small Vessel, Small Power Core MK I   |          |  5000
 | Launcher MK II  | -   | Explosion | Missile | -      | 2 act. | Small Vessel, Small Power Core MK II  |          | 10000
-| Battery MK I    | -   | Explosion | 10 x Missile | - | -      | Small Vessel, Small Power Core MK I   | No reload|  6000
-| Battery MK II   | -   | Explosion | 20 x Missile | - | -      | Small Vessel, Small Power Core MK II  | No reload| 12000
+| Battery MK I    | -   | Explosion |  5 x Missile | - | -      | Small Vessel, Small Power Core MK I   | No reload|  3000
+| Battery MK II   | -   | Explosion | 10 x Missile | - | -      | Small Vessel, Small Power Core MK II  | No reload|  6000
+
+# Ammunition
+
+## Rail gun and PD
+
+Standard 30mm rail gun ammunition costs 300 credits for a crate of 100
+projectiles.
+
+The 10mm projectiles for standard point defence and Gatling guns costs
+200 credits for a box 1000 rounds of ammunition. Generally the ammunition
+for point defence comes in such huge boxes, that the players usually do
+not have to worry about running out of ammo.
+
+## Missiles
+
+Missiles have to be bought separately and have to be stored in cargo.
+Launchers automatically reload from cargo space, and batteries have to
+be loaded prior to flight.
+
+Dumb fire rockets cannot manoeuvre, and the pilot has to make one attack
+role to see if his dumb fire rockets hit. Tracking missiles can reengage
+their targets, tracking them across long distances.
+
+| Name        | Dmg  | Speed | Range   | Special    | Cost   | Weight
+|-------------|--------------|---------|------------|--------|-------------
+| Burya MK I  | 10   | 6     | 60km    | Dumb fire  |  500   | 100 kg
+| Burya MK II | 20   | 6     | 80km    | Dumb fire  |  800   | 120 kg
+| Vikr MK I   | 20   | 5     | 120km   | Tracking   | 4000   | 150 kg
+| Vikr MK II  | 30   | 5     | 200km   | Tracking   | 6000   | 210 kg
+
+# Fuel
+
+Fuel comes in kilograms and is usually stored in cargo of the vessel
+and is directly taken from there to fuel the power core. One kilogram
+of fuel costs 2 credits and can be bought at most stations.
