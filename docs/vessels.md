@@ -46,8 +46,8 @@ at zero, any incoming damage is done normally to the vessel.
 
 Each vessel might optionally have module slots. These module slots can be used
 to add additional capabilities to the vessel, such as FTL drives, weapons or
-shields. It always depends on the vessel whether how many module slots exist,
-and if they can be exchanged and upgraded.
+shields. It always depends on the vessel how many module slots exist, and 
+whether they can be exchanged and upgraded.
 
 ## Crew and Passengers
 
@@ -56,7 +56,7 @@ vehicle efficiently. Such as modern tanks may require a driver, a gunner and
 a commander to operate and maximum efficiency. If a certain amount of crew is
 required to operate the vehicle, it is listed in the description of the vehicle.
 
-Passengers are always optional, but many vehicles allow you bring additional
+Passengers are always optional, but many vehicles allow you to bring additional
 personnel along for the ride.
 
 ## Rooms
