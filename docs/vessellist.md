@@ -74,3 +74,33 @@ mounted heavy machine guns on each side.
 | 8, 9     | Cock Pit
 | 10, 11   | Sensor Array MK I
 | 12       | Rear Rotor
+
+
+## Cobra MK-II
+
+- Size: Small
+- Type: Air, Space
+- Crew: 1
+- HP: 20
+- Weight: 20 Tons
+- Speed: 8
+- Fuel Capacity: 40
+- Cargo: 500 kg
+- Armour: Small Armour MK I
+- Shields: None
+- Modules (Small): Sublight Engine MK II, 2x PD MK II, Launcher MK II,
+Small Sensor Array MK II, Small Power Core MK II
+
+
+
+### Hit Array
+
+| 2d6      | Module
+|----------|--------
+| 2        | Sublight Engine MK II
+| 3, 4     | Small Sensor Array
+| 5, 6     | Hull
+| 7, 8     | Cockpit
+| 9, 10    | PD MK II
+| 11       | Launcher MK II
+| 12       | Power Core MK II
