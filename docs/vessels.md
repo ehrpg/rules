@@ -59,6 +59,27 @@ required to operate the vehicle, it is listed in the description of the vehicle.
 Passengers are always optional, but many vehicles allow you bring additional
 personnel along for the ride.
 
+## Rooms
+
+Bigger vessels may even offer specific rooms, such as crew quarters, medical
+rooms, engineering quarters or docking bays for other vessels. Since ships are
+built by large shipyards most ships of one specific type come with the same
+layout. Specific layouts are possible, but usually cost extra.
+
+## Docking bays
+
+Larger vessels, medium and above, also sometimes come with a docking bays.
+Docking bays house smaller vessels (usually just small vessels). See the ship
+details on how many small vessels the ship is capable of housing and operating.
+A docking bay also often comes with all necessary equipment to maintain the
+smaller vessel, such as repair and refuiling stations.
+
+## Cargo Bays
+
+Cargo bays do just what they say on the tin: Carry and hold cargo. It is
+specified in the ship's detailed list on how much cargo the ship is capable of
+carrying.
+
 ## Speed
 
 The speed factor describes how nimble the aircraft is. For most small vessels
@@ -164,6 +185,13 @@ in space do not automatically mean they also operate in an atmosphere.
 
 For a driven vehicle the "sublight engines" are simply the motors, engines and
 gear boxes required for the vehicle to operate.
+
+## Life Support Systems
+
+Life support systems are responsible for producing everything that is required
+to keep the crew alive. They range from oxygen, water and waste recyclers, to
+crew quarters, and food processors. Any stasis chambers (such as cryo-chambers)
+are also part of the life support systems.
 
 ## Power Cores
 
