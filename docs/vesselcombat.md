@@ -69,3 +69,27 @@ The point defense of a ship can be used to destroy small vessels or missiles tha
 range has no impact on the hit difficulty anymore. A fighter pilot may use his piloting skill to dodge the point defense,
 while smart missiles can use their attack modifier in place of a piloting skill.
 
+# Dealing Damage
+
+After determining if you hit your target, you can deal damage to the enemy. 
+If the enemy has shields, the shield value is lowered by the damage dealt. If the damage
+does not exist the shields value, you do not have to roll which module is hit. Also, if 
+the enemies armour value is greater than the damage you would deal, no damage is dealt 
+instead. Additionally, weapons that can't penetrate a certain armour type won't deal
+any damage too.
+If the enemy has no shields, or the shields get depleted by a single attack, roll 2d6,
+to determine the location hit on the enemys vessel.
+
+Damage for modules is tracked seperately from the vessel. While lowering a vessel to 0 HP
+disables it or destroys it at -HP, the same applies to modules, although destroying a module
+usually creates some secondary effect, for example explosions that damage the crew and the ship.
+
+You can also try to attack a specific submodule of a ship, instead of rolling for the location
+on the vessel's table. This implies a penalty that's dependent on the modules size.
+
+| Size    | Penalty |
+| ------- | ------- |
+| Small   | -1      |
+| Medium  | -2      |
+| Large   | -4      |
+| Capital | -8      |
