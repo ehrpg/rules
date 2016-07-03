@@ -32,9 +32,15 @@ Each vessel may optionally have armour. This armour will always reduce incoming
 damage by that amount. Unlike armour of characters, it will never be depleted.
 
 Even the smallest Vehicle armour can stop all small arms fire, except from very
-high calibres such as the .50 BMG, the 12.7x108 or above. Anti vehcile weapons
-are also highly affective against vehicles with armour, such as RPGs or special
+high calibres such as the .50 BMG, the 12.7x108 or above. Anti vehicle weapons
+are also highly effective against vehicles with armour, such as RPGs or special
 high calibre anti material rifles.
+
+## Shield
+
+Some vehicles come with a shield. This shield gives a given amount of points,
+which in case of incoming damage, is always reduced first. Once the shield is
+at zero, any incoming damage is done normally to the vessel.
 
 ## Modules
 
@@ -120,3 +126,117 @@ their presence alone is often enough to scare enemies into submission.
 A special kind of capital vessel that is not used for combat is the colony ship.
 It houses everything required to send people to a new planet for terraforming
 and colonisation.
+
+# Modules
+
+Vessel modules come in the same sizes as the vessels, and are only compatible
+with the vessels of the same size category. Since medium vessels have more power
+requirements as a small one, a small power core will not be enough to operate
+a medium vessel. Also, a medium power core will simply not fit into a small
+vessel.
+
+This page only describes the given modules in detail. See _Vessel Equipment_ for
+lists and tables detailing the specific modules and their variations.
+
+## Sublight Engines
+
+Sublight engines are used to manoeuvre the vessel by simply accelerating it
+to some speed below the speed of light. If a vessel has the type _space_ the
+engines can also be used to move the vessel in space. Engines that operate
+in space do not automatically mean they also operate in an atmosphere.
+
+For a driven vehicle the "sublight engines" are simply the motors, engines and
+gear boxes required for the vehicle to operate.
+
+## Power Cores
+
+Power cores, or reactors are responsible for giving the vehicle enough power
+to operate systems and other modules. They range from small car batteries, up
+to large reactors on large capital vessels. Without them the vehicle usually
+does not operate, and they thus considered a critical part of the vessel.
+
+## Shield Generators
+
+Shield generates are responsible for generating a protective shield around the
+vessel to soak up incoming damage. A shield generator has a power requirement,
+usually a special type of power generator that is required to operate the
+shield. The shield points define how much damage the shield will soak up before
+it collapses, and the recharge rate determines how much shield is regenerated
+per round.
+
+## Sensor array
+
+The sensor array provides communications, sub light sensors (such as radar) and
+other means of communications such as SOS beacons. It can also be used to scan
+for other ships, planet or distress beacons and is needed to plot course for FTL
+drives.
+
+## Hull
+
+The hull is the name for the various parts of the ship that covers things such
+as rooms, or other modules. It is no specific part, but just keeps the ship
+together in one piece.
+
+## Bridge or Cockpit
+
+The bridge in larger vessels, or cockpit in smaller ones, houses all the
+controls required for the pilot (or pilots) to operate and fly the vehicle.
+On spaceships it is often hidden somewhere inside with the pilot being provided
+visual link and feed to see where he or she is going. On land and air vehicles
+it is often directly accessible from the outside.
+
+## Weapons
+
+Weapons are usually directly mounted onto the vessel. They are either controlled
+by the pilot directly, by a gunner or on larger vessels by an AI. To aim and
+fire vessel weapons the skill _Heavy Weapons_ is used.
+
+There are a wide variety of weapons available for vessels:
+
+- _Dumb fire rockets_: Rockets that just fly straight. The skill _Heavy Weapons_
+is used to fire and hit with these rockets.
+- _Missiles_: Rockets and missiles that have some sort of targeting system. They
+have their own _piloting_ and _speed_ skills that determines if they hit their
+target or not.
+- _Rail guns_: Large batteries that accelerate mass using a magnetic field. They
+are the most common type of weapons for ship to ship combat.
+- _Point Defence_: Often multiple batteries of Gatling guns that are used to
+fire at missiles, or ships at very close ranges.
+- _Canons_: Large canons that fire huge projectiles, such as the canons on
+tanks, and anti-infantry vehicles.
+
+All of these weapons require ammunition and power to operate. See the detailed
+list and tables of _Vessel Equipment_ for available weapons.
+
+## FTL Drives
+
+FTL drives allow the vessel to go faster than light in various ways. There are
+multiple drives available, each with their own benefits and disadvantages.
+
+### Hyperspace
+
+TODO
+
+### Warp
+
+TODO
+
+### Wormhole
+
+The wormhole drive is fastest among the FTL drives, and allows near instant
+transportation between two points. It however does not fit onto small vessels.
+Opening and maintaining a stable wormhole requires huge amounts of power.
+
+Once the wormhole is opened the travel only goes one way (from the point the
+hole has been opened). As long as the wormhole is open ships can fly through it,
+although once the ship has flown through that has opened the wormhole, it
+collapses.
+
+Things that do not actively steer through the wormhole will exit it at a random
+point in space and are considered lost in space.
+
+Opening a wormhole near an object with a huge amount of mass (such as a planet,
+sun, or moon) is not possible.
+
+Many large colonies usually operate a wormhole station that can be used, for a
+fee, to fly to other large colonies nearly instantly.
