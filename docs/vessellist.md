@@ -5,7 +5,8 @@
 - Size: Small
 - Type: Land
 - Crew: 2
-- HP: 30
+- HP: 25
+- Module HP: 10
 - Weight: 30 Tons
 - Speed: 2
 - Fuel Capacity: 70
@@ -44,6 +45,7 @@ gunner.
 - Type: Air
 - Crew: 2
 - HP: 20
+- Module HP: 10
 - Passengers: 10
 - Weight: 15 tons
 - Speed: 6
@@ -91,8 +93,8 @@ mounted heavy machine guns on each side.
 - Modules (Small): Sublight Engine MK II, 2x PD MK II, Launcher MK II,
 Small Sensor Array MK II, Small Power Core MK II
 
-The Cobra MK-II is a small fighter that is used on larger vessels for 
-bomber and point defense. It's very fast and rapidly deployable, 
+The Cobra MK-II is a small fighter that is used on larger vessels for
+bomber and point defense. It's very fast and rapidly deployable,
 making it an optimal choice to outfit a fighter wing. Its aero-dynamic
 design also allows for atmospheric flight, although its strengths
 certainly lie in space combat.
@@ -115,6 +117,7 @@ certainly lie in space combat.
 - Type: Space
 - Crew: 1
 - HP: 30
+- Module HP: 15
 - Weight: 40 Tons
 - Speed: 2
 - Fuel Capacity: 5
