@@ -7,9 +7,9 @@ in the penalty to speed.
 
 | Name                | Armour    | Requirements         |  Speed   |  Cost
 |---------------------|-----------|----------------------|----------|---------
-| Small Armour MK I   | 6         | Small Vessel         | -1       | 5000
-| Small Armour MK II  | 12        | Small Vessel         | -2       | 7000
-| Small Armour MK III | 18        | Small Vessel         | -3       | 9000
+| Small Armour MK I   | 4         | Small Vessel         | -1       | 5000
+| Small Armour MK II  | 6         | Small Vessel         | -2       | 7000
+| Small Armour MK III | 8         | Small Vessel         | -3       | 9000
 
 # Power Cores
 
@@ -87,16 +87,22 @@ are empty, they have to be manually reloaded.
 
 | Name            | Dmg | Type      | Ammo    | Range  | Reload | Requirements                          | Special  | Cost
 |-----------------|---- |-----------|---------|--------|--------|---------------------------------------|----------|------
-| Railgun MK I    | 5   | Piercing  | 30mm    | 100km  | 1 rnd. | Small Vessel, Small Power Core MK I   |          |  2000
-| Railgun MK II   | 10  | Piercing  | 30mm    | 150km  | 2 rnds.| Small Vessel, Small Power Core MK II  |          |  4000
-| Railgun MK III  | 15  | Piercing  | 30mm    | 200km  | 4 rnds.| Small Vessel, Small Power Core MK III |          | 10000
+| Railgun MK I    | 8   | Piercing  | 30mm    | 100km  | 1 rnd. | Small Vessel, Small Power Core MK I   |          |  2000
+| Railgun MK II   | 12  | Piercing  | 30mm    | 150km  | 2 rnds.| Small Vessel, Small Power Core MK II  |          |  4000
+| Railgun MK III  | 16  | Piercing  | 30mm    | 200km  | 4 rnds.| Small Vessel, Small Power Core MK III | -1 Speed | 10000
 | PD MK I         | 3   | Piercing  | 10mm    | 400m   | 1 act. | Small Vessel, Small Power Core MK I   | 10 Burst |  1000
 | PD MK II        | 6   | Piercing  | 10mm    | 500m   | 1 act. | Small Vessel, Small Power Core MK II  | 10 Burst |  4000
-| PD MK III       | 8   | Piercing  | 10mm    | 600m   | 1 act. | Small Vessel, Small Power Core MK III | 15 Burst |  6000
-| Launcher MK I   | -   | Explosion | Missile | -      | 1 rnd. | Small Vessel, Small Power Core MK I   |          |  5000
-| Launcher MK II  | -   | Explosion | Missile | -      | 2 act. | Small Vessel, Small Power Core MK II  |          | 10000
-| Battery MK I    | -   | Explosion |  5 x Missile | - | -      | Small Vessel, Small Power Core MK I   | No reload|  3000
-| Battery MK II   | -   | Explosion | 10 x Missile | - | -      | Small Vessel, Small Power Core MK II  | No reload|  6000
+| PD MK III       | 8   | Piercing  | 10mm    | 600m   | 1 act. | Small Vessel, Small Power Core MK III | 15 Burst            |  6000
+| Battery MK I    | -   | Explosion |  4 x Missile | - | -      | Small Vessel, Small Power Core MK I   | No reload, -1 Speed |  3000
+| Battery MK II   | -   | Explosion | 10 x Missile | - | -      | Small Vessel, Small Power Core MK II  | No reload, -2 Speed |  6000
+
+## Medium Weapons
+
+| Name            | Dmg | Type      | Ammo    | Range  | Reload | Requirements                          | Special  | Cost
+|-----------------|---- |-----------|---------|--------|--------|---------------------------------------|----------|------
+| Launcher MK I   | -   | Explosion | Missile | -      | 2 act. | Medium Vessel, Medium Power Core MK I |          |  5000
+| Launcher MK II  | -   | Explosion | Missile | -      | 1 act. | Medium Vessel, Medium Power Core MK II|          | 10000
+
 
 # Ammunition
 
@@ -118,14 +124,16 @@ be loaded prior to flight.
 
 Dumb fire rockets cannot manoeuvre, and the pilot has to make one attack
 role to see if his dumb fire rockets hit. Tracking missiles can reengage
-their targets, tracking them across long distances.
+their targets, tracking them across long distances. Tracking missiles have
+an additional pilot score, that is added (alongside their speed) to their
+attack roll.
 
-| Name        | Dmg  | Speed | Range   | Special    | Cost   | Weight
-|-------------|------|-------|---------|------------|--------|-------------
-| Burya MK I  | 10   | 6     | 60km    | Dumb fire  |  500   | 100 kg
-| Burya MK II | 20   | 6     | 80km    | Dumb fire  |  800   | 120 kg
-| Vikr MK I   | 20   | 5     | 120km   | Tracking   | 4000   | 150 kg
-| Vikr MK II  | 30   | 5     | 200km   | Tracking   | 6000   | 210 kg
+| Name        | Dmg  | Speed | Pilot | Range   | Special    | Cost   | Weight
+|-------------|------|-------|-------|---------|------------|--------|----------
+| Burya MK I  | 10   | 9     | 0     | 60km    | Dumb fire  |  500   | 100 kg
+| Burya MK II | 20   | 10    | 0     | 80km    | Dumb fire  |  800   | 120 kg
+| Vikr MK I   | 20   | 9     | 1     | 120km   | Tracking   | 4000   | 150 kg
+| Vikr MK II  | 30   | 10    | 2     | 200km   | Tracking   | 6000   | 210 kg
 
 # Fuel
 
