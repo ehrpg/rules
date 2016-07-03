@@ -102,9 +102,39 @@ certainly lie in space combat.
 | 2d6      | Module
 |----------|--------
 | 2        | Sublight Engine MK II
-| 3, 4     | Small Sensor Array
+| 3, 4     | Sensor Array
 | 5, 6, 7  | Hull
 | 8        | Cockpit
 | 9, 10    | PD MK II
 | 11       | Launcher MK II
 | 12       | Power Core MK II
+
+## Hercules
+
+- Size: Small
+- Type: Space
+- Crew: 1
+- HP: 30
+- Weight: 40 Tons
+- Speed: 8
+- Fuel Capacity: 5
+- Cargo: 2 tons
+- Armour: Small Armour MK II
+- Shields: Small Shield Generator MK II
+- Modules (Small): Sublight Engine MK II, 2x Battery MK II, 40x Vikr MK I,
+Small Sensor Array MK III, Small Power Core MK III
+
+The hercules is a heavy fighter outfittet with guided missiles to take down even larger
+enemy vessels. It makes up for its lack in utility in raw fire power.
+
+### Hit Array
+
+| 2d6      | Module
+|----------|--------
+| 2        | Sublight Engine MK II
+| 3, 4     | Sensor Array MK III
+| 5, 6, 7  | Hull
+| 8        | Cockpit
+| 9, 10    | Battery MK II
+| 11       | Shield Generator MK II
+| 12       | Power Core MK III
