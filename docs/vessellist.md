@@ -8,6 +8,8 @@
 - HP: 30
 - Weight: 30 Tons
 - Speed: 2
+- Fuel Capacity: 70
+- Cargo: 1 ton
 - Armour: Small Armour MK II
 - Shields: None
 - Modules (Small): Sublight Engine MK I, Canon MK I, Gatling MK I,
@@ -45,6 +47,7 @@ gunner.
 - Passengers: 10
 - Weight: 15 tons
 - Speed: 6
+- Fuel Capacity: 100
 - Cargo: 30 tons
 - Armour: Small Armour MK I
 - Shields: None
