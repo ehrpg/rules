@@ -91,7 +91,11 @@ mounted heavy machine guns on each side.
 - Modules (Small): Sublight Engine MK II, 2x PD MK II, Launcher MK II,
 Small Sensor Array MK II, Small Power Core MK II
 
-
+The Cobra MK-II is a small fighter that is used on larger vessels for 
+bomber and point defense. It's very fast and rapidly deployable, 
+making it an optimal choice to outfit a fighter wing. Its aero-dynamic
+design also allows for atmospheric flight, although its strengths
+certainly lie in space combat.
 
 ### Hit Array
 
@@ -99,8 +103,8 @@ Small Sensor Array MK II, Small Power Core MK II
 |----------|--------
 | 2        | Sublight Engine MK II
 | 3, 4     | Small Sensor Array
-| 5, 6     | Hull
-| 7, 8     | Cockpit
+| 5, 6, 7  | Hull
+| 8        | Cockpit
 | 9, 10    | PD MK II
 | 11       | Launcher MK II
 | 12       | Power Core MK II
