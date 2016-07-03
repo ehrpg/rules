@@ -96,3 +96,105 @@ On the other hand, a large vessel attacking a small vessel would raise the DC by
 | medium  | +4    | +2     | 0     | -2      |
 | large   | +6    | +4     | +2    | 0       |
 | capital | +8    | +6     | +4    | +2      |
+
+## Dealing damage to modules
+
+### Sublight Engines
+
+If the sublight engines are below half of their hit points, their speed output
+is halved. This is their base speed output that is halved, before any other
+bonuses or penalties from submodules are added.
+
+Once the sublight engines reach zero hit points, their effective speed output
+is zero. This also happens if the sublight engines do not receive power from
+the core.
+
+If the sublight engines reach minus their maximum hit points, they explode and
+can no longer be repaired. The explosion deals additional damage to the hull of
+the ship, depending on the vessels size:
+
+| Size     | Damage
+|----------|----------
+| Small    | 5
+| Medium   | 20
+| Large    | 50
+| Capital  | 100
+
+### Life Support Systems
+
+If the life support systems reach zero hit points, they no longer produce fresh
+air. The ship's remaining air supply will roughly last for a few more hours (up
+to the game master's discretion). This also happens if the life support systems
+are completely destroyed, or are out of power.
+
+## Power Core
+
+Should the power core reach zero hit points it is disabled and no longer
+produces any power. All other modules are effectively disabled.
+
+If the power core is destroyed a massive explosion shakes the vessel. The
+vessel's hull takes the following damage, depending on its size:
+
+| Size     | Damage
+|----------|----------
+| Small    | 10
+| Medium   | 50
+| Large    | 100
+| Capital  | 250
+
+## Shield Generators
+
+If the shield generator gets below half its hit points, the maximum shield
+output is also halved. Should the shield generator reach zero hit points, it is
+considered disabled. A disabled shield generator no longer produces a shield,
+and will not recharge until it is repaired.
+
+If the shield generator is destroyed (it drops below its negative maximum hit
+points) the hull takes the following damage:
+
+| Size     | Damage
+|----------|----------
+| Small    | 5
+| Medium   | 20
+| Large    | 50
+| Capital  | 100
+
+## Sensor array
+
+If the sensor array drops below zero hit points all communications are lost,
+except for emergency broadcasting. The sensor array will only stop working
+completely if it reaches its negative maximum hit points.
+
+## Cockpit or Bridge
+
+Once the cockpit reaches zero hit points its protection for the crew is lost.
+Any additional damage that then is caused to the cockpit is directly transfered
+to all the crew within the cockpit or bridge.
+
+If the cockpit or bridge is destroyed, the vessel can no longer be operated.
+
+## Weapons
+
+If weapons drop to or below zero hit points they can no longer be operated or
+fired. If they drop below their negative maximum hit points, they are completely
+destroyed.
+
+## FTL
+
+If the FTL drops to or below zero hit points it can no longer be operated. If it
+reaches negative maximum hit points they are two outcomes: If the FTL is
+currently charging the hull takes damage as noted below; if the FTL is idle,
+nothing happens.
+
+| Size     | Damage
+|----------|----------
+| Small    | 5
+| Medium   | 20
+| Large    | 50
+| Capital  | 100
+
+## Cargo Bay & Docking Bay
+
+The hull is damaged instead, but the game master can decide what cargo is
+jetisoned from the cargo bay. The amount of cargo should be proportional to
+the damage dealt to the cargo bay.
