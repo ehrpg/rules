@@ -38,8 +38,8 @@ weapon skill instead, namely heavy weapons.
 
 In space distances can be very vast between vessel. The difficulty to hit another vessel over longer distances
 is defined by the overall distance and the speed of the vessel. Vessels that are outside of the effective range
-of a weapon can't be hit with this specific weapon, as the traveltime of the projectile would require to much 
-time, making it very easy for the other vessel to dodge the onconming threat. The attacker uses his heavy weapons
+of a weapon can't be hit with this specific weapon, as the travel time of the projectile would require to much 
+time, making it very easy for the other vessel to dodge the oncoming threat. The attacker uses his heavy weapons
 skill for attacking an enemy. If the attacker is the pilot (for example of a one-man fighter craft), he can use
 either the heavy weapons skill or the piloting skill, which ever is higher.
 
@@ -63,28 +63,28 @@ The attacker rolls:
 
 The attacker would miss his target, because of the high distance involved.
 
-# Point Defense
+# Point Defence
 
-The point defense of a ship can be used to destroy small vessels or missiles that are to close. At these distances,
-range has no impact on the hit difficulty anymore. A fighter pilot may use his piloting skill to dodge the point defense,
+The point defence of a ship can be used to destroy small vessels or missiles that are to close. At these distances,
+range has no impact on the hit difficulty anymore. A fighter pilot may use his piloting skill to dodge the point defence,
 while smart missiles can use their attack modifier in place of a piloting skill.
 
 # Dealing Damage
 
 After determining if you hit your target, you can deal damage to the enemy. 
 If the enemy has shields, the shield value is lowered by the damage dealt. If the damage
-does not exist the shields value, you do not have to roll which module is hit. Also, if 
+does not exceed the shields value, you do not have to roll which module is hit. Also, if 
 the enemies armour value is greater than the damage you would deal, no damage is dealt 
 instead. Additionally, weapons that can't penetrate a certain armour type won't deal
-any damage too.
+any damage either.
 If the enemy has no shields, or the shields get depleted by a single attack, roll 2d6,
-to determine the location hit on the enemys vessel.
+to determine the location hit on the enemies vessel.
 
-Damage for modules is tracked seperately from the vessel. While lowering a vessel to 0 HP
+Damage for modules is tracked separately from the vessel. While lowering a vessel to 0 HP
 disables it or destroys it at -HP, the same applies to modules, although destroying a module
 usually creates some secondary effect, for example explosions that damage the crew and the ship.
 
-You can also try to attack a specific submodule of a ship, instead of rolling for the location
+You can also try to attack a specific sub module of a ship, instead of rolling for the location
 on the vessel's table. This implies a penalty that's dependent on the modules size.
 The left outer column is specifies the attack, while the top row specifies the target.
 F.e., if a small vessel were to attack a capital vessel, it would impose a -4 on the DC. 
