@@ -46,7 +46,7 @@ at zero, any incoming damage is done normally to the vessel.
 
 Each vessel might optionally have module slots. These module slots can be used
 to add additional capabilities to the vessel, such as FTL drives, weapons or
-shields. It always depends on the vessel how many module slots exist, and 
+shields. It always depends on the vessel how many module slots exist, and
 whether they can be exchanged and upgraded.
 
 ## Crew and Passengers
@@ -258,30 +258,30 @@ list and tables of _Vessel Equipment_ for available weapons.
 FTL drives allow the vessel to go faster than light in various ways. There are
 multiple drives available, each with their own benefits and disadvantages.
 Using a jump drive creates a radioactive isotope. The radioactivity is not
-harmful to humans, but it can be very easily picked up by modern radars. 
-Analysis of the radioactive residue allows an approximation about when a vessel 
+harmful to humans, but it can be very easily picked up by modern radars.
+Analysis of the radioactive residue allows an approximation about when a vessel
 activated its jump drive and how big the vessel was.
 
 ### Hyperspace
 
 The hyper drive utilizes the subspace to allow interstellar travel. A vessel
 using a hyper drive can go to destination in a straight line, because there
-are no obstacles in the subspace. 
+are no obstacles in the subspace.
 
 ### Warp
 
 The warp drive is the most common FTL drive, albeit it's much slower than it's
 counterparts. It utilizes a subspace bubble that's created around a vessel,
-contracting the space in front of it and expanding space behind it. 
+contracting the space in front of it and expanding space behind it.
 
-Every vessel has to have its own warp drive. It is not possible to create a 
-warp bubble for another vessel. Activating the warp drive happens almost 
-instantly, but it takes some time for the ship to pick up FTL speeds. This 
-wind-up time gets longer the bigger the vessel is and never reaches the 
-effectiveness of other drive types. 
+Every vessel has to have its own warp drive. It is not possible to create a
+warp bubble for another vessel. Activating the warp drive happens almost
+instantly, but it takes some time for the ship to pick up FTL speeds. This
+wind-up time gets longer the bigger the vessel is and never reaches the
+effectiveness of other drive types.
 
 While this drive allows for FTL travel, obstacles such as planets, stars, etc.
-still persist and have to be avoided or else the vessel would crash into them. 
+still persist and have to be avoided or else the vessel would crash into them.
 
 ### Wormhole
 
