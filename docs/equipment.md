@@ -121,14 +121,14 @@ The cost and weight is for the given amounts of rounds.
 | 7.62x54   | Normal | 2d10/2d10 | 100 (20 Rnds.) | 0.5kg  | Stopped by Class IV
 |           | AP     | 2d10/2d10 | 130 (20 Rnds.) | 0.6kg  | Stopped by Class V
 |           | HP     | 3d6/3d6   | 150 (20 Rnds.) | 0.5kg  | Stopped by Class IV
-| .50 BMG   | Normal | 3d10/3d10 | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI
-|           | AP     | 3d10/3d10 | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII
+| .50 BMG   | Normal | 3d10/3d10 | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI, penetrates Vessel Armour MK I
+|           | AP     | 3d10/3d10 | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII, penetrates Vessel Armour MK I
 |           | HP     | 3d12/3d12 | 250 (10 Rnds.) | 1.1kg  | Stopped by Class VI
-|           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII
-| 12.7x108  | Normal | 3d10/3d10 | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI
-|           | AP     | 3d10/3d10 | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII
+|           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII, penetrates Vessel Armour MK I
+| 12.7x108  | Normal | 3d10/3d10 | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI, penetrates Vessel Armour MK I
+|           | AP     | 3d10/3d10 | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII, penetrates Vessel Armour MK I
 |           | HP     | 3d12/3d12 | 250 (10 Rnds.) | 1.1kg  | Stopped by Class VI
-|           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII
+|           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII, penetrates Vessel Armour MK I
 
 ### Shotgun Shells
 
@@ -492,11 +492,11 @@ armour rating this round can penetrate.
 
 | Name     | Cost | Weight | Radius | Used By | Damage | Penetration           |
 | -------- | ---- | ------ | ------ | ------- | ------ | --------------------- |
-| PG-7VL  | 1000 | 2.0 kg | 5m     | RPG-7  | 6d6 bludgeoning  | TODO
-| PG-7VR  | 1500 | 3.2 kg | 5m     | RPG-7  | 6d6 bludgeoning  | TODO
+| PG-7VL  | 1000 | 2.0 kg | 5m     | RPG-7  | 6d6 bludgeoning  | Penetrates Vessel Armour MK I
+| PG-7VR  | 1500 | 3.2 kg | 5m     | RPG-7  | 6d6 bludgeoning  | Penetrates Vessel Armour MK II
 | OG-7V   | 900  | 1.5 kg | 30m    | RPG-7  | 6d6 piercing and 6d6 bludgeoning | None. Anti-personnel. |
-| Pzf 3    | 1000 | 2.1 kg | 5m     | Pzf. 3  | 6d6 bludgeoning | TODO
-| Pzf 3 IT | 1500 | 3.2 kg | 5m     | Pzf. 3  | 6d6 bludgeoning | TODO
+| Pzf 3    | 1000 | 2.1 kg | 5m     | Pzf. 3  | 6d6 bludgeoning | Penetrates Vessel Armour MK I
+| Pzf 3 IT | 1500 | 3.2 kg | 5m     | Pzf. 3  | 6d6 bludgeoning | Penetrates Vessel Armour MK II
 
 # Miscellaneous Equipment
 
