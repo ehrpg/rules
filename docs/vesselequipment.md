@@ -121,7 +121,7 @@ role to see if his dumb fire rockets hit. Tracking missiles can reengage
 their targets, tracking them across long distances.
 
 | Name        | Dmg  | Speed | Range   | Special    | Cost   | Weight
-|-------------|--------------|---------|------------|--------|-------------
+|-------------|------|-------|---------|------------|--------|-------------
 | Burya MK I  | 10   | 6     | 60km    | Dumb fire  |  500   | 100 kg
 | Burya MK II | 20   | 6     | 80km    | Dumb fire  |  800   | 120 kg
 | Vikr MK I   | 20   | 5     | 120km   | Tracking   | 4000   | 150 kg
