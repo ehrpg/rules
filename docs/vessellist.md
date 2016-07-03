@@ -10,8 +10,8 @@
 - Speed: 2
 - Armour: Small Armour MK II
 - Shields: None
-- Modules (Small): Sublight Engine, Canon MK I, Gatling MK I, Sensor Array MK I,
-Power Core MK I
+- Modules (Small): Sublight Engine MK I, Canon MK I, Gatling MK I,
+Sensor Array MK I, Power Core MK I
 
 The T-150 is one of the most modern and deadly assualt tanks available.
 It can be operated by a crew of two, or by an AI. It uses four legs to walk and
@@ -29,7 +29,7 @@ gunner.
 
 | 2d6      | Module
 |----------|--------
-| 2        | Sublight Engine
+| 2        | Sublight Engine MK I
 | 3, 4     | Legs
 | 5, 6, 7  | Hull
 | 8,9      | Canon MK I
@@ -43,10 +43,12 @@ gunner.
 - Crew: 2
 - HP: 20
 - Passengers: 10
+- Weight: 15 tons
+- Speed: 6
 - Cargo: 30 tons
 - Armour: Small Armour MK I
 - Shields: None
-- Modules (Small): Sublight Engine, Sensor Array MK I
+- Modules (Small): Sublight Engine MK I, Sensor Array MK I
 
 The Mil Mi-72 is the newest and most modern in a line of high quality transport
 helicopters. It carries a crew of two, a pilot and co-pilot, and can carry up to
@@ -63,7 +65,7 @@ mounted heavy machine guns on each side.
 
 | 2d6      | Module
 |----------|--------
-| 2        | Sublight Engine
+| 2        | Sublight Engine MK II
 | 3, 4     | Main Rotor
 | 5, 6, 7  | Hull
 | 8, 9     | Cock Pit
