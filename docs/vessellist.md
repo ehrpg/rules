@@ -1,5 +1,30 @@
 # Small Vessels
 
+## Land vehicle
+
+- Size: Small
+- Type: Land
+- Crew: 1
+- Passengers: Depends, usually 2-8
+- HP: 10
+- Module HP: 5
+- Weight: Between 2 and 10 tons
+- Speed: 6
+- Fuel Capacity: 30
+- Unit price: Depends, between 15k and 50k credits.
+- Cargo: 1 to 10 tons
+- Armour: None
+- Shields: None
+- Modules (Small): Sublight Engine MK I, Power Core MK I
+
+This entry is a stand in for most unarmed land vehicles, such as cars,
+motorcycles, buggies, vans, pickups and semis. Passengers, weight and
+cargo capacity should be adapted as needed. These vehicles may additionally
+be armoured, but may only be equipped with the Small Armour MK I.
+
+Price for these vessels varies, depending on maker, model and how much luxury
+the vehicle offers.
+
 ## T-150
 
 - Size: Small
@@ -10,6 +35,7 @@
 - Weight: 30 Tons
 - Speed: 2
 - Fuel Capacity: 70
+- Unit price: 89k Credits
 - Cargo: 1 ton
 - Armour: Small Armour MK II
 - Shields: None
@@ -50,6 +76,7 @@ gunner.
 - Weight: 15 tons
 - Speed: 6
 - Fuel Capacity: 100
+- Unit Price: 150k Credits
 - Cargo: 30 tons
 - Armour: Small Armour MK I
 - Shields: None
@@ -87,6 +114,7 @@ mounted heavy machine guns on each side.
 - Weight: 20 Tons
 - Speed: 8
 - Fuel Capacity: 40
+- Unit Price: 89k Credits
 - Cargo: 500 kg
 - Armour: Small Armour MK I
 - Shields: None
@@ -121,6 +149,7 @@ certainly lie in space combat.
 - Weight: 40 Tons
 - Speed: 2
 - Fuel Capacity: 5
+- Unit Price: 110k Credits
 - Cargo: 2 tons
 - Armour: Small Armour MK II
 - Shields: Small Shield Generator MK II
