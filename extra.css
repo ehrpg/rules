@@ -3,6 +3,7 @@
   vertical-align: top;
   position: relative;
   margin-bottom: 10px
+  margin-left: 10px;
 }
 
 [data-bracket-bottom]:after {
@@ -28,6 +29,7 @@
   display: inline-block;
   vertical-align: top;
   position: relative;
+  margin-left: 10px;
 }
 
 [data-bracket-top]:before {
