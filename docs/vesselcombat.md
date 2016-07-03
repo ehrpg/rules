@@ -97,7 +97,7 @@ On the other hand, a large vessel attacking a small vessel would raise the DC by
 | large   | +6    | +4     | +2    | 0       |
 | capital | +8    | +6     | +4    | +2      |
 
-## Dealing damage to modules
+## Dealing Damage to Submodules
 
 ### Sublight Engines
 
@@ -127,7 +127,7 @@ air. The ship's remaining air supply will roughly last for a few more hours (up
 to the game master's discretion). This also happens if the life support systems
 are completely destroyed, or are out of power.
 
-## Power Core
+### Power Core
 
 Should the power core reach zero hit points it is disabled and no longer
 produces any power. All other modules are effectively disabled.
@@ -142,7 +142,7 @@ vessel's hull takes the following damage, depending on its size:
 | Large    | 100
 | Capital  | 250
 
-## Shield Generators
+### Shield Generators
 
 If the shield generator gets below half its hit points, the maximum shield
 output is also halved. Should the shield generator reach zero hit points, it is
@@ -159,13 +159,13 @@ points) the hull takes the following damage:
 | Large    | 50
 | Capital  | 100
 
-## Sensor array
+### Sensor array
 
 If the sensor array drops below zero hit points all communications are lost,
 except for emergency broadcasting. The sensor array will only stop working
 completely if it reaches its negative maximum hit points.
 
-## Cockpit or Bridge
+### Cockpit or Bridge
 
 Once the cockpit reaches zero hit points its protection for the crew is lost.
 Any additional damage that then is caused to the cockpit is directly transfered
@@ -173,13 +173,13 @@ to all the crew within the cockpit or bridge.
 
 If the cockpit or bridge is destroyed, the vessel can no longer be operated.
 
-## Weapons
+### Weapons
 
 If weapons drop to or below zero hit points they can no longer be operated or
 fired. If they drop below their negative maximum hit points, they are completely
 destroyed.
 
-## FTL
+### FTL
 
 If the FTL drops to or below zero hit points it can no longer be operated. If it
 reaches negative maximum hit points they are two outcomes: If the FTL is
@@ -193,7 +193,7 @@ nothing happens.
 | Large    | 50
 | Capital  | 100
 
-## Cargo Bay & Docking Bay
+### Cargo Bay & Docking Bay
 
 The hull is damaged instead, but the game master can decide what cargo is
 jetisoned from the cargo bay. The amount of cargo should be proportional to
