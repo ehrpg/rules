@@ -42,7 +42,7 @@ Some vehicles come with a shield. This shield gives a given amount of points,
 which in case of incoming damage, is always reduced first. Once the shield is
 at zero, any incoming damage is done normally to the vessel.
 
-## Modules
+## Installed Modules
 
 Each vessel might optionally have module slots. These module slots can be used
 to add additional capabilities to the vessel, such as FTL drives, weapons or
@@ -163,9 +163,21 @@ lists and tables detailing the specific modules and their variations.
 
 Each module has its own hit points. It is possible to target a specific module
 with concentrated fire. In case a hit is successful the hit points of the
-module is used instead of the HP of the ship. Shields and armour however protect
-the entire ship, including all of the modules and therefore applies to all
-modules.
+module is used instead of the HP of the ship. The hit points of the module is
+derived from the maximum hit points of the vessel, and the vessels size:
+
+| Size    | Module HP
+|---------|------------------
+| Small   | Vessel HP / 2
+| Medium  | Vessel HP / 4
+| Large   | Vessel HP / 8
+| Capital | Vessel HP / 12
+
+Round module hit points to the nearest value divisible by five. A helicopter
+with 20 hit points would have module hit points of 10.
+
+Shields and armour however protect the entire ship, including all of
+the modules and therefore applies to all modules.
 
 Some modules list requirements of other modules, most often to specific power
 cores. The module will not work unless all of its requirements are met. If a
