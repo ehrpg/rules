@@ -405,14 +405,20 @@ systems (such as camera, head lamps and mag boots).
 Some suits come with night-vision (NV) or thermal imaging (TI) or even with
 small manoeuvrable thrusters (MT) for micro gravity navigation.
 
-| Name       | Armour Slots | FA Slots | Air | Power | Cost | Weight | Misc.      |
-| ---------- | ------------ | -------- | --- | ----- | ---- | ------ | ---------- |
-| SSP-99     | 0            | 4        | 10  | 10    | 500  | 4.0kg  |            |
-| SSP-99M    | 1            | 6        | 8   | 8     | 800  | 3.5kg  | NV         |
-| SEVA MK I  | 2            | 8        | 8   | 8     | 1000 | 8.0kg  |            |
-| SEVA MK II | 2            | 10       | 6   | 8     | 1500 | 7.5kg  | NV         |
-| SKAT-9     | 4            | 10       | 6   | 8     | 3500 | 8.0kg  | NV, TI     |
-| SKAT-9M    | 4            | 12       | 6   | 6     | 5000 | 9.0kg  | NV, TI, MT |
+The hazard rating reduces incoming hazard damage (such as fire, acid or
+radiation), and all suites are rated for environments between -100 degrees
+celcius and +100 degrees celcius. The protection against cold and heat requires
+working power, and if power is lost, the suit gives normal protection against
+cold and heat (between -20 degrees and +40 degrees).
+
+| Name       | Armour Slots | FA Slots | Air | Power | Hazard | Cost   | Weight | Misc.
+| ---------- | ------------ | -------- | --- | ----- | ------ | ------ | -------|--------
+| SSP-99     | 0            | 4        | 10  | 10    | 8      |  500   | 4.0kg  |
+| SSP-99M    | 1            | 6        | 8   | 8     | 6      |  800   | 3.5kg  | NV
+| SEVA MK I  | 2            | 8        | 8   | 8     | 6      | 1000   | 8.0kg  |
+| SEVA MK II | 2            | 10       | 6   | 8     | 5      | 1500   | 7.5kg  | NV
+| SKAT-9     | 4            | 10       | 6   | 8     | 4      | 3500   | 8.0kg  | NV, TI
+| SKAT-9M    | 4            | 12       | 6   | 6     | 2      | 5000   | 9.0kg  | NV, TI, MT
 
 # Explosives
 
