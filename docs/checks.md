@@ -1,9 +1,10 @@
 # Overview
 
 Everything in Endless Horizons is done by making a _check_ against a given
-_difficulty_. It is the player's job to mae the check, while it is the game
+_difficulty_. It is the player's job to make the check, while it is the game
 masters job to keep track of the difficulty. When bonuses or penalties are
-given in tihs document, they apply to the difficulty and _not the check_.
+given in tihs document, they usually apply to the difficulty and _not the check_
+that the player makes.
 
 This is important as the player probably does not, and should not, know all
 the factors that make his work harder or easier. As a game master you should
@@ -64,3 +65,17 @@ escalating die. He hits, although with a minor negative effect. The game
 master decided that in the heat of battle the player overshot, and spent
 more bullets than he intended. The player shot a burst of ten instead of five,
 yet none of the extra bullets hit any enemies.
+
+# Contests
+
+When two players, or a player and an NPC, use their skills against each other,
+they are rolling in a contest. Both players pitch their respectives rolls
+against each other, applying relevant bonuses, and whoever has the highest
+result wins. On a draw, the party who initiated the contest wins.
+
+# Applying Effort
+
+On all rolls of the dice that determine an outcome for the player, the player
+may spend effort points. He has to declare so, before making the roll. The
+amount of effort he wishes to spend must not exceed his remaining effort pool.
+Any points the player spends is added to the result dice roll.
