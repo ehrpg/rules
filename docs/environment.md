@@ -122,6 +122,25 @@ an appropriate skill check against a DC of 8. If the check is successful the
 character regains conscious and regains any suffocation damage over a course of
 one minute.
 
+## Smoke and fog
+
+Smoke obscures vision, and when inhaled might be poisonous. Depending on the
+smoke or fog in question, vision might be limited and the game master gives out
+penalties on perception based skill checks.
+
+If the smoke is deemed poisonous or unhealthy to the players, such as hot fumes
+from fires or toxic vapour from acids and other dangerous chemicals, he may ask
+the players to roll a constitution check to avoid inhaling the fumes. The rules
+are the same as with drowning as the players are holding their breath.
+
+Suits with a closed breathing apparatus, or gas masks may make one immune to
+such fumes.
+
+If the fume is inhaled the, fume may do additional damage to the player, such
+as radiation damage, acid damage or fire damage. Burning hot fumes, such as
+steam may cause direct fire damage upon contact even if the player avoided
+breathing it in. The same applies to clouds of acidic fumes and fogs.
+
 ## Starvation and Thirst
 
 Characters might find themselves out of food and water, and without the means
@@ -136,3 +155,18 @@ plus the numbers of hours passed, or take 1d6 points of damage.
 Characters can go without food for three days, in growing discomfort. After that
 time the character has to make constitution check against a DC of 5 plus one for
 each additional day or take 1d6 points of damage.
+
+## Strong winds and storms
+
+Storms and strong winds impede the players movement, and the storm itself is
+treated as _difficult terrain_ (see movement for details on that). It may also
+make piloting or driving checks more difficult and impair vision. These should
+be expressed as additional penalties to the DC of the respective skill checks.
+Usually ranging from between +1 for mild storms, and +5 for storms.
+
+Many storms may also carry other hazards with them. On many planets, storms
+become much more violent as those on Earth and may thus pose an additional
+threat. A strong sand storm (above 500 kmh in wind speed) can cause injury to
+any unprotected person, as the sand is effectively sand blasting the persons
+skin. Strong wind currents may also carry radiation, toxic or acidic fumes
+with them which also pose health risks to unprotected characters.
