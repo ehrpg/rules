@@ -10,6 +10,9 @@ Acid or corrosive effects also deals 1d6 points of damage to a character.
 A suits _hazard_ rating may reduce the damage. Falling into a vat of acid
 and being completely submerged causes 10d6 points of damage per round.
 
+More potent acids might even do more damage, which should always be expressed
+in fixed amounts of damage added to the dice roll.
+
 ## Cold
 
 An unprotected character in cold environments (below 5 degrees Celsius)
@@ -67,6 +70,10 @@ do 1d6 points of fire damage. It is up to the game master and the situation
 to allow a player a dodge away from a fire hazard. For example if a small gas
 leak catches fire, and would otherwise harm the player, the game master might
 rule that the player can dodge out of the way of the fire stream.
+
+Being completely engulfed in flames is different from being burned, and may
+cause additional fire damage. It is up the game master to add additional dices
+to such circumstances.
 
 A suits _hazard_ rating may reduce the damage from fire hazards. The suit
 may still catch fire though.
