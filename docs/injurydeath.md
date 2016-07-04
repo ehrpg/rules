@@ -151,3 +151,37 @@ what affect this has.
 | 10     | -                  |
 
 These effects stack with each other. If you roll a ten nothing happens.
+
+# States
+
+A character can be afflicted by various states that alter his performance.
+
+## Blinded
+
+A blinded character cannot use his perception in related skill checks, unless
+the character has another sense to orient himself, such as scent. A blinded
+character also takes another speed on all movements.
+
+## Deafened
+
+A defeaned character also loses his perception in related skill checks. If
+a character is blinded and defeaned, the character is treated as having
+-4 in perception.
+
+## Stunned
+
+A stunned character is unable to move for a given amount of rounds, and cannot
+do actions such as dodging, moving, jumping or running.
+
+## Nauseated
+
+A nauseated character takes -1 on all related skill checks.
+
+## Sickened
+
+Depending on the sickness, the character gains a minus on all related skill
+checks, and incurs a wound that lowers his maximum hit points until the sickness
+is treated.
+
+Sicknesses can get worse, in which case the penalty and maximum hit point loss
+increase. See the details of the specific sickness for these values.
