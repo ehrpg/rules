@@ -119,7 +119,7 @@ five. A character with zero speed points left is unable to move unless he
 applies effort.
 
 <div class="formula formula-top formula-bottom">
-HP = <span data-bracket-bottom="base">5</span>
+Speed = <span data-bracket-bottom="base">5</span>
 <span data-bracket-top="mod">+ DEX</span>
 <span data-bracket-bottom="mod">+ STR</span>
 </div>
@@ -134,7 +134,7 @@ together and multiplying them by two. This value is then added to the base of
 ten.
 
 <div class="formula formula-top formula-bottom">
-HP = <span data-bracket-bottom="base">10</span> +
+Effort = <span data-bracket-bottom="base">10</span> +
 (<span data-bracket-top="mod">CON</span>
 <span data-bracket-bottom="mod">+ STR</span> ) * 2
 </div>
@@ -151,7 +151,7 @@ by adding the character's constitution and strength rank to 10. The result is
 the amount of kgs the character carry around with him.
 
 <div class="formula formula-top formula-bottom">
-HP = <span data-bracket-bottom="base">10</span>
+Carrying Capacity = <span data-bracket-bottom="base">10</span>
 <span data-bracket-top="mod">+ CON</span>
 <span data-bracket-bottom="mod">+ STR</span>
 </div>
