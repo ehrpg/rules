@@ -76,10 +76,10 @@ cases use defensive measures (such as point defence) to negate the attack.
 # Point Defence
 
 The point defence of a ship can be used to destroy small vessels or missiles
-that are to close. At these distances, range has no impact on the hit
+that are too close. At these distances, range has no impact on the hit
 difficulty anymore. A fighter pilot may use his piloting skill to dodge the
 point defence. To destroy an incoming missile the pilot must hit the missile,
-by pitting an attack with the point defence against the missiles attack. If
+by hitting an attack with the point defence against the missiles attack. If
 the pilot succeeds the missile is destroyed.
 
 # Dodging in space
@@ -109,7 +109,7 @@ module is hit. Also, if the enemies armour value is greater than the damage
 you would deal, no damage is dealt instead. Additionally, weapons that can't
 penetrate a certain armour type won't deal any damage either.
 If, after shields and armour, there is still damage left, roll the appropriate
-dice to determine the location you have it the vessel. See the list of vessels,
+dice to determine the location where you have hit the vessel. See the list of vessels,
 for details on what dice to roll and for a look up table on where you have
 hit the vessel.
 
