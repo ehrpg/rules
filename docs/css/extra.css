@@ -68,43 +68,18 @@
 	margin-bottom: 55px;
 }
 
-#strength, 
-#dexterity, 
-#constitution, 
-#intelligence, 
-#perception, 
-#charisma {
-  position: relative;
-  padding-left: 50px;
-}
-
+#abilities ~ h2,
 #available-skills ~ h2 {
   position: relative;
-  padding-left: 93px;
-}
-#available-skills ~ #medicine-special {
-  position: relative;
-  padding-left: 136px;
+  line-height: 2em;
 }
 
-.icon-wrapper {
-  position: absolute;
-  left: 0;
-  top: -7px;
-}
-
-.divider:after {
-	content: "+";
-}
-
-
-.icon-strength-h1,
-.icon-dexterity-h1,
-.icon-constitution-h1,
-.icon-intelligence-h1,
-.icon-perception-h1,
-.icon-charisma-h1 {
-  position: absolute;
-  left: 0;
-  top: -7px;
+.icon-strength,
+.icon-dexterity,
+.icon-constitution,
+.icon-intelligence,
+.icon-perception,
+.icon-charisma {
+  float: left;
+  padding-right: 5px;
 }
