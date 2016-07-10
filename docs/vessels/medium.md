@@ -17,7 +17,7 @@
 - Cargo: depends on configuration, up to 100 tons
 - Armour: 6
 - Shields: 50
-- Modules (Medium): Sublight Engine MK II, Power Core MK II, Shield Generator MK I, Armour MK I, Sensor Array MK II
+- Modules (Medium): Sublight Engine MK II, Power Core MK II, Shield Generator MK I, Armour MK I, Sensor Array MK II, Security System MK II
 - FTL: Warp
 
 The Baleen RP-2 is, after the RP-1, one of the oldest general purpose vessels.

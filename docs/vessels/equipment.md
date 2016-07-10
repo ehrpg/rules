@@ -81,6 +81,41 @@ skill _Radio Operations_.
 | Medium Sensor Array MK II  | +2        | Medium Vessel, Small Power Core MK II | 20000
 | Medium Sensor Array MK III | +4        | Medium Vessel, Small Power Core MK II | 40000
 
+# Security Systems
+
+Security systems include everything from encryption of the data transfer of the
+computers, to the security protocols of the terminals and of the locks of the
+ships doors, hatches and airlocks. All of these are simplified into one security
+module which can be installed and upgraded on ships. Security systems usually
+cannot be hacked or attacked from afar, but prevent the vessel from theft and
+other illegal access while docked or parked.
+
+All security systems provide a DC against which _Hacking_ and _Intrusion_ skill
+checks must be made against. If a crew member wishes to detect or even reverse a
+hack or intrusion attempt he must pitch his _Hacking_ or _Intrusion_ against
+that of the intruder. The person on the defending side may gains a bonus from
+the security module, as listed below.
+
+Security Systems do not come with in sizes, but are the same for all vessel
+sizes, except for the price. The table below lists the prices for each vessel
+size (small, medium, large and capital) and the DC for intrusion and hacking
+attempts, as the system provides him with tools and countermeasures against
+intruders.
+
+Having no security system does not automatically mean that the vehicle can be
+operated without any sort of clearance. Normal land vehicles (such as cars)
+can be considered having no special security system, and may still be short
+circuited.
+
+| Name                         | DC | Bonus | Cost (S) | Cost (M) | Cost (L/C)
+|------------------------------|----|-------|----------|----------|-----------
+| No security system           |  5 |  -    |    -     |      -   |       -
+| Security System MK I         |  8 | +0    | 1000     |  10000   |  100000
+| Security System MK II        | 10 | +1    | 3000     |  30000   |  300000
+| Security System MK III       | 12 | +1    | 5000     |  50000   |  500000
+| Military Grade System MK I   | 15 | +2    | 8000     |  80000   |  800000
+| Military Grade System MK II  | 18 | +3    | 12000    | 120000   | 1200000
+
 # Shield Generators
 
 Shield generates produce a shield that soaks up to their shield value of damage.
