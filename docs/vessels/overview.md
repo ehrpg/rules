@@ -61,10 +61,8 @@ personnel along for the ride.
 
 ## Rooms
 
-Bigger vessels may even offer specific rooms, such as crew quarters, medical
-rooms, engineering quarters or docking bays for other vessels. Since ships are
-built by large shipyards most ships of one specific type come with the same
-layout. Specific layouts are possible, but usually cost extra.
+Bigger vessels may be fitted with additional rooms. See the chapter Rooms for
+additional information.
 
 ## Docking bays
 
@@ -73,6 +71,10 @@ Docking bays house smaller vessels (usually just small vessels). See the ship
 details on how many small vessels the ship is capable of housing and operating.
 A docking bay also often comes with all necessary equipment to maintain the
 smaller vessel, such as repair and refuiling stations.
+
+Docking bays sometimes count as rooms. If that is the case, the ship does not
+come with docking bays per default; but a room has been refitted to fit a small
+vessel.
 
 ## Cargo Bays
 

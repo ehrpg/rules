@@ -4,7 +4,7 @@ site_author: "@n0la, @johannes-z"
 dev_addr: 0.0.0.0:8000
 
 theme: readthedocs
-extra_css: 
+extra_css:
     - css/extra.css
     - css/font-awesome.min.css
     - css/attributes.css
@@ -37,11 +37,13 @@ pages:
 - Vessels:
     - Overview: 'vessels/overview.md'
     - Modules: 'vessels/modules.md'
+    - Rooms: 'vessels/rooms.md'
     - Combat: 'vessels/combat.md'
     - Equipment: 'vessels/equipment.md'
     - Small Vessels: 'vessels/small.md'
+    - Medium Vessels: 'vessels/medium.md'
 - Equipment:
-    - Overview: 'equipment/overview.md' 
+    - Overview: 'equipment/overview.md'
     - Firearms: 'equipment/firearms.md'
     - Apparel: 'equipment/apparel.md'
     - Explosives: 'equipment/explosives.md'

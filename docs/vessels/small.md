@@ -25,6 +25,9 @@ be armoured, but may only be equipped with the Small Armour MK I.
 Price for these vessels varies, depending on maker, model and how much luxury
 the vehicle offers.
 
+While normal land vehicles do not have a security system, special military
+grade vehicles may come with a security system.
+
 ## T-150
 
 - Size: Small
@@ -40,7 +43,7 @@ the vehicle offers.
 - Armour: Small Armour MK II
 - Shields: None
 - Modules (Small): Sublight Engine MK I, Canon MK I, Gatling MK I,
-Sensor Array MK I, Power Core MK I
+Sensor Array MK I, Power Core MK I, Military Grade Security System MK I
 
 The T-150 is one of the most modern and deadly assualt tanks available.
 It can be operated by a crew of two, or by an AI. It uses four legs to walk and
@@ -119,7 +122,7 @@ mounted heavy machine guns on each side.
 - Armour: Small Armour MK I
 - Shields: None
 - Modules (Small): Sublight Engine MK II, 2x PD MK II, Launcher MK II,
-Small Sensor Array MK II, Small Power Core MK II
+Small Sensor Array MK II, Small Power Core MK II, Security System MK I
 
 The Cobra MK-II is a small fighter that is used on larger vessels for
 bomber and point defense. It's very fast and rapidly deployable,
@@ -154,7 +157,7 @@ certainly lie in space combat.
 - Armour: Small Armour MK II
 - Shields: Small Shield Generator MK II
 - Modules (Small): Sublight Engine MK II, 2x Battery MK II, 20x Vikr MK I,
-Small Sensor Array MK III, Small Power Core MK III
+Small Sensor Array MK III, Small Power Core MK III, Security System MK I
 
 The hercules is a heavy fighter outfittet with guided missiles to take
 down even larger enemy vessels. It makes up for its lack in utility in
