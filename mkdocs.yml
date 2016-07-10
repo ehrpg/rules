@@ -36,6 +36,7 @@ pages:
 - Social Interactions: 'socialinteractions.md'
 - Vessels:
     - Overview: 'vessels/overview.md'
+    - Rooms: 'vessels/rooms.md'
     - Combat: 'vessels/combat.md'
     - Equipment: 'vessels/equipment.md'
     - Small Vessels: 'vessels/small.md'

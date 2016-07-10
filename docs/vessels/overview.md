@@ -61,45 +61,8 @@ personnel along for the ride.
 
 ## Rooms
 
-Bigger vessels may even offer specific rooms, such as crew quarters, medical
-rooms, engineering quarters or docking bays for other vessels. Since ships are
-built by large shipyards most ships of one specific type come with the same
-layout. Specific layouts are possible, but usually cost extra.
-
-The ship will list how many rooms are available for fitting, and will also list
-a default configuration.
-
-### Crew quarters
-
-Crew quarters are comprised of living quarters, bunks and sanitary installations
-necessary to house crew and passengers. Depending on the quality and the size of
-the ship, crew quarters can house from one to twenty people.
-
-The captain's quarters are special kind of crew quarters. They generally only
-house few people (from one to three) and are bigger and more luxurious.
-
-### Medical Bay
-
-A medic bay as all hardware available to treat patients. It comes fully equipped
-with various supplies of first aid, medicine and operating utensils. Complex
-operations or treatments cannot be performed on a medical bay, and require a
-_medic station_ instead, which is the larger version of the medical bay. A
-typical medical bay can house up to two or three patients, while a medic station
-can house up to several dozens.
-
-### Utility Bay
-
-A utility bay can be used for almost anything the crew want to: for storage, as
-a small engineering bay or as emergency crew quarters.
-
-### Engineer Bay
-
-All ships have some sort of engineering bay or station. This station has most
-of the important modules (live support, power core and FTL drives) in one
-location. This allows for easier maintenance and repairs to said modules.
-Whether the engineer bay is an actual room, depends on the vessel size. Small
-vessels tend to have an easily accessible hatch, while medium and bigger vessels
-have an actual engineering room.
+Bigger vessels may be fitted with additional rooms. See the chapter Rooms for
+additional information.
 
 ## Docking bays
 
