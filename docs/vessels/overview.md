@@ -17,6 +17,34 @@ vehicles. Should the vehicle have mounted guns they are operated using the
 _Heavy Weapons_ skill. This includes vehicle mounted heavy machine guns, or
 firing the canon (or rifle) of a tank.
 
+# In Space
+
+## Gravity
+
+There is no artificial gravity in Endless Horizons, except on large space
+stations. On these massive space station the "artificial gravity" is generated
+by using rotary forces. Ships, and other space vessels that do not provide
+gravity are usually navigated by using magnetic boots. All walls, floors and
+ceiling of these stations can be walked upon using magnetic boots. These boots
+can also be used to walk on the outer hull of vessels. All space suits provide
+magnetic boots and day to day clothing issues on vessels includes normal boots
+that can be used to walk on magnetic surfaces.
+
+The magnetic boots can be turned off to navigate the micro gravity using the
+skill _Micro Gravity_.
+
+Walking and running with magnetic boots is treated as regular movement on a
+planet of 1 earth g, for the sake of simplicity.
+
+## Atmosphere
+
+Almost all vessels come with a life support system that provides breathable air
+on the ship. This allows people to life and work on those ships without the need
+of a space suit. The atmosphere on such ships can be lost however. Damage to the
+hull can cause the atmosphere to vent into space. Also, a damaged life support
+can stop filtering the used air and slowly cause the air on a vessel to become
+toxic to human life.
+
 # Vessel Statistics
 
 ## Hit Points
