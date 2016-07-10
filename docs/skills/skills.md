@@ -3,37 +3,40 @@
 Below you will find a list of all the base skills available in game. It is of
 course up the GM to adapt or add to the list below.
 
-## Acrobatics
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-constitution"></i></span> Acrobatics
 
 With acrobatics you can perform such acts as rope walking, tumbling or
-other specialised manoeuvres. Uses _Dexterity_ and _Constitution_.
+other specialised manoeuvres.
 
-## Acting
+## <span class="icon-wrapper"><i class="fa fa-2x icon-charisma"></i><i class="fa fa-2x icon-intelligence"></i></span> Acting
 
 The ability to play a role and successfully emulate behaviours,
 emotions and character traits. Uses _Charisma_ and _Intelligence_.
 
-## Climbing
+## <span class="icon-wrapper"><i class="fa fa-2x icon-strength"></i><i class="fa fa-2x icon-constitution"></i></span> Climbing
 
 Allows you to climb walls, cliffs and other obstacles. It helps with
 finding the right footing while doing so. Uses _Strength_ and
 _Constitution_.
 
-## Dodging
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-perception"></i></span> Dodging
 
 A basic combat skill to move out of harm's way. It can be used as an
 action to avoid getting hit in melee combat, as well as for "hitting
 the deck" in case of incoming enemy fire. Uses _Dexterity_ and
 _Perception_.
 
-## Driving
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-perception"></i><i class="fa fa-2x icon-dexterity"></i></span> Driving
 
 Driving involves operating and steering land vehicles (such as
 cars, trucks or motorcycles). Driving also includes heavy machinery such as
 skid loaders and tracked vehicles (tanks). To fire a tank however, please see
 the _Heavy Weapons_ skill. It uses _Perception_ and _Dexterity_.
 
-## Engineering (Any) (Special)
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-intelligence"></i></span> Engineering (Any) (Special)
 
 You have studied the art of applying mathematics, science and
 knowledge of materials to craft and construct devices, buildings and
@@ -41,51 +44,59 @@ all other sorts of man made constructs. It uses _Intelligence_ and
 _Intelligence_. Sub types of this skill can relate to (but are not
 limited to: Computers, Buildings, Vehicles or Spacecraft.
 
-## Escape Artist
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-strength"></i><i class="fa fa-2x icon-dexterity"></i></span> Escape Artist
 
 This is the skill to escape from ropes, handcuffs and other restraints. It
 uses _Strength_ and _Dexterity_.
 
-## First Aid
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-perception"></i></span> First Aid
 
 First aid comprises techniques ranging from applying intricate bandages to
 wounds, performing CPR and Heimlich manoeuvres, to some basic skills and
 techniques from medicine such as stitching a wound. It uses _Intelligence_
 and _Perception_.
 
-## Heavy Weapons
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-perception"></i></span> Heavy Weapons
 
 Heavy weapons are all weapons that cannot be effectively carried into combat,
 and include things such as a howitzers, large mortars, turrets or firing a
 tank. It uses _Dexterity_ and _Perception_.
 
-## Intrusion
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-intelligence"></i></span> Intrusion
 
 This skill covers everything from breaking and entering, be it legally or
 illegally. This includes both mechanical and electronic locks and counter
 measures (such as alarms, biometric access controls and so forth). It uses
 _Dexterity_ and _Intelligence_.
 
-## Language (Any)
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-perception"></i><i class="fa fa-2x icon-intelligence"></i></span> Language (Any)
 
 Each character is assumed to automatically have his mother tongue at rank 5
 (spoken, reading and writing). Any additional language is a separate
 skill. Each language skill is based on _Perception_ and _Intelligence_.
 
-## Light Weapons
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-perception"></i><i class="fa fa-2x icon-dexterity"></i></span> Light Weapons
 
 This skill grants training in man portable military grade hardware, such as
 recoilless rifles, grenade launchers, mortars, light and heavy machine
 guns. It uses _Perception_ and _Dexterity_.
 
-## Mechanics
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-intelligence"></i></span> Mechanics
 
 Mechanics allows you to pop open a hood of a car and instantly recognise why
 it won't start. It involves repairs and maintenance for machines big and
 small, as well as construction of new devices from basic materials. It
 requires _Dexterity_ and _Intelligence_.
 
-## Medicine (Special)
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-perception"></i><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-dexterity"></i></span> Medicine (Special)
 
 Medicine is the science of diagnosing, treating and preventing diseases and
 trauma. It also covers therapy and care for patients.  A full degree and
@@ -94,66 +105,77 @@ specialised sub fields such as surgery or trauma care. To treat a patient
 use _Perception_ and _Intelligence_ to diagnose and treat, and when
 performing surgery use _Perception_ and _Dexterity_.
 
-## Melee Combat
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-strength"></i></span> Melee Combat
 
 You are trained in the art of hand to hand combat. This skill includes basic
 training with common melee weapons (knife, batons or clubs). To hit an
 opponent you use _Dexterity_ and _Strength_.  The damage depends on the
 weapon used.
 
-## Micro Gravity
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-strength"></i></span> Micro Gravity
 
 Allows manoeuvring in micro gravity environments. Uses _Dexterity_ and
 _Strength_.
 
-## Navigation
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-perception"></i></span> Navigation
 
 Allows a character to use charts, maps or a navigational computer to
 effectively navigate from point A to point B. Uses _Intelligence_ and
 _Perception_.
 
-## Notice
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-perception"></i><i class="fa fa-2x icon-intelligence"></i></span> Notice
 
 Notice is used to detect others who are hiding, or to notice something that is
 hidden or not obvious. Uses _Perception_ and _Intelligence_.
 
-## Oratory
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-charisma"></i></span> Oratory
 
 The art of, lying, intimidating, and giving threats as well as giving
 motivational speeches. It uses _Intelligence_ and _Charisma_.
 
-## Pilot Spacecraft (Special)
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-perception"></i></span> Pilot Spacecraft (Special)
 
 This special skill allows you to pilot all kinds of space vessels. The skill
 includes things as docking, evasive manoeuvres and dog fighting. It requires
 _Dexterity_ and _Perception_
 
-## Public Affairs
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-charisma"></i></span> Public Affairs
 
 Knowing who hates and likes who, and how to behave in various social settings
 and social events. It also incorporates knowledge about famous figures, such
 as politicians, important or influential business people and so forth. Uses
 _Intelligence_ and _Charisma_.
 
-## Questioning
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-charisma"></i><i class="fa fa-2x icon-intelligence"></i></span> Questioning
 
 The opposite skill to Oratory. The art of interrogating, spotting lies and
 otherwise get the truth out of people. It can also be used to see through idle
 threats or resisting intimidation attempts. It uses _Charisma_ and
 _Intelligence_.
 
-## Radio Operations
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-charisma"></i><i class="fa fa-2x icon-intelligence"></i></span> Radio Operations
 
 This skill allows you to operate radio signal encryption, identify radio
 signals, and communicate with others using proper radio communication protocol
 and standards. Uses _Charisma_ and _Intelligence_
 
-## Running
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-charisma"></i><i class="fa fa-2x icon-intelligence"></i></span> Running
 
 This skill includes running for endurance (marathon) as well as sprinting. It
 uses _Strength_ and _Constitution_.
 
-## Science (Any) (Special)
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-intelligence"></i></span> Science (Any) (Special)
 
 You are educated and trained one of the numerous fields of science. All
 sciences use _Intelligence_ twice, except when otherwise noted. Some
@@ -161,13 +183,15 @@ specialities include: _Computer_ which incorporates the science of IT,
 including programming or hacking; _Physics_, _Chemistry_, _Biology_ and
 various others. Each field is a separate skill.
 
-## Sleight of Hand
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-charisma"></i></span> Sleight of Hand
 
 The art of performing small actions with no one else noticing. For example
 cheating at card games, pick pocketing another person or hide a small weapon
 on one's own body. It uses _Dexterity_ and _Charisma_.
 
-## Small Arms
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-perception"></i><i class="fa fa-2x icon-dexterity"></i></span> Small Arms
 
 The small arms skill allows a character to aim, shoot, reload and maintain
 most fire arms. Many firearms that are can be learned without special
@@ -176,25 +200,29 @@ special training (see _Light Weapons_). Firearms rely on _Perception_ and
 _Dexterity_. Rifles and handguns handle differently and are thus split up in
 two separate speciality skills.
 
-## Small Unit Tactics
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-perception"></i></span> Small Unit Tactics
 
 This skill includes everything a soldier needs to know about tactics: How to
 move in a fire squad, basic drill, infiltration techniques, patrolling,
 ambushing and so forth. It uses _Intelligence_ and _Perception_.
 
-## Stealth
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-dexterity"></i><i class="fa fa-2x icon-intelligence"></i></span> Stealth
 
 The art of sneaking, hiding and remaining hidden. Uses _Dexterity_ and
 _Intelligence_.
 
-## Swimming
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-strength"></i><i class="fa fa-2x icon-constitution"></i></span> Swimming
 
 Zero rank allows the character to float, while the first rank allows a
 character to swim. Higher ranks allows the character to swim with clothes,
 gear or even while helping another who can't swim. Uses _Strength_ and
 _Constitution_.
 
-## Throwing
+
+## <span class="icon-wrapper"><i class="fa fa-2x icon-strength"></i><i class="fa fa-2x icon-dexterity"></i></span> Throwing
 
 Need to make a grenade go really far away towards the enemy?  Use _Strength_
 and _Dexterity_ to achieve that! This skill also includes thrown weapons such

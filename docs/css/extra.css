@@ -78,6 +78,26 @@
   padding-left: 50px;
 }
 
+#available-skills ~ h2 {
+  position: relative;
+  padding-left: 93px;
+}
+#available-skills ~ #medicine-special {
+  position: relative;
+  padding-left: 136px;
+}
+
+.icon-wrapper {
+  position: absolute;
+  left: 0;
+  top: -7px;
+}
+
+.divider:after {
+	content: "+";
+}
+
+
 .icon-strength-h1,
 .icon-dexterity-h1,
 .icon-constitution-h1,
