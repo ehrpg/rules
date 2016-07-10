@@ -54,8 +54,8 @@ have an actual engineering room.
 
 Almost all ships come with small rooms that act as airlocks and hatches. These
 rooms have double doors, with one opening out into space. The controls for
-presurrising and depressurising can be operated from both sides, although they
-can be overriden and locked from the inside. This prevents boarding crews from
+pressurising and depressurising can be operated from both sides, although they
+can be overridden and locked from the inside. This prevents boarding crews from
 entering a vessel easily. Just like any lock this can be hacked with the
 _Intrusion_ skill. See the security system module for a list of DCs for
 _Hacking_ and _Intrusion_.

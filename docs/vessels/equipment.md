@@ -205,7 +205,7 @@ attack roll.
 Missiles attack twice, once during the additional attack, and they can turn
 around and attack again.
 
-If a point defense is able to hit the missile they are considered destroyed,
+If a point defence is able to hit the missile they are considered destroyed,
 and will no longer track the target.
 
 | Name        | Dmg  | Speed | Pilot | Range   | Special    | Cost   | Weight
