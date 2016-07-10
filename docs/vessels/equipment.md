@@ -109,12 +109,12 @@ circuited.
 
 | Name                         | DC | Bonus | Cost (S) | Cost (M) | Cost (L/C)
 |------------------------------|----|-------|----------|----------|-----------
-| No security system           |  5 |  -    |    -     |      -   |       -
-| Security System MK I         |  8 | +0    | 1000     |  10000   |  100000
-| Security System MK II        | 10 | +1    | 3000     |  30000   |  300000
-| Security System MK III       | 12 | +1    | 5000     |  50000   |  500000
-| Military Grade System MK I   | 15 | +2    | 8000     |  80000   |  800000
-| Military Grade System MK II  | 18 | +3    | 12000    | 120000   | 1200000
+| No security system           |  8 |  -    |    -     |      -   |       -
+| Security System MK I         | 10 | +0    |  1000    |  10000   |  100000
+| Security System MK II        | 12 | +1    |  3000    |  30000   |  300000
+| Security System MK III       | 15 | +1    |  5000    |  50000   |  500000
+| Military Grade System MK I   | 18 | +2    |  8000    |  80000   |  800000
+| Military Grade System MK II  | 20 | +3    | 12000    | 120000   | 1200000
 
 # Shield Generators
 
