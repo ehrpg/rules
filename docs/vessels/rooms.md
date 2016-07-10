@@ -60,6 +60,8 @@ entering a vessel easily. Just like any lock this can be hacked with the
 _Intrusion_ skill. See the security system module for a list of DCs for
 _Hacking_ and _Intrusion_.
 
+Airlocks and Hatches also offer space and maintenance stations for space suits.
+
 ### Docking Hatches
 
 Most hatches and modules are also docking hatches, which means that they have
