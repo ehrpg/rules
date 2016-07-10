@@ -96,7 +96,7 @@ small, as well as construction of new devices from basic materials. It
 requires _Dexterity_ and _Intelligence_.
 
 
-## <i class="fa fa-2x icon-perception"></i><span style="float: left; margin-right: 5px;">+</span><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-dexterity"></i> Medicine (Special)
+## <i class="fa fa-2x icon-perception"></i><i class="fa fa-plus" style="float: left; padding-top: 12px; margin-right: 5px;"></i><i class="fa fa-2x icon-intelligence"></i><i class="fa fa-2x icon-dexterity"></i> Medicine (Special)
 
 Medicine is the science of diagnosing, treating and preventing diseases and
 trauma. It also covers therapy and care for patients.  A full degree and
