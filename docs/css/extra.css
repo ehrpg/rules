@@ -67,3 +67,24 @@
 .formula-bottom {
 	margin-bottom: 55px;
 }
+
+#strength, 
+#dexterity, 
+#constitution, 
+#intelligence, 
+#perception, 
+#charisma {
+  position: relative;
+  padding-left: 50px;
+}
+
+.icon-strength-h1,
+.icon-dexterity-h1,
+.icon-constitution-h1,
+.icon-intelligence-h1,
+.icon-perception-h1,
+.icon-charisma-h1 {
+  position: absolute;
+  left: 0;
+  top: -7px;
+}

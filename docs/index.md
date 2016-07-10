@@ -30,6 +30,13 @@ a gritty and survival horror atmosphere to space combat.
 
 # Licence
 
-The entire system, and all of its content is under the
+The entire system, and all of its content - except as noted below - is under the
 [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 licence. It's free and open source and you can contribute!
+
+Biceps icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
+Binoculars icon - <span class="author">by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
+Brain icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
+Heart organ icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
+Juggler icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
+Minions icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>

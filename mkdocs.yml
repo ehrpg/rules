@@ -4,21 +4,43 @@ site_author: "@n0la, @johannes-z"
 dev_addr: 0.0.0.0:8000
 
 theme: readthedocs
-extra_css: [extra.css]
+extra_css: 
+    - css/extra.css
+    - css/font-awesome.min.css
+    - css/attributes.css
 
 pages:
 - Introduction: 'index.md'
-- Character Creation: 'charactercreation.md'
+- Character Creation:
+    - Overview: 'charactercreation/overview.md'
+    - Abilities: 'charactercreation/abilities.md'
+    - Secondary Abilities: 'charactercreation/secondary.md'
 - Checks and Difficulties: 'checks.md'
-- 'skills.md'
-- 'perks.md'
-- 'backgrounds.md'
-- 'combat.md'
+- Skills:
+    - Overview: 'skills/overview.md'
+    - Available Skills: 'skills/skills.md'
+- Perks:
+    - Overview: 'perks/overview.md'
+    - Available Perks: 'perks/perks.md'
+- Backgrounds:
+    - Overview: 'backgrounds/overview.md'
+    - Available Backgrounds: 'backgrounds/backgrounds.md'
+- Combat:
+    - 'combat/overview.md'
+    - Melee Combat: 'combat/melee.md'
+    - Ranged Combat: 'combat/ranged.md'
+    - Thrown Weapons: 'combat/thrown.md'
+    - 'combat/damage.md'
 - Injury and Death: 'injurydeath.md'
 - Environmental Hazards: 'environment.md'
 - Social Interactions: 'socialinteractions.md'
-- Vessel Overview: 'vessels.md'
-- Vessel Combat: 'vesselcombat.md'
-- Vessel Equipment: 'vesselequipment.md'
-- Vessels: 'vessellist.md'
-- 'equipment.md'
+- Vessels:
+    - Overview: 'vessels/overview.md'
+    - Combat: 'vessels/combat.md'
+    - Equipment: 'vessels/equipment.md'
+    - Small Vessels: 'vessels/small.md'
+- Equipment:
+    - Overview: 'equipment/overview.md' 
+    - Firearms: 'equipment/firearms.md'
+    - Apparel: 'equipment/apparel.md'
+    - Explosives: 'equipment/explosives.md'
