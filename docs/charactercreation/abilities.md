@@ -61,7 +61,8 @@ generally prohibited, unless your game master rules otherwise.
 
 Raising an ability score costs the modifier of the new rank times five. So if
 you want to raise an ability from 6 (+1) to 7 (+2) you have to pay ten CCP.
-Lowering works the same way.
+Lowering works the same way, except that you gain that amount of CCP. For
+example by lowering your intelligence form 5 to 4 you gain five CCP.
 
 ## Your Character
 
