@@ -26,6 +26,15 @@ the vehicle offers.
 While normal land vehicles do not have a security system, special military
 grade vehicles may come with a security system.
 
+| 2d6         | Module
+|-------------|--------
+| 2           | Driver Seat
+| 3, 4        | Power Core
+| 5, 6, 7     | Hull
+| 8, 9        | Fuel Tank
+| 10, 11      | Passenger Seat
+| 12          | Sublight Engine
+
 # T-150
 
 - Size: Small
@@ -60,7 +69,7 @@ gunner.
 | 2        | Sublight Engine MK I
 | 3, 4     | Legs
 | 5, 6, 7  | Hull
-| 8,9      | Canon MK I
+| 8, 9     | Canon MK I
 | 10, 11   | Gatling MK I
 | 12       | Power Core
 
