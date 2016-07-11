@@ -59,13 +59,9 @@ generally prohibited, unless your game master rules otherwise.
 
 ### Raising and lowering
 
-Raising an ability score costs exactly as much CCP as the rank you are raising
-the ability to. For example, if you want to raise strength from five to six, you
-have to pay six CCP.
-
-Lowering works the same way, you gain as much CCP as it would cost to raise the
-ability to the old value. So if you lower strength from five to four, you
-receive five CCP.
+Raising an ability score costs the modifier of the new rank times five. So if
+you want to raise an ability from 6 (+1) to 7 (+2) you have to pay ten CCP.
+Lowering works the same way.
 
 ## Your Character
 
