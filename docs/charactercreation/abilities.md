@@ -47,8 +47,8 @@ charm.
 ## Ranks
 
 Your average person has five in all abilities. This means that said person is
-particularly good but also not bad at these abilities. A six means that the
-character has spent some good amount of training in that area or just has a
+not particularly good but also not bad at these abilities. A six means that the
+character has spent some amount of training in that area or just has a
 natural talent for these sorts of things. The average person that goes out
 jogging and bicycling a few times a week might have a constitution of six.
 While someone who barely does any sports, might have a constitution of four.
