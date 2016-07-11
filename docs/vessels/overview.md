@@ -17,9 +17,7 @@ vehicles. Should the vehicle have mounted guns they are operated using the
 _Heavy Weapons_ skill. This includes vehicle mounted heavy machine guns, or
 firing the canon (or rifle) of a tank.
 
-# In Space
-
-## Gravity
+# Gravity
 
 There is no artificial gravity in Endless Horizons, except on large space
 stations. On these massive space station the "artificial gravity" is generated
@@ -36,7 +34,7 @@ skill _Micro Gravity_.
 Walking and running with magnetic boots is treated as regular movement on a
 planet of 1 earth g, for the sake of simplicity.
 
-## Atmosphere
+# Atmosphere
 
 Almost all vessels come with a life support system that provides breathable air
 on the ship. This allows people to life and work on those ships without the need
