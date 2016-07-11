@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="author" content="@n0la, @johannes-z">
+  
+  <title>Damage - Endless Horizons - RPG</title>
+  
+
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+
+  
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../../css/highlight.css">
+  <link href="../../css/extra.css" rel="stylesheet">
+  <link href="../../css/font-awesome.min.css" rel="stylesheet">
+  <link href="../../css/attributes.css" rel="stylesheet">
+
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Damage";
+    var mkdocs_page_input_path = "combat/damage.md";
+    var mkdocs_page_url = "/combat/damage/";
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js"></script>
+  <script src="../../js/modernizr-2.8.3.min.js"></script>
+  <script type="text/javascript" src="../../js/highlight.pack.js"></script>
+  <script src="../../js/theme.js"></script> 
+
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> Endless Horizons - RPG</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+        <ul class="current">
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../..">Introduction</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Character Creation</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../charactercreation/overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../charactercreation/abilities/">Abilities</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../charactercreation/secondary/">Secondary Abilities</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../../checks/">Checks and Difficulties</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Skills</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../skills/overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../skills/skills/">Available Skills</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Perks</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../perks/overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../perks/perks/">Available Perks</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Backgrounds</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../backgrounds/overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../backgrounds/backgrounds/">Available Backgrounds</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Combat</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../melee/">Melee Combat</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../ranged/">Ranged Combat</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../thrown/">Thrown Weapons</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Damage</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#damage">Damage</a></li>
+                
+                    <li><a class="toctree-l4" href="#zones">Zones</a></li>
+                
+                    <li><a class="toctree-l4" href="#vital-organs">Vital Organs</a></li>
+                
+            
+            </ul>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../../injurydeath/">Injury and Death</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../../environment/">Environmental Hazards</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../../socialinteractions/">Social Interactions</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Vessels</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/modules/">Modules</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/rooms/">Rooms</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/combat/">Combat</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/equipment/">Equipment</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/small/">Small Vessels</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../vessels/medium/">Medium Vessels</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>Equipment</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../equipment/overview/">Overview</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../equipment/firearms/">Firearms</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../equipment/apparel/">Apparel</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../../equipment/explosives/">Explosives</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">Endless Horizons - RPG</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Combat &raquo;</li>
+        
+      
+    
+    <li>Damage</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        
+          <a href="https://github.com/ehrpg" class="icon icon-github"> Edit on GitHub</a>
+        
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="damage">Damage</h1>
+<p>The weapon used always determines the amount and type of damage that can be
+caused to another. A knife for example can deal piercing or slashing damage
+depending how it's being used. A firearm usually causes piercing and
+bludgeoning damage. Hits with bare fists may just cause bludgeoning damage.</p>
+<p>Other forms of damage are of course also possible, for example a player can
+take fire damage from an open flame, or acid damage from being exposed to
+acids or other corrosive fluids.</p>
+<h2 id="zones">Zones</h2>
+<p>When a player hits another, either with a ranged or melee weapon, the attacking
+player rolls two six sided die (2d6) to determine where he scores a hit.</p>
+<p>The target then determines if he has clothing or armor that protects him in this
+region and substracts any relevant damage reductions from the incoming damage.
+If any damage is left the target resolves any effects of the target area (for
+example damage multiplier) and substracts that number from his hit points.</p>
+<p>If the target survives it, he then has to roll another check to see if the
+injury causes a wound. See the chapter <em>Injury and Death</em> regarding rules
+for wounds.</p>
+<p>Aiming for a specific zone is possible. The size modifier of the target is
+reduced one step any body part except the vital organs, and by two steps for
+vital organs. If the reduction is not possible because the size modifier would
+be beneath "tiny" then aiming at it the zone specifically is not possible. If
+the attack succeeds the zone is hit automatically without a need to roll the two
+six sided dices.</p>
+<p>The following is a hit zone for a human or human-like creature:</p>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Zone</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2</td>
+<td>Vital Organ</td>
+<td>Special, Damage * 6</td>
+</tr>
+<tr>
+<td>3,4</td>
+<td>Legs</td>
+<td></td>
+</tr>
+<tr>
+<td>5,6,7</td>
+<td>Torso</td>
+<td>Damage * 2</td>
+</tr>
+<tr>
+<td>8,9</td>
+<td>Arms</td>
+<td></td>
+</tr>
+<tr>
+<td>10, 11</td>
+<td>Head</td>
+<td>Damage * 3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Vital Organ</td>
+<td>Special, Damage * 6</td>
+</tr>
+</tbody>
+</table>
+<h2 id="vital-organs">Vital Organs</h2>
+<p>Most creatures, animals (including humans) have vital organs. Any damage
+to those areas is usually fatal. For humans these areas would be the brain
+and the heart. Damage to the vital organs follows special rules, usually
+depending on the creature involved. However if - after applying these special
+rules - any damage is done to the vital organ this damage is multiplied by
+six (6).</p>
+<h3 id="humans">Humans</h3>
+<p>Humans have two vital organs: The <em>heart</em> and the <em>brain</em>. Both the brain and
+the heart are usually protected either by the skull or the rib cage. Any
+bludgeoning damage below <em>ten</em> (10) is automatically converted into a hit
+towards the surrounding hit zone (torso for heart, and head for
+brain). Slashing damage cannot harm either of those vital two organs unless
+they are exposed. Any piercing damage above <em>two</em> (2) can easily penetrate the
+rib cage or skull and does full damage. Any piercing damage below <em>two</em> is
+stopped by the bone and negated.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../injurydeath/" class="btn btn-neutral float-right" title="Injury and Death">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../thrown/" class="btn btn-neutral" title="Thrown Weapons"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+	  
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+<div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+          <a href="https://github.com/ehrpg" class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
+      
+      
+        <span><a href="../thrown/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../../injurydeath/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+
+</body>
+</html>
