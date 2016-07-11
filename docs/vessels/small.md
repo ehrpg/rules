@@ -1,6 +1,4 @@
-# Small Vessels
-
-## Land vehicle
+# Land vehicle
 
 - Size: Small
 - Type: Land
@@ -28,7 +26,7 @@ the vehicle offers.
 While normal land vehicles do not have a security system, special military
 grade vehicles may come with a security system.
 
-## T-150
+# T-150
 
 - Size: Small
 - Type: Land
@@ -57,8 +55,6 @@ small crew hatch beneath the main turrent.  It comes with a standard encrypted
 military grade radio array, infra red and night vision modules to aid the
 gunner.
 
-### Hit Array
-
 | 2d6      | Module
 |----------|--------
 | 2        | Sublight Engine MK I
@@ -68,7 +64,7 @@ gunner.
 | 10, 11   | Gatling MK I
 | 12       | Power Core
 
-## Mil Mi-72
+# Mil Mi-72
 
 - Size: Small
 - Type: Air
@@ -96,8 +92,6 @@ While it comes with armour, it does not - by default - come with weapons.
 Although a military version exists (the Mil Mi-72T) that does come with two
 mounted heavy machine guns on each side.
 
-### Hit Array
-
 | 2d6      | Module
 |----------|--------
 | 2        | Sublight Engine MK II
@@ -108,7 +102,7 @@ mounted heavy machine guns on each side.
 | 12       | Rear Rotor
 
 
-## Cobra MK-II
+# Cobra MK-II
 
 - Size: Small
 - Type: Air, Space
@@ -130,8 +124,6 @@ making it an optimal choice to outfit a fighter wing. Its aero-dynamic
 design also allows for atmospheric flight, although its strengths
 certainly lie in space combat.
 
-### Hit Array
-
 | 2d6      | Module
 |----------|--------
 | 2        | Sublight Engine MK II
@@ -142,7 +134,7 @@ certainly lie in space combat.
 | 11       | Launcher MK II
 | 12       | Power Core MK II
 
-## Hercules
+# Hercules
 
 - Size: Small
 - Type: Space
@@ -162,8 +154,6 @@ Small Sensor Array MK III, Small Power Core MK III, Security System MK I
 The hercules is a heavy fighter outfittet with guided missiles to take
 down even larger enemy vessels. It makes up for its lack in utility in
 raw fire power.
-
-### Hit Array
 
 | 2d6      | Module
 |----------|--------

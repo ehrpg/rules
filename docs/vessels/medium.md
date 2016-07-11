@@ -1,5 +1,3 @@
-# Medium Vessels
-
 ## Baleen RP-2
 
 - Size: Medium
@@ -46,8 +44,6 @@ so forth) can be overview and operated.
 The RP-2 has four docking hatches, two on the front and two on the rear of the
 ship. One big cargo hatch allows the loading and unloading of cargo in the rear
 of the ship.
-
-### Hit Array
 
 | 2d6      | Module
 |----------|--------
