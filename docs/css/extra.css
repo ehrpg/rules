@@ -74,12 +74,7 @@
   line-height: 2em;
 }
 
-.icon-strength,
-.icon-dexterity,
-.icon-constitution,
-.icon-intelligence,
-.icon-perception,
-.icon-charisma {
+[class*='ehicon-'] {
   float: left;
   padding-right: 5px;
 }
