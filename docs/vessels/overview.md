@@ -131,6 +131,14 @@ An amphibious troop transporter might have _land_ and _water_ as it's types,
 and a huge capital vessel might only have _space_ as it is not capable of
 entering an atmosphere.
 
+### <i class="fa fa-2x ehicon-air"></i> Air
+
+### <i class="fa fa-2x ehicon-space"></i> Space
+
+### <i class="fa fa-2x ehicon-land"></i> Land
+
+### <i class="fa fa-2x ehicon-water"></i> Water
+
 ## Vessel Size
 
 The vessels are split into different size categories. Modules from one size

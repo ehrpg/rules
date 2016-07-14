@@ -68,13 +68,11 @@
 	margin-bottom: 55px;
 }
 
-#abilities ~ h2,
-#available-skills ~ h2 {
-  position: relative;
-  line-height: 2em;
+[class*='ehicon-'] {
+  padding-right: 5px;
+  color: #404040;
 }
 
-[class*='ehicon-'] {
-  float: left;
-  padding-right: 5px;
+.fa-2x {
+  vertical-align: middle;
 }

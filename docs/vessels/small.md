@@ -111,7 +111,7 @@ mounted heavy machine guns on each side.
 | 12       | Rear Rotor
 
 
-# <i class="fa fa-2x ehicon-air"></i><i class="fa fa-2x ehicon-space"></i> Cobra MK-II
+# <i class="fa fa-2x ehicon-air" title="bla"></i><i class="fa fa-2x ehicon-space"></i> Cobra MK-II
 
 - Size: Small
 - Type: Air, Space
