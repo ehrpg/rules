@@ -7,7 +7,7 @@ theme: readthedocs
 extra_css:
     - css/extra.css
     - css/font-awesome.min.css
-    - css/attributes.css
+    - css/ehicons.css
 
 pages:
 - Introduction: 'index.md'

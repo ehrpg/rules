@@ -43,3 +43,4 @@ Minions icon - <span class="author">by <a href="http://lorcblog.blogspot.com" re
 Jet Fighter icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
 Jeep icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
 UFO icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
+At Sea icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br> 
