@@ -8,9 +8,6 @@ a trained character can add the modifier of those abilities to his roll.
 
 Some skills are special, as in they require a lot of effort to learn and use
 right, or require special materials, trainers or facilities to learn properly.
-There are also speciality skills. These skills cannot be learned on their own,
-but reflect a specialisation of an already existing skill. They help to
-specialise and refine a character.
 
 Each skill has a rank that goes from zero to ten. With zero meaning that the
 character has just learned the skill and cannot draw upon any experience when
@@ -22,7 +19,8 @@ Normal skills take one CCP to unlock, upon which the skill has a rank of
 zero. If the skill is a special skill, the unlock costs are ten CCP instead.
 
 Once the skill is learned, rank increases can be bought with the same exact
-number of CCP as the next rank.
+amount of CCP as the next rank. So to increase a skill from 3 to 4, you'd have
+to pay 4 CCP.
 
 # Using skills
 
@@ -38,13 +36,12 @@ on the same distance as easy in the heat of combat, fatigued by days of
 fighting. As soon as external influences come into affect, you _have to roll_.
 
 If you have unlocked a skill you make a skill check rolling a ten-sided dice,
-adding the appropriate ability modifiers, adding the skill rank and adding any
-specialised skill ranks (if applicable).
+adding the appropriate ability modifiers, and adding the skill's rank.
 
 If you have not unlocked the skill you simply roll a ten-sided dice and only
 add negative ability modifiers to the roll.
 
 When your result exceeds or is equal to the tasks difficulty (which is the base
 difficulty, plus any situational hindrances) you succeed. Please see tasks and
-_Checks and Difficulties_ for rules on causing minor, medium or major
-successes or failures.
+_Checks and Difficulties_ for rules on calculating the DC, and causing minor,
+medium or major successes or failures.
