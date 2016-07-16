@@ -174,6 +174,8 @@ are empty, they have to be manually reloaded.
 | PD MK I         | 6   | Piercing  | 10mm    | 400m   | 1 act. | Medium Vessel, Medium Power Core MK I   | 10 Burst |  60000
 | PD MK II        | 9   | Piercing  | 10mm    | 500m   | 1 act. | Medium Vessel, Medium Power Core MK II  | 10 Burst |  90000
 | PD MK III       | 12  | Piercing  | 10mm    | 600m   | 1 act. | Medium Vessel, Medium Power Core MK III | 15 Burst | 120000
+| Battery MK I    | -   | Explosion |  4 x Missile | - | -      | Medium Vessel, Small Power Core MK I    | No reload, -1 Speed |  30000
+| Battery MK II   | -   | Explosion | 10 x Missile | - | -      | Medium Vessel, Small Power Core MK II   | No reload, -2 Speed |  60000
 | Launcher MK I   | -   | Explosion | Missile | -      | 2 act. | Medium Vessel, Medium Power Core MK I   |          |  50000
 | Launcher MK II  | -   | Explosion | Missile | -      | 1 act. | Medium Vessel, Medium Power Core MK II  |          | 100000
 
