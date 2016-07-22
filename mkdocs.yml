@@ -3,6 +3,11 @@ repo_url: https://github.com/ehrpg
 site_author: "@n0la, @johannes-z"
 dev_addr: 127.0.0.1:8000
 
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: True
+
 theme: readthedocs
 extra_css:
     - css/extra.css
