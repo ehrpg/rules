@@ -104,8 +104,8 @@ intruders.
 
 Having no security system does not automatically mean that the vehicle can be
 operated without any sort of clearance. Normal land vehicles (such as cars)
-can be considered having no special security system, and may still be short
-circuited.
+can be considered having no special security system, and may still still require
+keys to be operated.
 
 | Name                         | DC | Bonus | Cost (S) | Cost (M) | Cost (L/C)
 |------------------------------|----|-------|----------|----------|-----------
