@@ -61,11 +61,11 @@
 }
 
 .formula-top {
-	margin-top: 55px;
+  margin-top: 55px;
 }
 
 .formula-bottom {
-	margin-bottom: 55px;
+  margin-bottom: 55px;
 }
 
 [class*='ehicon-'] {
@@ -75,4 +75,9 @@
 
 .fa-2x {
   vertical-align: middle;
+}
+
+.toctree-l4:before {
+  content: " — ";
+  padding: 0 5px;
 }
