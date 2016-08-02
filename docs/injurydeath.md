@@ -7,7 +7,7 @@ go below zero you have to roll to determine whether you stay conscious. The
 difficulty for this task is:
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="HP below zero">+ hp</span>
+DC = <span data-bracket-top="HP below zero">hp</span>
 </div>
 
 against:
@@ -41,9 +41,14 @@ First roll to _diagnose_ the patient and then to _treat_ the wounds.
 The DC is as followed:
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-bottom="base">5</span>
-<span data-bracket-top="HP lost">+
- <sup>hp</sup>&frasl;<sub>2</sub></span>
+DC = <span data-bracket-top="HP lost"> <sup>hp</sup>&frasl;<sub>2</sub></span>
+</div>
+
+A character is who is trained in _first aid_ can do the same, but the DC is
+is more difficult:
+
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-top="HP lost">hp</span>
 </div>
 
 If the diagnose check is successful any difference can be added to the treatment
@@ -53,16 +58,12 @@ subtracted from the treatment roll as a penalty.
 Then roll for treatment, with the same DC, and add or subtract any relevant
 bonus or penalty from the diagnose check. If you succeed you can heal one hit
 point per day for one week. If you fail however, you do not cure any additional
-hit points. Diagnosis and treatment requires a medic lab and at least a few
-hours of work, and thus cannot be done again on the same day.
+hit points. Diagnosis and treatment requires some sort medic laboratory,
+hospital, or at least a doctor's bag or a first aid kit. Diagnosis and treatment
+can be done multiple times a day, as degreed by the GM.
 
-A character is who is trained in _first aid_ can do the same, but the DC is
-is more difficult:
+You may treat yourself, but gain a +2 penalty on all checks while doing so.
 
-<div class="formula formula-top formula-bottom">
-DC = <span data-bracket-bottom="base">5</span>
-<span data-bracket-top="HP lost">+ hp</span>
-</div>
 
 # Wounds
 
@@ -87,17 +88,32 @@ because of wounds, you die.
 
 ## Treating Wounds
 
-A character capable _Medicine_ or _First Aid_ can try to treat a
-wound with a _treatment_ check. The DC is the amount of wounds (or the
-difference between your current and actual maximum HP) you have suffered. If
-_Medicine_ is used to treat the wound, you can attempt a _diagnose_
-check to see if you gain a bonus to your treatment dice (just as described in
-_Recovering Hit Points_). If the check succeeds one wound is cured, and
-thus one maximum HP is restored.
+Treating wounds works the same way as recovering hit points. You use _Medicine_
+or _First Aid_, diagnose first and add any relevant bonuses to the treatment
+check. The DC is determined by the amount of wound points sustained. For
+_Medicine_ the amount of wound points is halved for the DC.
+
+So for _Medicine_ the check is:
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-top="Wound points suffered">wounds</span>
+DC = <span data-bracket-top="Wounds suffered">
+ <sup>wounds</sup>&frasl;<sub>2</sub></span>
 </div>
+
+For _First Aid_ the check is more difficult:
+
+<div class="formula formula-top formula-bottom">
+DC = <span data-bracket-top="Wounds suffered">wounds</span>
+</div>
+
+First you diagnose the wounds. If you fail the check you must add any difference
+to your next treatment roll as a penalty. If you succeed the check you can add
+the difference to your treatment roll as a bonus.
+
+If you succeed at the treatment roll, the patient recovers 1 wound. The patient
+does not regain any hit points, but his maximum hit points is raised by one.
+This also possibly cures wounding effects, see down below for further
+information.
 
 Wounds cannot be cured naturally over time, and either require specialised
 equipment or others to diagnose and treat you. A character can try to diagnose
