@@ -77,7 +77,7 @@ goal, even if it can result in personal harm. The morale bonus has nothing to
 do with personal feelings (like fear or anger) although they might stem from
 them.
 
-A soldier who has abandoned all hope of returning alive (say a -2 morale
+A soldier who has abandoned all hope of returning alive (say a -1 morale
 bonus) from this deployment might still charge headlong into battle. Another
 example is a crew that has just realised they are stranded in deep space
 with no hope for rescue and resources left for just a few hours. The
@@ -126,7 +126,8 @@ DC = <span data-bracket-bottom="base">5</span>
 = 11
 </div>
 
-The captain has _Oratory_ at rank 5, and 6 charisma, with an intelligence rank of 5:
+The captain has _Oratory_ at rank 5, and 6 charisma, with an intelligence rank
+of 5:
 
 <div class="formula formula-top formula-bottom">
 1d10 = <span data-bracket-bottom="roll">6</span>
@@ -136,8 +137,10 @@ The captain has _Oratory_ at rank 5, and 6 charisma, with an intelligence rank o
 = 11
 </div>
 
-She succeeds and the game master degrees that the morale is lessened to -2 for
+She succeeds and the game master degrees that the morale is lessened to -1 for
 the entire crew.
 
 !!! note
-    Failing this task has no further implications. Rolling a natural one on the check though may result in further despair amidst the crew, adding to the morale penalty.
+    Failing this task has no further implications. Rolling a natural one on the
+    check though may result in further despair amidst the crew, adding to the
+    morale penalty.
