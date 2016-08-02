@@ -20,8 +20,8 @@ against:
 You may add effort to this roll to stay awake.
 
 For example, Jack got hit with a baseball bat over his head, and was dealt six
-points of damage. He currently has two hit points remaining and would four
-drop below zero, specifically to -4. His DC is thus 4.
+points of damage. He currently has two hit points remaining and would drop
+below zero, specifically to -4. His DC is thus 4.
 
 Another example, John was stabbed with a knife and took 8 points of damage,
 he was already barely standing at -1 HP. The DC to remain conscious is now 9
@@ -188,3 +188,9 @@ is treated.
 
 Sicknesses can get worse, in which case the penalty and maximum hit point loss
 increase. See the details of the specific sickness for these values.
+
+## Unconscious
+
+An unconscious character is considered _still_ and cannot take any actions. The
+character may fall to the ground _prone_. After he regains positive hit points,
+he awakens after a few minutes.
