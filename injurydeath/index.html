@@ -242,6 +242,8 @@
                 
                     <li><a class="toctree-l4" href="#sickened">Sickened</a></li>
                 
+                    <li><a class="toctree-l4" href="#unconscious">Unconscious</a></li>
+                
             
             </ul>
         
@@ -398,8 +400,7 @@ hit points are positive your character is not hindered in any way. If you
 go below zero you have to roll to determine whether you stay conscious. The
 difficulty for this task is:</p>
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-bottom="base">5</span>
-<span data-bracket-top="HP lost">+ hp</span>
+DC = <span data-bracket-top="HP below zero">+ hp</span>
 </div>
 
 <p>against:</p>
@@ -410,8 +411,11 @@ DC = <span data-bracket-bottom="base">5</span>
 
 <p>You may add effort to this roll to stay awake.</p>
 <p>For example, Jack got hit with a baseball bat over his head, and was dealt six
-points of damage. He currently has two hit points remaining and would four
-drop below zero. His DC is 5 + 4 = 9.</p>
+points of damage. He currently has two hit points remaining and would drop
+below zero, specifically to -4. His DC is thus 4.</p>
+<p>Another example, John was stabbed with a knife and took 8 points of damage,
+he was already barely standing at -1 HP. The DC to remain conscious is now 9
+(-1 -8 = -9).</p>
 <h1 id="recovering-hit-points">Recovering Hit Points<a class="headerlink" href="#recovering-hit-points" title="Permanent link">&para;</a></h1>
 <p>If all wounds are cared for, and you have time to rest and heal, you roll to
 see if you naturally recover one hit point per week. Any strenuous activity -
@@ -577,6 +581,10 @@ checks, and incurs a wound that lowers his maximum hit points until the sickness
 is treated.</p>
 <p>Sicknesses can get worse, in which case the penalty and maximum hit point loss
 increase. See the details of the specific sickness for these values.</p>
+<h2 id="unconscious">Unconscious<a class="headerlink" href="#unconscious" title="Permanent link">&para;</a></h2>
+<p>An unconscious character is considered <em>still</em> and cannot take any actions. The
+character may fall to the ground <em>prone</em>. After he regains positive hit points,
+he awakens after a few minutes.</p>
               
             </div>
           </div>
