@@ -7,8 +7,7 @@ go below zero you have to roll to determine whether you stay conscious. The
 difficulty for this task is:
 
 <div class="formula formula-top formula-bottom">
-DC = <span data-bracket-bottom="base">5</span>
-<span data-bracket-top="HP lost">+ hp</span>
+DC = <span data-bracket-top="HP below zero">+ hp</span>
 </div>
 
 against:
@@ -22,7 +21,11 @@ You may add effort to this roll to stay awake.
 
 For example, Jack got hit with a baseball bat over his head, and was dealt six
 points of damage. He currently has two hit points remaining and would four
-drop below zero. His DC is 5 + 4 = 9.
+drop below zero, specifically to -4. His DC is thus 4.
+
+Another example, John was stabbed with a knife and took 8 points of damage,
+he was already barely standing at -1 HP. The DC to remain conscious is now 9
+(-1 -8 = -9).
 
 # Recovering Hit Points
 
