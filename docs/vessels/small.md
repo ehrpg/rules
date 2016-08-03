@@ -52,7 +52,7 @@ grade vehicles may come with a security system.
 - Modules (Small): Sublight Engine MK I, Canon MK I, Gatling MK I,
 Sensor Array MK I, Power Core MK I, Military Grade Security System MK I
 
-The T-150 is one of the most modern and deadly assualt tanks available.
+The T-150 is one of the most modern and deadly assault tanks available.
 It can be operated by a crew of two, or by an AI. It uses four legs to walk and
 navigate difficult terrain, and the main turrent has two guns: a large cannon
 and a Gatling gun that fires .50 BMG or 12.7x108. One person acts as the driver
