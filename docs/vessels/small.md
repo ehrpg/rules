@@ -174,7 +174,7 @@ raw fire power.
 | 11       | Shield Generator MK II
 | 12       | Power Core MK III
 
-# <i class="fa fa-2x ehicon-space"></i> Peluga
+# <i class="fa fa-2x ehicon-space"></i> Beluga
 
 - Size: Small
 - Type: Space, Air
