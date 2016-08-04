@@ -106,7 +106,6 @@ This background costs 20 _CCP_.
 - +1 on _Charisma_
 - _Small Arms_ unlocked and at rank 3.
 - _Oratory_ unlocked and at rank 3.
-- _Smooth Talking_ unlocked and at rank 1.
 
 ## Politician
 
