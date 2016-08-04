@@ -11,7 +11,7 @@ If a firearm is not listed in the section and your players wishes to use it,
 just add them. This list is not exhaustive for the massive amounts of available
 firearms in the world today.
 
-## Magazines
+# Magazines
 
 Many modern firearms (especially handguns, rifles) come with detachable box
 magazines. These are most commonly not interchangeable between firearms unless
@@ -26,7 +26,7 @@ It is up to the player to manage, reload and maintain his magazines. It is not
 possible to reload a magazine during combat but if spare bullets are available
 magazines can be reloaded during downtime (travel with a shuttle etc.).
 
-## Firing Modes
+# Firing Modes
 
 Most fire arms are single action (meaning one trigger pull fires one bullet).
 But many also come with burst (one trigger pull fires multiple bullets) or
@@ -38,7 +38,7 @@ The table lists modes with abbreviations. *S* stands for single shot,
 stands for automatic, and *R* stands for repeating, meaning that a
 mechanism has to be operated to cycle the next round into the chamber.
 
-## Cartridges
+# Cartridges
 
 Each firearm fires a certain calibre. The bullet defines the damage that is
 done, while the firearm describes additional characteristics such as effective
@@ -53,7 +53,7 @@ kinetic energy transfer to internal organs and tissue.
 
 The cost and weight is for the given amounts of rounds.
 
-### Pistol Cartridges
+## Pistol Cartridges
 
 | Cartridge  | Type | Damage    | Cost           | Weight | Notes
 | ---------- |----- | --------- | -------------- | ------ | ------------------
@@ -78,7 +78,7 @@ The cost and weight is for the given amounts of rounds.
 | .44 Magnum| Normal| 2d4/2d4   | 30 (50 Rnds.)  | 0.8kg  | Stopped by Class II
 
 
-### Rifle Cartridges
+## Rifle Cartridges
 
 | Cartridge | Type   | Damage    | Cost           | Weight | Notes
 | --------- | ------ | --------- | -------------- | ------ | ---------------------
@@ -107,7 +107,7 @@ The cost and weight is for the given amounts of rounds.
 |           | HP     | 3d12/3d12 | 250 (10 Rnds.) | 1.1kg  | Stopped by Class VI
 |           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII, penetrates Vessel Armour MK I
 
-### Shotgun Shells
+## Shotgun Shells
 
 | Cartridge | Type     | Damage  | Cost           | Weight | Notes
 | --------- | -------- | ------- | -------------- | ------ | --------------------
@@ -115,7 +115,7 @@ The cost and weight is for the given amounts of rounds.
 |           | Slug     | 3d4/2d4 | 25 (12 Shells) | 0.6kg  | Stopped by Class III
 |           | Dart     | 3d4/3d4 | 30 (12 Shells) | 0.7kg  | Stopped by Class III
 
-## Pistols
+# Pistols
 
 Pistols (or handguns) are compact weapons usually used in close quarter combat.
 While most armed forces use them as secondary weapons (alongside more powerful
@@ -126,7 +126,7 @@ Most pistols are semi automatic, feeding from a detachable box magazine.
 
 The weight is given unloaded.
 
-### 9x18 Handguns
+## 9x18 Handguns
 
 | Name       | Cartridge | Range | FM  | Cap. | Recoil | Cost | Weight | Notes |
 | ---------- | --------- | ----- | --- | ---- | ------ | ---- | ------ | ----- |
@@ -134,7 +134,7 @@ The weight is given unloaded.
 | Fort-12    | 9x18mm    | 50m   | S   | 12   | 1      | 160  | 0.8kg  |       |
 | MP-448     | 9x18mm    | 50m   | S   | 12   | 2      | 150  | 0.6kg  |       |
 
-### 9x19 Handguns
+## 9x19 Handguns
 
 | Name         | Cartridge | Range | FM  | Cap. | Recoil | Cost | Weight | Notes       |
 | ------------ | --------- | ----- | --- | ---- | ------ | ---- | ------ | ----------- |
@@ -147,7 +147,7 @@ The weight is given unloaded.
 | Beretta 92FS | 9x19mm    | 50m   | S   | 18   | 2      | 260  | 0.9kg  |             |
 | MP-443       | 9x19mm    | 50m   | S   | 18   | 2      | 260  | 0.9kg  |             |
 
-### .45 ACP Handguns
+## .45 ACP Handguns
 
 | Name         | Cartridge | Range | FM  | Cap. | Recoil | Cost | Weight | Notes |
 | ------------ | --------- | ----- | --- | ---- | ------ | ---- | ------ | ----- |
@@ -156,13 +156,13 @@ The weight is given unloaded.
 | Hi-Point JHP | .45 ACP   | 50m   | S   | 10   | 3      | 250  | 0.9kg  |       |
 | Glock 21     | .45 ACP   | 50m   | S   | 13   | 4      | 250  | 0.8kg  |       |
 
-### .44 Magnum Handguns
+## .44 Magnum Handguns
 
 | Name         | Cartridge  | Range | FM  | Cap. | Recoil | Cost | Weight | Notes |
 | ------------ | ---------- | ----- | --- | ---- | ------ | ---- | ------ | ----- |
 | Desert Eagle | .44 Magnum | 70m   | S   | 8    | 5      | 350  | 1.9kg  |       |
 
-## Shotguns
+# Shotguns
 
 Most shotguns are of the pump-action variety and come with an internal tube that
 holds a fixed amount of ammunition. The TOZ-34 is a stand in for most break-top
@@ -178,7 +178,7 @@ list them all.
 | AA-12          | 12G       | 70m   | SA  | 10   | 3      | 600  | 5.2kg  |                   |
 | Saiga-12       | 12G       | 70m   | SA  | 10   | 4      | 550  | 3.6kg  |                   |
 
-## Submachine Guns
+# Submachine Guns
 
 Submachine guns fire a pistol calibre, often very concealable, and deadly in
 close quarters. They are often issued to support personnel, vehicle operators
@@ -195,7 +195,7 @@ and security detail that need a compact but deadly and efficient weapon.
 | FN P90         | 5.7x28    | 200m  | SA  | 50   | 3      | 800  | 2.6kg  |       |
 | SR-2M          | 9x21      | 200m  | SA  | 30   | 3      | 750  | 1.6kg  |       |
 
-## Rifles
+# Rifles
 
 Rifles range from combat rifles, assault rifles to bolt action rifles. Almost
 all armies use one as their main infantry weapon. They are the go to fire arm
@@ -207,7 +207,7 @@ is 1 for the second bullet in burst.
 The AS Val comes with an integrated silencer. If removed, the gun will not
 cycle anymore and loose half of its effective range.
 
-### Assault Rifles
+## Assault Rifles
 
 | Name         | Cartridge | Range | FM     | Cap. | Recoil | Cost | Weight | Notes |
 | ------------ | --------- | ----- | ------ | ---- | ------ | ---- | ------ | ----- |
@@ -227,7 +227,7 @@ cycle anymore and loose half of its effective range.
 | AS Val       | 9x39mm    | 300m  | SA     | 20   | 4      | 900  | 2.5kg  |       |
 | SR-3         | 9x39mm    | 200m  | SA     | 20   | 4      | 700  | 2.0kg  |       |
 
-### High-Calibre Rifles
+## High-Calibre Rifles
 
 | Name         | Cartridge | Range | FM  | Cap. | Recoil | Cost | Weight | Notes       |
 | ------------ | --------- | ----- | --- | ---- | ------ | ---- | ------ | ----------- |
@@ -243,7 +243,7 @@ cycle anymore and loose half of its effective range.
 | OSV-96       | 12.7x108  | 2000m | S   | 5    | 12     | 1300 | 12.9kg |             |
 | KSVK         | 12.7x108  | 1500m | S   | 5    | 12     | 1200 | 12.5kg |             |
 
-## Machine Guns
+# Machine Guns
 
 Light machine guns offer a big magazine capacity (often fed from a belt) and
 capability for long sustained fire. While carrying and firing from the shoulder

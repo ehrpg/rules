@@ -66,7 +66,7 @@ except changing stance. The following are examples of difficult terrain: stairs,
 uphill slopes, snow, mudd or wet surfaces.
 
 If a character is out of speed points the character cannot move anymore. He
-may however spend one of his actions in a round to regain his speed points.
+may however use his round to regain his speed points.
 
 A character can use effort points in case of speed points, or if the character
 is out speed points. Effort points can also be used in addition to speed points,

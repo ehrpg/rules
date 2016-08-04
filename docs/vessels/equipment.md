@@ -153,16 +153,19 @@ are empty, they have to be manually reloaded.
 
 ## Small Weapons
 
-| Name            | Dmg | Type      | Ammo    | Range  | Reload | Requirements                          | Special  | Cost
-|-----------------|---- |-----------|---------|--------|--------|---------------------------------------|----------|------
-| Railgun MK I    | 8   | Piercing  | 30mm    | 100km  | 1 rnd. | Small Vessel, Small Power Core MK I   |          |  4000
-| Railgun MK II   | 12  | Piercing  | 30mm    | 150km  | 2 rnds.| Small Vessel, Small Power Core MK II  |          |  8000
-| Railgun MK III  | 16  | Piercing  | 30mm    | 200km  | 4 rnds.| Small Vessel, Small Power Core MK III | -1 Speed | 12000
-| PD MK I         | 3   | Piercing  | 10mm    | 400m   | 1 act. | Small Vessel, Small Power Core MK I   | 10 Burst |  3000
-| PD MK II        | 6   | Piercing  | 10mm    | 500m   | 1 act. | Small Vessel, Small Power Core MK II  | 10 Burst |  6000
-| PD MK III       | 8   | Piercing  | 10mm    | 600m   | 1 act. | Small Vessel, Small Power Core MK III | 15 Burst            |  8000
-| Battery MK I    | -   | Explosion |  4 x Missile | - | -      | Small Vessel, Small Power Core MK I   | No reload, -1 Speed |  3000
-| Battery MK II   | -   | Explosion | 10 x Missile | - | -      | Small Vessel, Small Power Core MK II  | No reload, -2 Speed |  6000
+| Name                   | Dmg | Type      | Ammo    | Range  | Reload | Requirements                          | Special  | Cost
+|------------------------|---- |-----------|---------|--------|--------|---------------------------------------|----------|------
+| Railgun MK I           | 8   | Piercing  | 30mm    | 100km  | 1 rnd. | Small Vessel, Small Power Core MK I   |          |  4000
+| Railgun MK II          | 12  | Piercing  | 30mm    | 150km  | 2 rnds.| Small Vessel, Small Power Core MK II  |          |  8000
+| Railgun MK III         | 16  | Piercing  | 30mm    | 200km  | 4 rnds.| Small Vessel, Small Power Core MK III | -1 Speed | 12000
+| PD MK I                | 3   | Piercing  | 10mm    | 400m   | 1 act. | Small Vessel, Small Power Core MK I   | 10 Burst |  3000
+| PD MK II               | 6   | Piercing  | 10mm    | 500m   | 1 act. | Small Vessel, Small Power Core MK II  | 10 Burst |  6000
+| PD MK III              | 8   | Piercing  | 10mm    | 600m   | 1 act. | Small Vessel, Small Power Core MK III | 15 Burst            |  8000
+| Battery MK I           | -   | Explosion |  4 x Missile | - | -      | Small Vessel, Small Power Core MK I   | No reload, -1 Speed |  3000
+| Battery MK II          | -   | Explosion | 10 x Missile | - | -      | Small Vessel, Small Power Core MK II  | No reload, -2 Speed |  6000
+| Revolver cannon MK I   | 4   | Explosion | 25mm    |   2km  | 1 act. | Small Vessel, Small Power Core MK I   | 3 Burst  | 2000
+| Revolver cannon MK II  | 8   | Explosion | 25mm    |   2km  | 1 act. | Small Vessel, Small Power Core MK II  | 3 Burst  | 4000
+| Revolver cannon MK III | 12  | Explosion | 25mm    |   3km  | 1 act. | Small Vessel, Small Power Core MK III | 5 Burst  | 8000
 
 ## Medium Weapons
 

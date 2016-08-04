@@ -1,4 +1,4 @@
-## Baleen RP-2
+## <i class="fa fa-2x ehicon-air"></i><i class="fa fa-2x ehicon-space"></i> Baleen RP-2
 
 - Size: Medium
 - Type: Space, Air

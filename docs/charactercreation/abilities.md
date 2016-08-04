@@ -11,34 +11,34 @@ For example Jack has a seven strength, which means he has a plus two modifier
 in strength. Whenever Jack does a task related to strength, he can add the plus
 two modifier to his roll.
 
-## <i class="fa fa-2x icon-strength icon-strength-h1"></i> Strength
+## <i class="fa fa-2x ehicon-strength"></i> Strength
 Strength represents your raw physical power. It determines not
 only how much a character can lift, drag or push; but also how far he can jump,
 or how much damage he does in melee combat.
 
-## <i class="fa fa-2x icon-dexterity icon-dexterity-h1"></i> Dexterity
+## <i class="fa fa-2x ehicon-dexterity"></i> Dexterity
 Dexterity determines your characters fine motor skills and how
 well your hand-eye coordination is. It is used in combat with fire arms, and
 other skills that require a steady hand, such as piloting a vessel or performing
 surgery.
 
-## <i class="fa fa-2x icon-constitution icon-constitution-h1"></i> Constitution
+## <i class="fa fa-2x ehicon-constitution"></i> Constitution
 Constitution determines the physical wellness of your
 character. It determines your hit points, as well as endurance and overall
 fitness and health of your character.
 
-## <i class="fa fa-2x icon-intelligence icon-intelligence-h1"></i> Intelligence
+## <i class="fa fa-2x ehicon-intelligence"></i> Intelligence
 Intelligence represents how well and fast your character
 learns, how well he can think logically, or in abstract terms. It is important
 for the sciences and other academic fields.
 
-## <i class="fa fa-2x icon-perception icon-perception-h1"></i> Perception
+## <i class="fa fa-2x ehicon-perception"></i> Perception
 Perception is the awareness of your character. It describes
 how well your character can describe his surroundings, either passively or
 actively. It determines how well the character finds things that are hidden,
 or notices danger.
 
-## <i class="fa fa-2x icon-charisma icon-charisma-h1"></i> Charisma
+## <i class="fa fa-2x ehicon-charisma"></i> Charisma
 Charisma determines how well your character can interact with
 others. This includes force of personality, speech articulation and expressions.
 It is not just the overall beauty of a character, but also his appearance and

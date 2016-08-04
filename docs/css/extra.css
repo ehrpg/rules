@@ -61,25 +61,23 @@
 }
 
 .formula-top {
-	margin-top: 55px;
+  margin-top: 55px;
 }
 
 .formula-bottom {
-	margin-bottom: 55px;
+  margin-bottom: 55px;
 }
 
-#abilities ~ h2,
-#available-skills ~ h2 {
-  position: relative;
-  line-height: 2em;
-}
-
-.icon-strength,
-.icon-dexterity,
-.icon-constitution,
-.icon-intelligence,
-.icon-perception,
-.icon-charisma {
-  float: left;
+[class*='ehicon-'] {
   padding-right: 5px;
+  color: #404040;
+}
+
+.fa-2x {
+  vertical-align: middle;
+}
+
+.toctree-l4:before {
+  content: " — ";
+  padding: 0 5px;
 }

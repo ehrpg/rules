@@ -1,13 +1,19 @@
 site_name: Endless Horizons - RPG
 repo_url: https://github.com/ehrpg
 site_author: "@n0la, @johannes-z"
-dev_addr: 0.0.0.0:8000
+dev_addr: 127.0.0.1:8001
 
 theme: readthedocs
 extra_css:
     - css/extra.css
     - css/font-awesome.min.css
-    - css/attributes.css
+    - css/ehicons.css
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - toc:
+      permalink: True
 
 pages:
 - Introduction: 'index.md'

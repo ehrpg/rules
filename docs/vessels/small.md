@@ -1,4 +1,4 @@
-# Land vehicle
+# <i class="fa fa-2x ehicon-land"></i> Land vehicle
 
 - Size: Small
 - Type: Land
@@ -35,7 +35,7 @@ grade vehicles may come with a security system.
 | 10, 11      | Passenger Seat
 | 12          | Sublight Engine
 
-# T-150
+# <i class="fa fa-2x ehicon-land"></i> T-150
 
 - Size: Small
 - Type: Land
@@ -52,7 +52,7 @@ grade vehicles may come with a security system.
 - Modules (Small): Sublight Engine MK I, Canon MK I, Gatling MK I,
 Sensor Array MK I, Power Core MK I, Military Grade Security System MK I
 
-The T-150 is one of the most modern and deadly assualt tanks available.
+The T-150 is one of the most modern and deadly assault tanks available.
 It can be operated by a crew of two, or by an AI. It uses four legs to walk and
 navigate difficult terrain, and the main turrent has two guns: a large cannon
 and a Gatling gun that fires .50 BMG or 12.7x108. One person acts as the driver
@@ -73,7 +73,7 @@ gunner.
 | 10, 11   | Gatling MK I
 | 12       | Power Core
 
-# Mil Mi-72
+# <i class="fa fa-2x ehicon-air"></i> Mil Mi-72
 
 - Size: Small
 - Type: Air
@@ -111,7 +111,7 @@ mounted heavy machine guns on each side.
 | 12       | Rear Rotor
 
 
-# Cobra MK-II
+# <i class="fa fa-2x ehicon-air"></i><i class="fa fa-2x ehicon-space"></i> Cobra MK-II
 
 - Size: Small
 - Type: Air, Space
@@ -143,7 +143,7 @@ certainly lie in space combat.
 | 11       | Launcher MK II
 | 12       | Power Core MK II
 
-# Hercules
+# <i class="fa fa-2x ehicon-space"></i> Hercules
 
 - Size: Small
 - Type: Space

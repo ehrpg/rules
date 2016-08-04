@@ -70,18 +70,18 @@ or the other) or positive (motivation to succeed). The morale bonus is
 controlled by the game master and can be determined from many
 different sources.
 
-Values should range between _minus ten_ (-10) and _plus ten_ (+10),
-with minus ten being despair to the point of abandoning one's own believes or
-principles, and plus ten being an almost religious frenzy to achieve the
+Values range between _minus three_ (-3) and _plus three_ (+3),
+with minus three being despair to the point of abandoning one's own believes or
+principles, and plus three being an almost religious frenzy to achieve the
 goal, even if it can result in personal harm. The morale bonus has nothing to
 do with personal feelings (like fear or anger) although they might stem from
 them.
 
-A soldier who has abandoned all hope of returning alive (say a -3 morale
+A soldier who has abandoned all hope of returning alive (say a -1 morale
 bonus) from this deployment might still charge headlong into battle. Another
 example is a crew that has just realised they are stranded in deep space
 with no hope for rescue and resources left for just a few hours. The
-game master decrees that a -4 penalty is appropriate for the situation. After
+game master decrees that a -3 penalty is appropriate for the situation. After
 repairing the emergency distress signal they are contacted by a rescue party
 and the game master decides that the morale has been restored and is now at +1.
 
@@ -114,27 +114,33 @@ between the two people, for example a good friend can be more easily convinced
 and motivated, than a total stranger.
 
 For example, the crew mentioned above, is marooned in deep space with no help
-of rescue. The game master the DM sets the morale for everyone to -4, except
-for the captain who he set to -2 since this has already happened to him
+of rescue. The game master the DM sets the morale for everyone to -3, except
+for the captain who he set to -1 since this has already happened to him
 before.  The captain has already formulated a plan. She addresses a speech at
 his crew detailing the plan and trying to boost morale. The DC is as
 followed:
 
 <div class="formula formula-top formula-bottom">
 DC = <span data-bracket-bottom="base">5</span>
-<span data-bracket-top="morale">+ 3</span>
-= 8
+<span data-bracket-top="morale">+ 1</span>
+= 11
 </div>
 
-The captain has _Oratory_ at rank 5, and 6 charisma:
+The captain has _Oratory_ at rank 5, and 6 charisma, with an intelligence rank
+of 5:
 
 <div class="formula formula-top formula-bottom">
 1d10 = <span data-bracket-bottom="roll">6</span>
 <span data-bracket-top="skill">+ 5</span>
 <span data-bracket-bottom="charisma">+ 1</span>
-<span data-bracket-top="morale">- 2</span>
-= 10
+<span data-bracket-top="morale">- 1</span>
+= 11
 </div>
 
-She succeeds and the game master degrees that the morale is lessed to -2 for
+She succeeds and the game master degrees that the morale is lessened to -1 for
 the entire crew.
+
+!!! note
+    Failing this task has no further implications. Rolling a natural one on the
+    check though may result in further despair amidst the crew, adding to the
+    morale penalty.
