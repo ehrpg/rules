@@ -173,3 +173,34 @@ raw fire power.
 | 9, 10    | Battery MK II
 | 11       | Shield Generator MK II
 | 12       | Power Core MK III
+
+# <i class="fa fa-2x ehicon-space"></i> Peluga
+
+- Size: Small
+- Type: Space, Air
+- Crew: 1
+- Passengers: 6
+- HP: 40
+- Module HP: 20
+- Weight: 20 Tons
+- Unit Price: 90 000
+- Speed: 4
+- Fuel Capcity: 30
+- Cargo: 4 tons
+- Armour: 0
+- Shields: 0
+- Modules (Small): Sublight Engine MK I, Small Sensor Array MK I, Small Power Core MK I, Security System MK I
+
+The Peluga is an old, outdated small personal carrier that was built for
+transporting cargo or people from the planet to an orbiting space station.
+It has been superseeded by newer models, but can still be seen making short
+range trips. It fits into cargo space of larger (medium) vessels.
+
+| 2d6      | Module
+|----------|--------
+| 2        | Sublight Engine MK I
+| 3, 4     | Sensor Array MK I
+| 5, 6, 7  | Hull
+| 8  9,    | Cockpit
+| 10, 11   | Hull
+| 12       | Power Core MK I
