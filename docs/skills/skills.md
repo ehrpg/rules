@@ -41,7 +41,7 @@ the _Heavy Weapons_ skill. It uses _Perception_ and _Dexterity_.
 You have studied the art of applying mathematics, science and
 knowledge of materials to craft and construct devices, buildings and
 all other sorts of man made constructs. It uses _Intelligence_ and
-_Intelligence_. Sub types of this skill can relate to (but are not
+_Intelligence_. Sub types of this skill can relate to, but are not
 limited to: Computers, Buildings, Vehicles or Spacecraft.
 
 
