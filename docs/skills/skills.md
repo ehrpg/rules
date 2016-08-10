@@ -51,6 +51,16 @@ This is the skill to escape from ropes, handcuffs and other restraints. It
 uses _Strength_ and _Dexterity_.
 
 
+## <i class="fa fa-2x ehicon-intelligence"></i><i class="fa fa-2x ehicon-dexterity"></i> Explosives
+
+This skill is used to handle, plant and disarm explosives. For example, it can
+be used to plant shaped charges, bombs and mines; but is also used to disarm
+these devices. Miners and demolition crews also rely heavily on this skill to
+determine how much explosives is required to get the job done without destroying
+more than intended. The skill can also be used as a knowledge skill to determine
+properties, safety or disarm procedures about specific explosives or explosive
+devices. It uses _Dexterity_ and _Intelligence_.
+
 ## <i class="fa fa-2x ehicon-intelligence"></i><i class="fa fa-2x ehicon-perception"></i> First Aid
 
 First aid comprises techniques ranging from applying intricate bandages to
