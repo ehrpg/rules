@@ -76,6 +76,10 @@ result wins. On a draw, the party who initiated the contest wins.
 # Applying Effort
 
 On all rolls of the dice that determine an outcome for the player, the player
-may spend effort points. He has to declare so, before making the roll. The
-amount of effort he wishes to spend must not exceed his remaining effort pool.
-Any points the player spends is added to the result dice roll.
+may spend effort points. He has to declare so, before making the roll. The amount of effort he wishes to spend must not exceed his remaining effort pool. Also any points the player spends is added to the result dice roll, if any.
+
+## Skills
+For applying effort to skills, a character can only use as much effort as he has ranks in that skills.
+
+## Movement
+When applying effort for movement in combat, a character can only use as much effort as the character has speed.

@@ -41,6 +41,8 @@ adding the appropriate ability modifiers, and adding the skill's rank.
 If you have not unlocked the skill you simply roll a ten-sided dice and only
 add negative ability modifiers to the roll.
 
+Skills that are marked as special need to be unlocked in order to be used.
+
 When your result exceeds or is equal to the tasks difficulty (which is the base
 difficulty, plus any situational hindrances) you succeed. Please see tasks and
 _Checks and Difficulties_ for rules on calculating the DC, and causing minor,
