@@ -67,6 +67,15 @@ can be done multiple times a day, as degreed by the GM.
 You may treat yourself, but gain a +2 penalty on all checks while doing so.
 
 
+!!! note
+    We are aware that this healing rule is slow, difficult and cumbersome for
+    the player. Healing HP, and wounds for that matter, has been made a
+    responsibility of the campaign setting. See your relevant campaign setting
+    material for additional healing options, such as items or rules.
+    Some settings might offer near instantaneous healing through items or
+    technology, others might wish add to the survival game play experience by
+    limiting healing.
+
 ## Wounds
 
 The wounding system abstracts away injury, wounds and other impediments a
@@ -78,15 +87,26 @@ Whenever a player takes damage (from any source) he has to roll to see whether
 he sustains a wound. Wounds are separate from HP loss and represent negative
 effects a player might sustain for losing HP.
 
-To see if the player gains a wound from roll a constitution check against the
-the damage caused to the player: This is the damage after any relevant armour is
-subtracted but _before any zone modifiers are applied_.
+To see if the player gains a wound from roll a constitution/strength check
+against the the damage caused to the player: This is the damage after any
+relevant armour is subtracted but _before any zone modifiers are applied_.
+Morale does apply to this roll, as do any other relevant bonuses gained from
+certain perks or items. You _may not_ add effort to this roll.
 
-If the check fails you gain a wound. This wound reduces your maximum hit points
-by one until it is treated. This effect stacks with all other wounds. Since your
-maximum hit points are reduced, this means that your death threshold is also at
-your new negative maximum hit points. If you reach zero maximum hit points
-because of wounds, you die.
+<div class="formula formula-top formula-bottom">
+1d10 <span data-bracket-top="CON Modifier">+ CON</span>
+<span data-bracket-bottom="STR Modifier">+ STR</span>
+<span data-bracket-top="Morale">+ MOR</span>
+<span data-bracket-bottom="Other Boni">+ MISC</span>
+</div>
+
+
+If the check fails you gain the difference between the DC and your roll as
+wounds. These wounds reduces your maximum hit points by that amount until
+treated. This effect stacks with all other wounds. Since your maximum hit
+points are reduced, this means that your death threshold is also at your new
+negative maximum hit points. If you reach zero maximum hit points because of
+wounds, you die.
 
 ### Treating Wounds
 
@@ -131,18 +151,13 @@ DC = <span data-bracket-bottom="Wound points suffered">wounds</span>
 
 If your maximum HP is reduced below one half of your normal HP through wounds
 you have suffered a _major wound_. Whenever you do any strenuous activity on a
-day, you must roll a constitution score against half your wound total. If you
-fail this check you gain another wound point.
+day, you must roll a check against your half your wound total. If you fail
+this check you gain another wound point.
 
 If your maximum HP is reduced below one quarter of your normal HP through wounds
 you have suffered a _fatal wound_. For every day your maximum hit points is
-reduced below one quarter, you must make a constitution score against half
-the wound total. If you fail you gain another wound point.
-
-<div class="formula formula-top formula-bottom">
-DC = <span data-bracket-bottom="Wound points suffered">
-<sup>wounds</sup>&frasl;<sub>2</sub></span>
-</div>
+reduced below one quarter, you must make another check against your wound total.
+If you fail you gain another wound point.
 
 ### Wounding Effects
 
@@ -172,6 +187,10 @@ what affect this has.
 | 10     | -                  |
 
 These effects stack with each other. If you roll a ten nothing happens.
+
+!!! note
+    The Wounding Effects rule adds additional hurdle and lethality to the game.
+    Game Masters should carefully consider this rule, before using it.
 
 ## States
 
