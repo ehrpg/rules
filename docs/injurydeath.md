@@ -194,7 +194,10 @@ These effects stack with each other. If you roll a ten nothing happens.
 
 ## States
 
-A character can be afflicted by various states that alter his performance.
+A character can be afflicted by various states that alter his performance. Game
+Masters should give out these states to players and NPCs, depending on the
+situation. Items or environmental effects may also apply these states to the
+players or NPCs.
 
 ### Blinded
 
