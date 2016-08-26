@@ -1,4 +1,6 @@
-# Hit Points
+# Injury and Death
+
+## Hit Points
 
 Your hit points determine how much kick you have left in you. If you drop to
 or below your negative amount of maximum hit points you die. As long as your
@@ -27,7 +29,7 @@ Another example, John was stabbed with a knife and took 8 points of damage,
 he was already barely standing at -1 HP. The DC to remain conscious is now 9
 (-1 -8 = -9).
 
-# Recovering Hit Points
+### Recovering Hit Points
 
 If all wounds are cared for, and you have time to rest and heal, you roll to
 see if you naturally recover one hit point per week. Any strenuous activity -
@@ -65,7 +67,7 @@ can be done multiple times a day, as degreed by the GM.
 You may treat yourself, but gain a +2 penalty on all checks while doing so.
 
 
-# Wounds
+## Wounds
 
 The wounding system abstracts away injury, wounds and other impediments a
 character gains through the loss of hit points. Having suffered "four wound
@@ -86,7 +88,7 @@ maximum hit points are reduced, this means that your death threshold is also at
 your new negative maximum hit points. If you reach zero maximum hit points
 because of wounds, you die.
 
-## Treating Wounds
+### Treating Wounds
 
 Treating wounds works the same way as recovering hit points. You use _Medicine_
 or _First Aid_, diagnose first and add any relevant bonuses to the treatment
@@ -125,7 +127,7 @@ DC = <span data-bracket-bottom="Wound points suffered">wounds</span>
 <span data-bracket-top="penalty for self treatment">+ 2</span>
 </div>
 
-## Major Wounds
+### Major Wounds
 
 If your maximum HP is reduced below one half of your normal HP through wounds
 you have suffered a _major wound_. Whenever you do any strenuous activity on a
@@ -142,7 +144,7 @@ DC = <span data-bracket-bottom="Wound points suffered">
 <sup>wounds</sup>&frasl;<sub>2</sub></span>
 </div>
 
-## Wounding Effects
+### Wounding Effects
 
 Whenever your wound points reach a multiple of five (5, 10, 15 etc.) you gain
 one additional wounding effect. Roll ten sided dice against the table below to
@@ -171,32 +173,32 @@ what affect this has.
 
 These effects stack with each other. If you roll a ten nothing happens.
 
-# States
+## States
 
 A character can be afflicted by various states that alter his performance.
 
-## Blinded
+### Blinded
 
 A blinded character cannot use his perception in related skill checks, unless
 the character has another sense to orient himself, such as scent. A blinded
 character also takes another speed on all movements.
 
-## Deafened
+### Deafened
 
 A defeaned character also loses his perception in related skill checks. If
 a character is blinded and defeaned, the character is treated as having
 -4 in perception.
 
-## Stunned
+### Stunned
 
 A stunned character is unable to move for a given amount of rounds, and cannot
 do actions such as dodging, moving, jumping or running.
 
-## Nauseated
+### Nauseated
 
 A nauseated character takes -1 on all related skill checks.
 
-## Sickened
+### Sickened
 
 Depending on the sickness, the character gains a minus on all related skill
 checks, and incurs a wound that lowers his maximum hit points until the sickness
@@ -205,7 +207,7 @@ is treated.
 Sicknesses can get worse, in which case the penalty and maximum hit point loss
 increase. See the details of the specific sickness for these values.
 
-## Unconscious
+### Unconscious
 
 An unconscious character is considered _still_ and cannot take any actions. The
 character may fall to the ground _prone_. After he regains positive hit points,
