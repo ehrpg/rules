@@ -215,34 +215,13 @@
         
             <ul>
             
-                <li class="toctree-l3"><a href="#hit-points">Hit Points</a></li>
+                <li class="toctree-l3"><a href="#injury-and-death">Injury and Death</a></li>
                 
-            
-                <li class="toctree-l3"><a href="#recovering-hit-points">Recovering Hit Points</a></li>
+                    <li><a class="toctree-l4" href="#hit-points">Hit Points</a></li>
                 
-            
-                <li class="toctree-l3"><a href="#wounds">Wounds</a></li>
+                    <li><a class="toctree-l4" href="#wounds">Wounds</a></li>
                 
-                    <li><a class="toctree-l4" href="#treating-wounds">Treating Wounds</a></li>
-                
-                    <li><a class="toctree-l4" href="#major-wounds">Major Wounds</a></li>
-                
-                    <li><a class="toctree-l4" href="#wounding-effects">Wounding Effects</a></li>
-                
-            
-                <li class="toctree-l3"><a href="#states">States</a></li>
-                
-                    <li><a class="toctree-l4" href="#blinded">Blinded</a></li>
-                
-                    <li><a class="toctree-l4" href="#deafened">Deafened</a></li>
-                
-                    <li><a class="toctree-l4" href="#stunned">Stunned</a></li>
-                
-                    <li><a class="toctree-l4" href="#nauseated">Nauseated</a></li>
-                
-                    <li><a class="toctree-l4" href="#sickened">Sickened</a></li>
-                
-                    <li><a class="toctree-l4" href="#unconscious">Unconscious</a></li>
+                    <li><a class="toctree-l4" href="#states">States</a></li>
                 
             
             </ul>
@@ -393,7 +372,8 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="hit-points">Hit Points<a class="headerlink" href="#hit-points" title="Permanent link">&para;</a></h1>
+                <h1 id="injury-and-death">Injury and Death<a class="headerlink" href="#injury-and-death" title="Permanent link">&para;</a></h1>
+<h2 id="hit-points">Hit Points<a class="headerlink" href="#hit-points" title="Permanent link">&para;</a></h2>
 <p>Your hit points determine how much kick you have left in you. If you drop to
 or below your negative amount of maximum hit points you die. As long as your
 hit points are positive your character is not hindered in any way. If you
@@ -416,7 +396,7 @@ below zero, specifically to -4. His DC is thus 4.</p>
 <p>Another example, John was stabbed with a knife and took 8 points of damage,
 he was already barely standing at -1 HP. The DC to remain conscious is now 9
 (-1 -8 = -9).</p>
-<h1 id="recovering-hit-points">Recovering Hit Points<a class="headerlink" href="#recovering-hit-points" title="Permanent link">&para;</a></h1>
+<h3 id="recovering-hit-points">Recovering Hit Points<a class="headerlink" href="#recovering-hit-points" title="Permanent link">&para;</a></h3>
 <p>If all wounds are cared for, and you have time to rest and heal, you roll to
 see if you naturally recover one hit point per week. Any strenuous activity -
 such as fighting or travelling - interferes with this natural healing ability,
@@ -446,7 +426,17 @@ hit points. Diagnosis and treatment requires some sort medic laboratory,
 hospital, or at least a doctor&rsquo;s bag or a first aid kit. Diagnosis and treatment
 can be done multiple times a day, as degreed by the GM.</p>
 <p>You may treat yourself, but gain a +2 penalty on all checks while doing so.</p>
-<h1 id="wounds">Wounds<a class="headerlink" href="#wounds" title="Permanent link">&para;</a></h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>We are aware that this healing rule is slow, difficult and cumbersome for
+the player. Healing HP, and wounds for that matter, has been made a
+responsibility of the campaign setting. See your relevant campaign setting
+material for additional healing options, such as items or rules.
+Some settings might offer near instantaneous healing through items or
+technology, others might wish add to the survival game play experience by
+limiting healing.</p>
+</div>
+<h2 id="wounds">Wounds<a class="headerlink" href="#wounds" title="Permanent link">&para;</a></h2>
 <p>The wounding system abstracts away injury, wounds and other impediments a
 character gains through the loss of hit points. Having suffered &ldquo;four wound
 damage&rdquo; does not mean, that the character has four minor wounds. They might as
@@ -454,15 +444,25 @@ well be one major wound that has gradually gotten worse.</p>
 <p>Whenever a player takes damage (from any source) he has to roll to see whether
 he sustains a wound. Wounds are separate from HP loss and represent negative
 effects a player might sustain for losing HP.</p>
-<p>To see if the player gains a wound from roll a constitution check against the
-the damage caused to the player: This is the damage after any relevant armour is
-subtracted but <em>before any zone modifiers are applied</em>.</p>
-<p>If the check fails you gain a wound. This wound reduces your maximum hit points
-by one until it is treated. This effect stacks with all other wounds. Since your
-maximum hit points are reduced, this means that your death threshold is also at
-your new negative maximum hit points. If you reach zero maximum hit points
-because of wounds, you die.</p>
-<h2 id="treating-wounds">Treating Wounds<a class="headerlink" href="#treating-wounds" title="Permanent link">&para;</a></h2>
+<p>To see if the player gains a wound from roll a constitution/strength check
+against the the damage caused to the player: This is the damage after any
+relevant armour is subtracted but <em>before any zone modifiers are applied</em>.
+Morale does apply to this roll, as do any other relevant bonuses gained from
+certain perks or items. You <em>may not</em> add effort to this roll.</p>
+<div class="formula formula-top formula-bottom">
+1d10 <span data-bracket-top="CON Modifier">+ CON</span>
+<span data-bracket-bottom="STR Modifier">+ STR</span>
+<span data-bracket-top="Morale">+ MOR</span>
+<span data-bracket-bottom="Other Boni">+ MISC</span>
+</div>
+
+<p>If the check fails you gain the difference between the DC and your roll as
+wounds. These wounds reduces your maximum hit points by that amount until
+treated. This effect stacks with all other wounds. Since your maximum hit
+points are reduced, this means that your death threshold is also at your new
+negative maximum hit points. If you reach zero maximum hit points because of
+wounds, you die.</p>
+<h3 id="treating-wounds">Treating Wounds<a class="headerlink" href="#treating-wounds" title="Permanent link">&para;</a></h3>
 <p>Treating wounds works the same way as recovering hit points. You use <em>Medicine</em>
 or <em>First Aid</em>, diagnose first and add any relevant bonuses to the treatment
 check. The DC is determined by the amount of wound points sustained. For
@@ -494,21 +494,16 @@ DC = <span data-bracket-bottom="Wound points suffered">wounds</span>
 <span data-bracket-top="penalty for self treatment">+ 2</span>
 </div>
 
-<h2 id="major-wounds">Major Wounds<a class="headerlink" href="#major-wounds" title="Permanent link">&para;</a></h2>
+<h3 id="major-wounds">Major Wounds<a class="headerlink" href="#major-wounds" title="Permanent link">&para;</a></h3>
 <p>If your maximum HP is reduced below one half of your normal HP through wounds
 you have suffered a <em>major wound</em>. Whenever you do any strenuous activity on a
-day, you must roll a constitution score against half your wound total. If you
-fail this check you gain another wound point.</p>
+day, you must roll a check against your half your wound total. If you fail
+this check you gain another wound point.</p>
 <p>If your maximum HP is reduced below one quarter of your normal HP through wounds
 you have suffered a <em>fatal wound</em>. For every day your maximum hit points is
-reduced below one quarter, you must make a constitution score against half
-the wound total. If you fail you gain another wound point.</p>
-<div class="formula formula-top formula-bottom">
-DC = <span data-bracket-bottom="Wound points suffered">
-<sup>wounds</sup>&frasl;<sub>2</sub></span>
-</div>
-
-<h2 id="wounding-effects">Wounding Effects<a class="headerlink" href="#wounding-effects" title="Permanent link">&para;</a></h2>
+reduced below one quarter, you must make another check against your wound total.
+If you fail you gain another wound point.</p>
+<h3 id="wounding-effects">Wounding Effects<a class="headerlink" href="#wounding-effects" title="Permanent link">&para;</a></h3>
 <p>Whenever your wound points reach a multiple of five (5, 10, 15 etc.) you gain
 one additional wounding effect. Roll ten sided dice against the table below to
 determine this adverse affect.</p>
@@ -570,28 +565,36 @@ what affect this has.</p>
 </tbody>
 </table>
 <p>These effects stack with each other. If you roll a ten nothing happens.</p>
-<h1 id="states">States<a class="headerlink" href="#states" title="Permanent link">&para;</a></h1>
-<p>A character can be afflicted by various states that alter his performance.</p>
-<h2 id="blinded">Blinded<a class="headerlink" href="#blinded" title="Permanent link">&para;</a></h2>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The Wounding Effects rule adds additional hurdle and lethality to the game.
+Game Masters should carefully consider this rule, before using it.</p>
+</div>
+<h2 id="states">States<a class="headerlink" href="#states" title="Permanent link">&para;</a></h2>
+<p>A character can be afflicted by various states that alter his performance. Game
+Masters should give out these states to players and NPCs, depending on the
+situation. Items or environmental effects may also apply these states to the
+players or NPCs.</p>
+<h3 id="blinded">Blinded<a class="headerlink" href="#blinded" title="Permanent link">&para;</a></h3>
 <p>A blinded character cannot use his perception in related skill checks, unless
 the character has another sense to orient himself, such as scent. A blinded
 character also takes another speed on all movements.</p>
-<h2 id="deafened">Deafened<a class="headerlink" href="#deafened" title="Permanent link">&para;</a></h2>
+<h3 id="deafened">Deafened<a class="headerlink" href="#deafened" title="Permanent link">&para;</a></h3>
 <p>A defeaned character also loses his perception in related skill checks. If
 a character is blinded and defeaned, the character is treated as having
 -4 in perception.</p>
-<h2 id="stunned">Stunned<a class="headerlink" href="#stunned" title="Permanent link">&para;</a></h2>
+<h3 id="stunned">Stunned<a class="headerlink" href="#stunned" title="Permanent link">&para;</a></h3>
 <p>A stunned character is unable to move for a given amount of rounds, and cannot
 do actions such as dodging, moving, jumping or running.</p>
-<h2 id="nauseated">Nauseated<a class="headerlink" href="#nauseated" title="Permanent link">&para;</a></h2>
+<h3 id="nauseated">Nauseated<a class="headerlink" href="#nauseated" title="Permanent link">&para;</a></h3>
 <p>A nauseated character takes -1 on all related skill checks.</p>
-<h2 id="sickened">Sickened<a class="headerlink" href="#sickened" title="Permanent link">&para;</a></h2>
+<h3 id="sickened">Sickened<a class="headerlink" href="#sickened" title="Permanent link">&para;</a></h3>
 <p>Depending on the sickness, the character gains a minus on all related skill
 checks, and incurs a wound that lowers his maximum hit points until the sickness
 is treated.</p>
 <p>Sicknesses can get worse, in which case the penalty and maximum hit point loss
 increase. See the details of the specific sickness for these values.</p>
-<h2 id="unconscious">Unconscious<a class="headerlink" href="#unconscious" title="Permanent link">&para;</a></h2>
+<h3 id="unconscious">Unconscious<a class="headerlink" href="#unconscious" title="Permanent link">&para;</a></h3>
 <p>An unconscious character is considered <em>still</em> and cannot take any actions. The
 character may fall to the ground <em>prone</em>. After he regains positive hit points,
 he awakens after a few minutes.</p>
