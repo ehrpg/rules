@@ -39,9 +39,10 @@ free action.
 
 # Movement
 
-A character can use his available speed points as part of an action to move
-about in the battle field. The general rule is that, for each point of speed
-available to the character he may move one metre.
+A character can use his available speed points to move about during combat.
+Movement always consumes one action, regardless of how many speed points are
+consumed. The general rule is that, for each point of speed available to the
+character he may move one metre.
 
 Certain actions use up more than speed points than others. See the table below
 to determine how many speed points are expended for various actions.
@@ -52,13 +53,14 @@ to determine how many speed points are expended for various actions.
 | Running    | 1 per two metres
 | Jumping    | 2 per metre
 | Jumping (running headstart) | 1 per metre
-| Crawling   | 2 per metre
+| Crouching  | 2 per metre
+| Crawling   | 3 per metre
 | Climbing   | 3 per metre
 | Changing combat stance | 1
 | Change stance from prone | 2
 
 When changing stance a character has to expend one speed point. If the character
-is _prone_ he has to expend two speed points to exchange stance.
+is _prone_ he has to expend two speed points to change stance.
 
 Any terrain that hinders a persons movement is considered _difficult terrain_.
 Such terrain doubles the amount of speed points needed for any sort of movement,
