@@ -53,3 +53,9 @@ pages:
     - Firearms: 'equipment/firearms.md'
     - Apparel: 'equipment/apparel.md'
     - Explosives: 'equipment/explosives.md'
+- NPCs:
+    - Overview: 'npcs/overview.md'
+    - Lawkeepers: 'npcs/lawkeepers.md'
+    - Pilots: 'npcs/pilots.md'
+    - Soldiers: 'npcs/soldiers.md'
+    - Thugs: 'npcs/thugs.md'
