@@ -15,7 +15,7 @@ common denominator, the following things are provided:
 
 - Modern fire arms and rules to use them.
 - Some vessels, small and large for space combat.
-- Rules for social interactions, including a more system.
+- Rules for social interactions, including a moral system.
 - Various skills and backgrounds.
 
 # Flexible
