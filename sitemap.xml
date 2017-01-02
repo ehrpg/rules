@@ -3,8 +3,8 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,60 +12,44 @@
     
         
     <url>
-     <loc>None/charactercreation/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/charactercreation/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/charactercreation/abilities/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/charactercreation/abilities/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/charactercreation/secondary/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>None/checks/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-        
-    <url>
-     <loc>None/skills/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/skills/skills/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/charactercreation/secondary/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     
 
     
+    <url>
+     <loc>/checks/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
         
     <url>
-     <loc>None/perks/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/skills/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/perks/perks/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/skills/skills/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -74,118 +58,14 @@
     
         
     <url>
-     <loc>None/backgrounds/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/perks/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/backgrounds/backgrounds/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/combat/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/combat/melee/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/combat/ranged/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/combat/thrown/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/combat/damage/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>None/injurydeath/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/environment/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/socialinteractions/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-        
-    <url>
-     <loc>None/vessels/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/vessels/modules/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/vessels/rooms/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/vessels/combat/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/vessels/equipment/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/vessels/small/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/vessels/medium/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/perks/perks/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -194,26 +74,14 @@
     
         
     <url>
-     <loc>None/equipment/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/backgrounds/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/equipment/firearms/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/equipment/apparel/</loc>
-     <lastmod>2016-10-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/equipment/explosives/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/backgrounds/backgrounds/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -222,32 +90,164 @@
     
         
     <url>
-     <loc>None/npcs/overview/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/combat/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/npcs/lawkeepers/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/combat/melee/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/npcs/pilots/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/combat/ranged/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/npcs/soldiers/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/combat/thrown/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/npcs/thugs/</loc>
-     <lastmod>2016-10-19</lastmod>
+     <loc>/combat/damage/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/injurydeath/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/environment/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/socialinteractions/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/vessels/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vessels/modules/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vessels/rooms/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vessels/combat/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vessels/equipment/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vessels/small/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vessels/medium/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/equipment/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/equipment/firearms/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/equipment/apparel/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/equipment/explosives/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/npcs/overview/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/npcs/lawkeepers/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/npcs/pilots/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/npcs/soldiers/</loc>
+     <lastmod>2017-01-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/npcs/thugs/</loc>
+     <lastmod>2017-01-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
