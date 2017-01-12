@@ -6,15 +6,15 @@ you will find the overview of the rules.
 # Scope
 
 The Endless Horizons system gives you the basic framework that is required to
-create a science fiction based pen and paper game. The rules are built to be
-easy to use, and can be extended and changed to your individual needs.
+create a science fiction based pen and paper game. The rules are designed to be
+easy to use, so that they can be extended and changed to your individual needs.
 
 Endless Horizons does not bring a default setting, and as such does not define
 races (except humans), factions, places or history. But to provide a basic
 common denominator, the following things are provided:
 
 - Modern fire arms and rules to use them.
-- Some vessels, small and large for space combat.
+- Exemplary vessels, small and large for sea, air, land and space combat.
 - Rules for social interactions, including a moral system.
 - Various skills and backgrounds.
 
@@ -43,4 +43,4 @@ Minions icon - <span class="author">by <a href="http://lorcblog.blogspot.com" re
 Jet Fighter icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
 Jeep icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
 UFO icon - <span>by <a href="http://delapouite.com" rel="author">Delapouite</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>
-At Sea icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br> 
+At Sea icon - <span class="author">by <a href="http://lorcblog.blogspot.com" rel="author">Lorc</a> under <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">CC BY 3.0</a></span><br>

@@ -69,7 +69,7 @@
 }
 
 [class*='ehicon-'] {
-  padding-right: 5px;
+  margin-right: 5px;
   color: #404040;
 }
 
@@ -80,4 +80,14 @@
 .toctree-l4:before {
   content: " — ";
   padding: 0 5px;
+}
+
+img.ehicon {
+  display: inline-block;
+  border-radius: 3px;
+  height: 1em !important;
+}
+
+img.ehicon-2x {
+  height: 2em !important;
 }

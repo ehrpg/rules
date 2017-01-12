@@ -11,6 +11,7 @@ extra_css:
 
 markdown_extensions:
   - admonition
+  - attr_list
   - smarty
   - toc:
       permalink: True
@@ -21,7 +22,10 @@ pages:
     - Overview: 'charactercreation/overview.md'
     - Abilities: 'charactercreation/abilities.md'
     - Secondary Abilities: 'charactercreation/secondary.md'
-- Checks and Difficulties: 'checks.md'
+- Playing the Game:
+    - Checks and Difficulties: 'playing/checks.md'
+    - Social Interactions: 'playing/socialinteractions.md'
+    - Injury and Death: 'playing/injurydeath.md'
 - Skills:
     - Overview: 'skills/overview.md'
     - Available Skills: 'skills/skills.md'
@@ -37,9 +41,7 @@ pages:
     - Ranged Combat: 'combat/ranged.md'
     - Thrown Weapons: 'combat/thrown.md'
     - 'combat/damage.md'
-- Injury and Death: 'injurydeath.md'
 - Environmental Hazards: 'environment.md'
-- Social Interactions: 'socialinteractions.md'
 - Vessels:
     - Overview: 'vessels/overview.md'
     - Modules: 'vessels/modules.md'

@@ -207,9 +207,9 @@ character also takes another speed on all movements.
 
 ### Deafened
 
-A defeaned character also loses his perception in related skill checks. If
-a character is blinded and defeaned, the character is treated as having
--4 in perception.
+A defeaned character also loses his perception in related skill checks. If a
+character is blinded and defeaned, the character is treated as having -4 in
+perception.
 
 ### Stunned
 

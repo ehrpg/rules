@@ -5,7 +5,7 @@
 You have had ties to organized crime in the past. Be it as a soldier
 or associate in the Mafia, hired hitman, large arms dealer or leader
 of a local drug operation. You know how to lead or command a small
-group of subordinates, but also how to ``take care'' of your enemies.
+group of subordinates, but also how to "take care" of your enemies.
 
 This background costs 30 _CCP_.
 

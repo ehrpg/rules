@@ -1,14 +1,14 @@
 # Secondary Abilities
 
 Apart from the primary abilities, your character also has a set of secondary
-abilities. These derive from your the ones above, and also change accordingly
-as they increase or are lowered.
+abilities. These derive from your abilities, and also change accordingly as they
+increase or decrease.
 
 ## Hit Points
 
 Hit Points (HP) are an abstraction of your characters physical well being and
 remaining health. As your character takes damage he or she loses hit points.
-If your character reaches the negative value of your maximum hit points your
+If your character reaches the negative value of it's maximum hit points your
 character is dead. Below zero hit points your character is usually negatively
 impacted, or even unconscious.
 
@@ -36,9 +36,9 @@ Speed = <span data-bracket-bottom="base">5</span>
 
 ## Effort
 
-Effort a pool the represents how much additional effort a character can put into
-tasks and skill checks. Applying effort means going above and beyond what the
-character is usually capable of doing, usually by pushing him or her to the
+Effort is a pool the represents how much additional effort a character can put
+into tasks and skill checks. Applying effort means going above and beyond what
+the character is usually capable of doing, usually by pushing him or her to the
 limit. It is determined by adding the modifier of strength and constitution
 together and multiplying them by two. This value is then added to the base of
 ten.
@@ -52,13 +52,13 @@ Effort = <span data-bracket-bottom="base">10</span> +
 Whenever you do a skill check, do movement using speed or try to damage someone
 in melee you can spend effort to boost that skill.
 
-Effort regenerates completly after a full rest of eight hours.
+Effort regenerates completely after a full rest of eight hours.
 
 ## Carrying Capacity
 
 The maximum weight a character can carry for a longer period of time is defined
 by adding the character's constitution and strength rank to 10. The result is
-the amount of kgs the character carry around with him.
+the amount of kgs (kilograms) the character can carry around with him.
 
 <div class="formula formula-top formula-bottom">
 Carrying Capacity = <span data-bracket-bottom="base">10</span>
