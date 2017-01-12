@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,43 +13,57 @@
         
     <url>
      <loc>/charactercreation/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/charactercreation/abilities/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/charactercreation/secondary/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     
 
     
+        
     <url>
-     <loc>/checks/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <loc>/playing/checks/</loc>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/playing/socialinteractions/</loc>
+     <lastmod>2017-01-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/playing/injurydeath/</loc>
+     <lastmod>2017-01-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
         
     <url>
      <loc>/skills/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/skills/skills/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -59,13 +73,13 @@
         
     <url>
      <loc>/perks/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/perks/perks/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -75,13 +89,13 @@
         
     <url>
      <loc>/backgrounds/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/backgrounds/backgrounds/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -91,31 +105,31 @@
         
     <url>
      <loc>/combat/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/combat/melee/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/combat/ranged/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/combat/thrown/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/combat/damage/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -123,24 +137,8 @@
 
     
     <url>
-     <loc>/injurydeath/</loc>
-     <lastmod>2017-01-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>/environment/</loc>
-     <lastmod>2017-01-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/socialinteractions/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -149,43 +147,43 @@
         
     <url>
      <loc>/vessels/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/vessels/modules/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/vessels/rooms/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/vessels/combat/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/vessels/equipment/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/vessels/small/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/vessels/medium/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -195,25 +193,25 @@
         
     <url>
      <loc>/equipment/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/equipment/firearms/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/equipment/apparel/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/equipment/explosives/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -223,31 +221,31 @@
         
     <url>
      <loc>/npcs/overview/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/npcs/lawkeepers/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/npcs/pilots/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/npcs/soldiers/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/npcs/thugs/</loc>
-     <lastmod>2017-01-02</lastmod>
+     <lastmod>2017-01-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
