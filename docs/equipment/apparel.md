@@ -36,15 +36,15 @@ slot_ and 2 _misc. slots_.
 
 ## Body Armour
 
-Body armour comes in many different shapes and sizes. The most common are metal
-plates that are inserted into what is called a "chest carrier". These plates
-then stop the bullets from entering and absorb some of the force of the bullet.
-The armour usually covers the most vital part of body (i.e. the chest and back)
-and come with a specific rating. If a specified calibre is stopped by the
-armour the target takes only half the bludgeoning damage instead. The rest of
-the damage is absorbed by the armour. Yet if the armour reaches zero hit points
-it stops being effective. If the bullet is not stopped by armour, both the
-armour and person being hit take equal amounts of damage.
+Body armour comes in many different shapes and sizes. The most common are
+metal plates that are inserted into what is called a "chest carrier". These
+plates then stop the bullets from entering and absorb the force of the bullet.
+The armour usually covers the most vital part of body (i.e. the chest and
+back) and come with a specific rating. If a specified calibre is stopped by
+the armour the target takes no damage. The damage is absorbed by the armour
+instead. Yet if the armour reaches zero hit points it stops being
+effective. If the bullet is not stopped by the armour, both the armour and the
+target being hit take equal amounts of damage.
 
 Armour is classified into various _tiers_ determining what kinds of threats
 it stops. Please see the calibres to see what kind of armour tier a specific
@@ -52,7 +52,7 @@ calibre penetrates. All armour is capable of defending a player from slashing
 damage from knives and other small blades or thrown weapons.
 
 All plates require a carrier. The kevlar vest has protection for both front
-and back (both for 40 hit points) and cannot be worn in combination with a
+and back (each for 40 hit points) and cannot be worn in combination with a
 chest carrier, except for the FREJ MK I tactical vest (see below). You also
 cannot carry more than one tactical vest, plate carrier or kevlar armour on
 the torso at the same time.
@@ -135,4 +135,3 @@ cold and heat (between -20 degrees and +40 degrees).
 | SEVA MK II | 2            | 10       | 6   | 8     | 5      | 1500   | 7.5kg  | NV
 | SKAT-9     | 4            | 10       | 6   | 8     | 4      | 3500   | 8.0kg  | NV, TI
 | SKAT-9M    | 4            | 12       | 6   | 6     | 2      | 5000   | 9.0kg  | NV, TI, MT
-

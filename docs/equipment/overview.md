@@ -11,11 +11,11 @@ slash or try stab the opponent).
 
 | Name              | Damage | Cost  | Notes         | Weight
 | ----------------- | ------ | ----- | ------------- | --------
-| Knife             | 2d8    | 100   | Combat knife  | 0.3kg
-| Sword             | 3d8    | 200   |               | 1.5kg
-| Baton             | 2d8    | 150   | Deals bludgeoning damage | 0.5kg
-| Throwing Knife    | 2d6    | 50    | Can be thrown, 20m effective range | 0.2kg
-| Throwing Axe      | 2d6    | 50    | Can be thrown, 20m effective range | 0.2kg
+| Knife             | 10     | 100   | Combat knife  | 0.3kg
+| Sword             | 14     | 200   |               | 1.5kg
+| Baton             | 10     | 150   | Deals bludgeoning damage | 0.5kg
+| Throwing Knife    | 8      | 50    | Can be thrown, 20m effective range | 0.2kg
+| Throwing Axe      | 8      | 50    | Can be thrown, 20m effective range | 0.2kg
 
 Armour does protect against knife and sword slashes, and every metal plate
 also stops the blade from piercing into the body. Kevlar however cannot stop
