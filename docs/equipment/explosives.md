@@ -9,16 +9,16 @@ of five metres (5m) in which any unprotected target is effectively killed, and
 a _casualty range_ of 15 metres in which targets are damaged enough to
 render them harmless. Below 15 metres the grenade does normal damage, and
 beyond that range it does half. If sturdy enough cover is available remove
-the piercing damage, as it represents the flying shrapnel.
+half of the damage, as it represents the flying shrapnel.
 
 Most hand grenades come with a pin that has to be pulled in order to arm the
 grenade. Once thrown the lever detaches lighting the fuse. Most fuses range
 between four and six seconds.
 
-| Name       | Damage                       | Cost | Weight | Range |
-| ---------- | ---------------------------- | ---- | ------ | ----- |
-| F1 Grenade | 6d6 piercing/6d6 bludgeoning | 250  | 0.6kg  | 30m   |
-| M67        | 6d6 piercing/6d6 bludgeoning | 250  | 0.8kg  | 30m   |
+| Name       | Damage       | Cost | Weight | Range |
+| ---------- | ------------ | ---- | ------ | ----- |
+| F1 Grenade | 42           | 250  | 0.6kg  | 30m   |
+| M67        | 42           | 250  | 0.8kg  | 30m   |
 
 ## Nonlethal Grenades
 
@@ -34,9 +34,9 @@ actions.
 
 | Name               | Note                                                  | Cost | Weight | Range |
 | ------------------ | ----------------------------------------------------- | ---- | ------ | ----- |
-| Stun grenade       | Applies _blinded_ and _deafened_ for 2d4 actions.     | 300  | 0.7kg  | 30m   |
+| Stun grenade       | Applies _blinded_ and _deafened_ for 4 actions.       | 300  | 0.7kg  | 30m   |
 | Smoke grenade      | Blocks line of sight, except thermal imaging.         | 200  | 0.5kg  | 30m   |
-| Sting ball grenade | Applies _stunned_ for 2d4 actions.                    | 300  | 0.8kg  | 30m   |
+| Sting ball grenade | Applies _stunned_ for 4 actions.                      | 300  | 0.8kg  | 30m   |
 
 ## Anti Vehicle Weapons
 
@@ -58,8 +58,8 @@ Some of these weapons require careful handling as they could be potentially
 dangerous to one owns health if used improperly. Some have a considerable and
 dangerous back blast that could kill anyone standing behind the shooter when the
 weapon is fired. The lethal range of such a _backblast_ is usually given in
-metres. Beyound that range anyone caught with the back blast takes _2d6_
-force and _2d6_ fire damage up until double the _backblast_ range.
+metres. Beyound that range anyone caught with the back blast takes _8_
+force and _8_ fire damage up until double the _backblast_ range.
 Weapons with a _backblast_ are safe to fire from enclosed spaces as long
 as a leeway of roughly 3 metres is given behind the shooter.
 
@@ -71,13 +71,13 @@ armour rating this round can penetrate.
 
 | Name   | Cost | Weight | Range | Recoil | Notes                     |
 | ------ | ---- | ------ | ----- | ------ | ------------------------- |
-| RPG-7  | 8500 | 7.5 kg | 300m  | 0      | Backblast 40m, Reloadable |
-| Pzf. 3 | 9000 | 6.0 kg | 300m  | 0      | Backblast 40m, Reloadable |
+| RPG-7  | 8500 | 7.5 kg | 300m  | 0      | Backblast 20m, Reloadable |
+| Pzf. 3 | 9000 | 6.0 kg | 300m  | 0      | Backblast 20m, Reloadable |
 
-| Name     | Cost | Weight | Radius | Used By | Damage | Penetration           |
-| -------- | ---- | ------ | ------ | ------- | ------ | --------------------- |
-| PG-7VL  | 1000 | 2.0 kg | 5m     | RPG-7  | 6d6 bludgeoning  | Penetrates Vessel Armour MK I
-| PG-7VR  | 1500 | 3.2 kg | 5m     | RPG-7  | 6d6 bludgeoning  | Penetrates Vessel Armour MK II
-| OG-7V   | 900  | 1.5 kg | 30m    | RPG-7  | 6d6 piercing and 6d6 bludgeoning | None. Anti-personnel. |
-| Pzf 3    | 1000 | 2.1 kg | 5m     | Pzf. 3  | 6d6 bludgeoning | Penetrates Vessel Armour MK I
-| Pzf 3 IT | 1500 | 3.2 kg | 5m     | Pzf. 3  | 6d6 bludgeoning | Penetrates Vessel Armour MK II
+| Name     | Cost | Weight | Radius | Used By | Damage | Penetration
+| -------- | ---- | ------ | ------ | ------- | ------ | ---------------------
+| PG-7VL  | 1000 | 2.0 kg | 5m      | RPG-7  | 22 bludgeoning  | Penetrates Vessel Armour MK I
+| PG-7VR  | 1500 | 3.2 kg | 5m      | RPG-7  | 22 bludgeoning  | Penetrates Vessel Armour MK II
+| OG-7V   | 900  | 1.5 kg | 30m     | RPG-7  | 42              | Anti-personnel
+| Pzf 3    | 1000 | 2.1 kg | 5m     | Pzf. 3  | 22 bludgeoning | Penetrates Vessel Armour MK I
+| Pzf 3 IT | 1500 | 3.2 kg | 5m     | Pzf. 3  | 22 bludgeoning | Penetrates Vessel Armour MK II

@@ -47,73 +47,61 @@ as normal, sub sonic, tracer; and may come with different bullets (hollow
 point, armour penetrating steel tip). Down below is a list of cartridges that
 are currently available in _Endless Horizons_.
 
-Each bullet deals piercing and bludgeoning damage to a target. The piercing
-damage represents the wound canal, and the bludgeoning damage represents the
-kinetic energy transfer to internal organs and tissue.
+Each bullet deals flat damage to a target.
 
 The cost and weight is for the given amounts of rounds.
 
 ## Pistol Cartridges
 
+The cartridges 4.6x30, 5.7x28 and 9x21 have the same damage and penetration
+characteristics.
+
 | Cartridge  | Type | Damage    | Cost           | Weight | Notes
 | ---------- |----- | --------- | -------------- | ------ | ------------------
-| 9x18    | Normal  | 1d4/1d4   | 10 (50 Rnds.)  | 0.5kg  | Stopped by Class II
-|         | AP      | 1d4/1d4   | 15 (50 Rnds.)  | 0.6kg  | Stopped by Class III
-|         | HP      | 1d6/1d6   | 13 (50 Rnds.)  | 0.5kg  | Stopped by Class I
-| 9x19    | Normal  | 1d6/1d6   | 15 (50 Rnds.)  | 0.6kg  | Stopped by Class II
-|         | AP      | 1d6/1d8   | 20 (50 Rnds.)  | 0.7kg  | Stopped by Class III
-|         | HP      | 1d8/1d8   | 20 (50 Rnds.)  | 0.6kg  | Stopped by Class II
-| .45 ACP | Normal  | 1d8/1d8   | 23 (50 Rnds.)  | 1.0kg  | Stopped by Class II, Subsonic
-|         | AP      | 1d8/1d8   | 25 (50 Rnds.)  | 1.1kg  | Stopped by Class III
-|         | HP      | 2d4/2d4   | 25 (50 Rnds.)  | 1.0kg  | Stopped by Class II, Subsonic
-| 4.6x30  | Normal  | 2d4/2d4   | 40 (50 Rnds.)  | 0.4kg  | Stopped by Class III
-|         | AP      | 2d4/2d4   | 60 (50 Rnds.)  | 0.5kg  | Stopped by Class IV
-|         | HP      | 2d6/2d6   | 50 (50 Rnds.)  | 0.4kg  | Stopped by Class II
-| 5.7x28  | Normal  | 2d4/2d4   | 40 (50 Rnds.)  | 0.4kg  | Stopped by Class III
-|         | AP      | 2d4/2d4   | 60 (50 Rnds.)  | 0.5kg  | Stopped by Class IV
-|         | HP      | 2d6/2d6   | 50 (50 Rnds.)  | 0.4kg  | Stopped by Class II
-| 9x21    | Normal  | 2d4/2d4   | 40 (50 Rnds.)  | 0.4kg  | Stopped by Class III
-|         | AP      | 2d4/2d4   | 60 (50 Rnds.)  | 0.5kg  | Stopped by Class IV
-|         | HP      | 2d6/2d6   | 50 (50 Rnds.)  | 0.4kg  | Stopped by Class II
-| .44 Magnum| Normal| 2d4/2d4   | 30 (50 Rnds.)  | 0.8kg  | Stopped by Class II
+| 9x18    | Normal  | 5         | 10 (50 Rnds.)  | 0.5kg  | Stopped by Class II
+|         | AP      | 5         | 15 (50 Rnds.)  | 0.6kg  | Stopped by Class III
+|         | HP      | 8         | 13 (50 Rnds.)  | 0.5kg  | Stopped by Class I
+| 9x19    | Normal  | 8         | 15 (50 Rnds.)  | 0.6kg  | Stopped by Class II
+|         | AP      | 8         | 20 (50 Rnds.)  | 0.7kg  | Stopped by Class III
+|         | HP      | 10        | 20 (50 Rnds.)  | 0.6kg  | Stopped by Class II
+| .45 ACP | Normal  | 10        | 23 (50 Rnds.)  | 1.0kg  | Stopped by Class II, Subsonic
+|         | AP      | 10        | 25 (50 Rnds.)  | 1.1kg  | Stopped by Class III
+|         | HP      | 12        | 25 (50 Rnds.)  | 1.0kg  | Stopped by Class II, Subsonic
+| 4.6x30  | Normal  | 12        | 40 (50 Rnds.)  | 0.4kg  | Stopped by Class III
+| 5.7x28  | AP      | 12        | 60 (50 Rnds.)  | 0.5kg  | Stopped by Class IV
+| 9x21    | HP      | 14        | 50 (50 Rnds.)  | 0.4kg  | Stopped by Class II
+| .44 Magnum| Normal| 12        | 30 (50 Rnds.)  | 0.8kg  | Stopped by Class II
 
 
 ## Rifle Cartridges
 
+The cartridges 5.56x45 and 5.45x39 have the same damage and penetration
+characteristics. This also applies to 7.62x51 and 7.62x54 R; and the .50 BMG
+and the 12.7x108.
+
 | Cartridge | Type   | Damage    | Cost           | Weight | Notes
 | --------- | ------ | --------- | -------------- | ------ | ---------------------
-| 7.62x39   | Normal | 2d10/2d10 | 70 (30 Rnds.)  | 0.5kg  | Stopped by Class IV
-|           | AP     | 2d10/2d10 | 120 (30 Rnds.) | 0.6kg  | Stopped by Class V
-| 5.56x45   | Normal | 2d8/2d8   | 80 (30 Rnds.)  | 0.4kg  | Stopped by Class III
-|           | AP     | 2d8/2d8   | 100 (30 Rnds.) | 0.5kg  | Stopped by Class IV
-|           | HP     | 2d10/2d10 | 120 (30 Rnds.) | 0.4kg  | Stopped by Class III
-| 5.45x39   | Normal | 2d8/2d8   | 70 (30 Rnds.)  | 0.4kg  | Stopped by Class III
-|           | AP     | 2d8/2d8   | 90 (30 Rnds.)  | 0.5kg  | Stopped by Class IV
-|           | HP     | 2d10/2d10 | 110 (30 Rnds.) | 0.4kg  | Stopped by Class III
-| 9x39      | Normal | 2d10/2d10 | 110 (30 Rnds.) | 0.6kg  | Stopped by Class III, subsonic
-|           | AP     | 2d10/2d10 | 150 (30 Rnds.) | 0.6kg  | Stopped by Class IV, subsonic
-| 7.62x51   | Normal | 2d10/2d10 | 100 (20 Rnds.) | 0.5kg  | Stopped by Class IV
-|           | AP     | 2d10/2d10 | 130 (20 Rnds.) | 0.6kg  | Stopped by Class V
-|           | HP     | 3d6/3d6   | 150 (20 Rnds.) | 0.5kg  | Stopped by Class IV
-| 7.62x54   | Normal | 2d10/2d10 | 100 (20 Rnds.) | 0.5kg  | Stopped by Class IV
-|           | AP     | 2d10/2d10 | 130 (20 Rnds.) | 0.6kg  | Stopped by Class V
-|           | HP     | 3d6/3d6   | 150 (20 Rnds.) | 0.5kg  | Stopped by Class IV
-| .50 BMG   | Normal | 3d10/3d10 | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI, penetrates Vessel Armour MK I
-|           | AP     | 3d10/3d10 | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII, penetrates Vessel Armour MK I
-|           | HP     | 3d12/3d12 | 250 (10 Rnds.) | 1.1kg  | Stopped by Class VI
-|           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII, penetrates Vessel Armour MK I
-| 12.7x108  | Normal | 3d10/3d10 | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI, penetrates Vessel Armour MK I
-|           | AP     | 3d10/3d10 | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII, penetrates Vessel Armour MK I
-|           | HP     | 3d12/3d12 | 250 (10 Rnds.) | 1.1kg  | Stopped by Class VI
-|           | HEI/AP | 4d10/4d10 | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII, penetrates Vessel Armour MK I
+| 7.62x39   | Normal | 22        | 70 (30 Rnds.)  | 0.5kg  | Stopped by Class IV
+|           | AP     | 22        | 120 (30 Rnds.) | 0.6kg  | Stopped by Class V
+| 5.56x45   | Normal | 18        | 80 (30 Rnds.)  | 0.4kg  | Stopped by Class III
+| 5.45x39   | AP     | 18        | 100 (30 Rnds.) | 0.5kg  | Stopped by Class IV
+|           | HP     | 20        | 120 (30 Rnds.) | 0.4kg  | Stopped by Class III
+| 9x39      | Normal | 22        | 110 (30 Rnds.) | 0.6kg  | Stopped by Class III, subsonic
+|           | AP     | 22        | 150 (30 Rnds.) | 0.6kg  | Stopped by Class IV, subsonic
+| 7.62x51   | Normal | 24        | 100 (20 Rnds.) | 0.5kg  | Stopped by Class IV
+| 7.62x54 R | AP     | 24        | 130 (20 Rnds.) | 0.6kg  | Stopped by Class V
+|           | HP     | 26        | 150 (20 Rnds.) | 0.5kg  | Stopped by Class IV
+| .50 BMG   | Normal | 32        | 200 (10 Rnds.) | 1.1kg  | Stopped by Class VI, penetrates Vessel Armour MK I
+| 12.7x108  | AP     | 32        | 250 (10 Rnds.) | 1.2kg  | Stopped by Class VII, penetrates Vessel Armour MK I
+|           | HP     | 36        | 250 (10 Rnds.) | 1.1kg  | Stopped by Class VI
+|           | HEI/AP | 44        | 350 (10 Rnds.) | 1.3kg  | Stopped by Class VII, penetrates Vessel Armour MK I
 
 ## Shotgun Shells
 
 | Cartridge | Type     | Damage  | Cost           | Weight | Notes
 | --------- | -------- | ------- | -------------- | ------ | --------------------
-| 12G       | Buckshot | 4d4/1d4 | 20 (12 Shells) | 0.5kg  | Stopped by Class II
-|           | Slug     | 3d4/2d4 | 25 (12 Shells) | 0.6kg  | Stopped by Class III
-|           | Dart     | 3d4/3d4 | 30 (12 Shells) | 0.7kg  | Stopped by Class III
+| 12G       | Buckshot | 12      | 20 (12 Shells) | 0.5kg  | Stopped by Class II
+|           | Slug     | 15      | 25 (12 Shells) | 0.6kg  | Stopped by Class III
 
 # Pistols
 
