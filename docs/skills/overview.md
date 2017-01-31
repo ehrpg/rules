@@ -1,49 +1,80 @@
-# Overview
+When a character performs complex operations a skill is
+involved. Whether it be operating a vehicle, shooting a firearm,
+climbing a steep cliff or trying to convince another character or
+NPC.
 
-When a character performs complex operations a skill is involved, that your
-character has to learn first. Whether it be operating a vehicle, shooting a
-firearm, climbing a steep cliff or trying to convince another character or
-NPC. Each skill is associated with two abilities. If a skill check is made,
-a trained character can add the modifier of those abilities to his roll.
+## Abilities
 
-Some skills are special, as in they require a lot of effort to learn and use
-right, or require special materials, trainers or facilities to learn properly.
+Each skill is associated with two abilities. The abilities do not directly
+influence the difficulty set forth by the DM but give the player a slight
+advantage nonetheless. For example, a person with high strength may add
+his ability bonus to any damage he does in melee combat. See the skills
+description on what sort of bonuses are associated with having a positive
+or negative ability modifier.
 
-Each skill has a rank that goes from zero to ten. With zero meaning that the
-character has just learned the skill and cannot draw upon any experience when
-performing tasks. Ten represents absolute mastery.
+## Proficiency
 
-# Learning new skills
+Each skill has five grades of proficiency: untrained, trained, experienced,
+expert and mastered.
 
-Normal skills take one CCP to unlock, upon which the skill has a rank of
-zero. If the skill is a special skill, the unlock costs are ten CCP instead.
+Each person is considered _untrained_ within a given skill by default.
+This means that the character may roll one ten sided dice when
+attempting a skill check. Once he has actually learned the skill the
+character is considered _trained_. The character may add an additional
+ten sided dice to skill checks (to a total to 2d10). The difference between
+a _trained_ and _experienced_ character is having used the skill for years
+in real world scenarios. Such an _experienced_ character gains an
+additional ten sided dice (to a total of 3d10). The _expert_ has used
+and heavily trained this skill for years. Few match his expertise, and he
+may add an additional ten sided dice to his or her skill checks (to a
+total of 4d10). Above the experts are those who have truly _mastered_
+the skill. They are allowed to add an additional ten sided dice, to a
+total of 5d10.
 
-Once the skill is learned, rank increases can be bought with the same exact
-amount of CCP as the next rank. So to increase a skill from 3 to 4, you'd have
-to pay 4 CCP.
+| Skill rank | Dice   | CCP Cost
++------------+--------+----------
+| Untrained  | 1d10   |  -
+| Trained    | 2d10   |  5
+| Experienced| 3d10   | 10
+| Expert     | 4d10   | 15
+| Master     | 5d10   | 20
 
-# Using skills
+All skills are unlocked for the character at the _untrained_ stage by
+default. To advance the skill to the next level the character has to
+expend the given amount of CCP (see the table above).
 
-Each task, against which your skill is pitched against, has a base difficulty.
-If the base difficulty is at or below your skill level you may be able to
-perform the task without rolling your dice in come circumstances. This means
-that your character can perform this task given enough time and no adverse
-external influences.
+## Making a skill check
 
-For example, an avid shooter can always hit his target on his range, if he's
-rested and aims long enough. But this doesn't mean he can hit another target
-on the same distance as easy in the heat of combat, fatigued by days of
-fighting. As soon as external influences come into affect, you _have to roll_.
+The DM is responsible for defining which skill is to be used, and also
+has to set the difficulty of the check. The player then rolls the
+amount of dices granted to him and announces whether and how many
+successes he or she has.
 
-If you have unlocked a skill you make a skill check rolling a ten-sided dice,
-adding the appropriate ability modifiers, and adding the skill's rank.
+## Multiple checks
 
-If you have not unlocked the skill you simply roll a ten-sided dice and only
-add negative ability modifiers to the roll.
+More often than not the player wishes to achieve multiple things within
+one action of combat. For example the player might wish to jump down a
+ledge, and the immediately roll behind cover. Under normal circumstances
+these would be two actions, and thus two rolls of acrobatics. Should the
+player however have more than one dice available in the given skill, he
+or she may attempt more than one action at once in a single action.
 
-Skills that are marked as special need to be unlocked in order to be used.
+The player must state the intention of what he or she wishes to do, and
+the DM must specify whether this requires more than one action or not.
+A player may only attempt as many actions at once as he has dices
+available. For example a trained shooter may attempt to aim and shoot
+at the same time. The DM decides that this requires two successes and
+defines a _combined_ DC for both actions. Now the player has to roll all
+his or her dices and meet the number of required successes.
 
-When your result exceeds or is equal to the tasks difficulty (which is the base
-difficulty, plus any situational hindrances) you succeed. Please see tasks and
-_Checks and Difficulties_ for rules on calculating the DC, and causing minor,
-medium or major successes or failures.
+Example: Hannes wishes to aim and shoot at another NPC. Since his
+character is an experienced marksman. He has 3d10 available and thus
+wishes to do everything in one action. Since Hannes is also aiming the
+DM decides to lessen the difficulty from the initial 5 to 4 but requires
+two successes. Hannes now has to achieve two dice rolls of four or higher
+upon rolling his three ten sided dices to succeed.
+
+Doing more than one thing per action is optional. The player can also
+split up these tasks into multiple actions. However, a trained character
+can use this system to get more things done faster, and possibly provide
+him an edge over others that did not invest into those skills.
