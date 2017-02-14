@@ -25,7 +25,7 @@ make up the DC on the fly.
 
 All checks are made by rolling one or more ten sided dice (1d10). The
 amount of dice the player may roll depends on his rank in the given
-skill. If at least one of the rolled dice meet or exceed the
+skill. If at least one of the rolled dice meets or exceeds the
 difficulty set forth by the DM the check is successfull. A dice that
 meets the difficulty is called a success, and dice that fails to
 meet the difficulty is called a failure.
@@ -40,7 +40,7 @@ used by DM to grant additional bonuses to the player.
 When two players, or a player and an NPC, use their skills against
 each other, they are rolling in a contest.
 
-The person initaiting rolls all his available dices and keeps the
+The person initiating rolls all his available dices and keeps the
 highest. The person in the passive position then rolls all his dice
 attempting to beat the highest roll of the initiator. In case of a
 tie the passive side wins.
