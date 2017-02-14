@@ -40,8 +40,7 @@ ability increases stack with each other. Only the highest one applies.
 
 # Pick Skills
 
-Each skill your character wishes to learn has to be unlocked. Unlocking costs
-one, for normal skills, and then CCP for special skills. Special skills
-take longer to learn than other skills, or even require special training,
-teachers or a training facility. For example studying medicine takes years,
-and being a decent pilot requires training on a simulator for months.
+Each skill your character wishes to master has be trained. There are four
+stages of proficiency within each skill: untrained, trained, experienced,
+expert and master. Each character is free to pick and train skills as he or
+she pleases without restrictions.
