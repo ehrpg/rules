@@ -5,12 +5,22 @@ NPC.
 
 ## Abilities
 
-Each skill is associated with two abilities. The abilities do not directly
+Each skill is associated with one ability. The abilities do not directly
 influence the difficulty set forth by the DM but give the player a slight
 advantage nonetheless. For example, a person with high strength may add
 his ability bonus to any damage he does in melee combat. See the skills
 description on what sort of bonuses are associated with having a positive
 or negative ability modifier.
+
+Furthermore the ability modifier associated with a skill also determines
+how much effort you may apply to a given skill check. A modifier of zero,
+or below does not allow you use any effort in a skill check associated
+with that ability.
+
+For example, Jack the soldier has strength of 7 and intelligence of 4,
+with a +2 and -1 modifier respectively. He may expend two effort in a
+_melee combat_ skill check (which is based on strength), but cannot
+expend effort in a _medicine_ check (which is based on intelligence).
 
 ## Proficiency
 
@@ -78,3 +88,25 @@ Doing more than one thing per action is optional. The player can also
 split up these tasks into multiple actions. However, a trained character
 can use this system to get more things done faster, and possibly provide
 him an edge over others that did not invest into those skills.
+
+## Knowledge Skills
+
+Almost all skills allow you make knowledge checks. Here you don't actively
+perform the skill, but rather determine whether your character knows a
+specific information in regards to the specific skill. Knowledge roles
+always use intelligence instead of whatever main ability that skill is
+normally associated with. The player rolls to determine whether his character
+knows this information. A character can usually attempt this roll once
+per positive intelligence modifier, with a minimum of one roll.
+
+For example: Jack, a soldier, wishes to know what sorts of guns are usually
+mounted on a T-130 heavy tank, and whether they could be a dangered to
+his heavily armed landing ship. He rolls Heavy Weapons against a DC, but
+instead benefits from a high intelligence instead of perception.
+
+The game master should always allow a player character to learn about topics he
+or she doesn't know about. During down time it is always possible to learn
+new things by reading books, experimenting or by just asking the internet.
+Knowing, or not knowing, by the use of knowledge skills usually matters
+during action or combat. The T-130 will not wait until Jack has browsed the
+internet for the specifications of the T-130's main turrent gun.
